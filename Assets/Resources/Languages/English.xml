@@ -1,0 +1,368 @@
+<language>
+  <phrase key="back" text="BACK" />
+  <phrase key="best-score" text="Best score" />
+  <phrase key="bonus/skip" text="Tap to continue" />
+  <phrase key="booster/cant-chosen" text="Booster cannot be selected at this level" />
+  <phrase key="booster/choise" text="Choose booster" />
+  <phrase key="booster/item/extramoves/1message" text="Adding Moves!" />
+  <phrase key="booster/item/extramoves/description" text="5 additional moves at start" />
+  <phrase key="booster/item/extramoves/title" text="Extra Moves" />
+  <phrase key="booster/item/firework/1message" text="Choose a color, which should be cleared" />
+  <phrase key="booster/item/firework/description" text="Choose a color, which should be cleared" />
+  <phrase key="booster/item/firework/title" text="" />
+  <phrase key="booster/item/glove/1message" text="Push a chip to crush it" />
+  <phrase key="booster/item/glove/description" text="Take any fruit or damage the blocker!" />
+  <phrase key="booster/item/glove/title" text="Shovel" />
+  <phrase key="booster/item/paint/1message" text="Paint is being spilled!" />
+  <phrase key="booster/item/paint/description" text="It paints many chips in one color" />
+  <phrase key="booster/item/paint/title" text="Paint" />
+  <phrase key="booster/item/pearl/1message" text="Pearls are being added!" />
+  <phrase key="booster/item/pearl/description" text="Play a level with more Pearl chips" />
+  <phrase key="booster/item/pearl/title" text="Pearls" />
+  <phrase key="booster/item/surprise/1message" text="" />
+  <phrase key="booster/item/surprise/description" text="There is a booster inside, but nobody knows which one" />
+  <phrase key="booster/item/surprise/title" text="Surprise" />
+  <phrase key="booster/item/tornado/1message" text="Push a chip to shuffle them all" />
+  <phrase key="booster/item/tornado/description" text="Push a chip to shuffle them all" />
+  <phrase key="booster/item/tornado/mixing" text="They are being shuffled!" />
+  <phrase key="booster/item/tornado/title" text="" />
+  <phrase key="booster/skip" text="SKIP" />
+  <phrase key="booster/title" text="Choose a booster" />
+  <phrase key="buy-now" text="BUY NOW" />
+  <phrase key="cancel" text="Сancel" />
+  <phrase key="conflict/description" text="Which profile would you like to use? &lt;color=#FF7777FF&gt;Another one will be removed!&lt;/color&gt;&#xA;&#xA;{0}&#xA;&#xA;{1}" />
+  <phrase key="conflict/offline" text="Device" />
+  <phrase key="conflict/online" text="Cloud" />
+  <phrase key="conflict/title" text="Profiles Conflict" />
+  <phrase key="continue" text="CONTINUE" />
+  <phrase key="dialogue/tutorial1/speech1" text="Oh, who scattered these fruits?" />
+  <phrase key="dialogue/tutorial1/speech2" text="It must have been Tom. He has a very guilty look" />
+  <phrase key="dialogue/tutorial1/speech3" text="Hello, my friend! I'm Agnes. Help me to collect these fruits" />
+  <phrase key="dialogue/tutorial1/speech4" text="Make 3 fruits is a row to crush them" />
+  <phrase key="dialogue/tutorial1/speech5" text="You're doing fine! Keep it up!" />
+  <phrase key="dialogue/tutorial1/speech6" text="Collect the fruits of all colors. Then my grandma will not know anything!" />
+  <phrase key="dialogue/tutorial10/speech1" text="We climbed so high that some fruits are frozen!" />
+  <phrase key="dialogue/tutorial10/speech2" text="Crush the ice, and the new fruits will not be frozen!" />
+  <phrase key="dialogue/tutorial11/speech1" text="Also you can mix the bombs, enhancing their effect!" />
+  <phrase key="dialogue/tutorial11/speech2" text="When two bombs are nearby, click on one of them, then they will be mixed" />
+  <phrase key="dialogue/tutorial11/speech3" text="I'm falling in LOVE with this!" />
+  <phrase key="dialogue/tutorial2/speech1" text="Grandpa told me how to make a fruit bomb!" />
+  <phrase key="dialogue/tutorial2/speech2" text="We need to make 4 fruits in a row!" />
+  <phrase key="dialogue/tutorial2/speech3" text="You did it! Now let's try to explode it!" />
+  <phrase key="dialogue/tutorial2/speech4" text="Oh! I hope grandma doesn't find out about it!" />
+  <phrase key="dialogue/tutorial3/speech1" text="The best way to collect all fruits of one color is to explode a sparkling bomb!" />
+  <phrase key="dialogue/tutorial3/speech2" text="Let's try to make it. Make a row of 5 fruits!" />
+  <phrase key="dialogue/tutorial3/speech3" text="Nice! Now explode it!" />
+  <phrase key="dialogue/tutorial3/speech4" text="You have almost reached your goal!" />
+  <phrase key="dialogue/tutorial4/speech1" text="It turns out that the bombs can be mixed. Mixing them together makes their effect increases" />
+  <phrase key="dialogue/tutorial4/speech2" text="Try to mix these two bombs!" />
+  <phrase key="dialogue/tutorial4/speech3" text="Wow!" />
+  <phrase key="dialogue/tutorial4/speech4" text="Now these two..." />
+  <phrase key="dialogue/tutorial4/speech5" text="Don't miss a chance to mix some bombs!" />
+  <phrase key="dialogue/tutorial5/speech1" text="Look up! Some slots are covered with glass!" />
+  <phrase key="dialogue/tutorial5/speech2" text="Unfortunately you will not be able to complete this level until you clear all the slots..." />
+  <phrase key="dialogue/tutorial5/speech3" text="Crush the fruit over the glass, then it will crack!" />
+  <phrase key="dialogue/tutorial5/speech4" text="Excellent! Continue to do so until you clear the level of all the glass!" />
+  <phrase key="dialogue/tutorial6/speech1" text="When the night has coming, everybody play by my rules!" />
+  <phrase key="dialogue/tutorial6/speech2" text="When everything becomes dark, and the field becomes pink..." />
+  <phrase key="dialogue/tutorial6/speech3" text="You can't move the fruits anymore" />
+  <phrase key="dialogue/tutorial6/speech4" text="Draw a line of fruits of similar color, than they will disappear" />
+  <phrase key="dialogue/tutorial6/speech5" text="If the line is long enough, the field will be cleared of all similar fruits!" />
+  <phrase key="dialogue/tutorial6/speech6" text="Seven fruits will be enough for this kind of line" />
+  <phrase key="dialogue/tutorial6/speech7" text="You would be a great cat!" />
+  <phrase key="dialogue/tutorial6/speech8" text="Collect all necessary fruits to complete the level" />
+  <phrase key="dialogue/tutorial7/speech1" text="Look up! This is a mushroom!" />
+  <phrase key="dialogue/tutorial7/speech2" text="You need to remove all fruits below the mushroom, to collect it" />
+  <phrase key="dialogue/tutorial7/speech3" text="Perfect! Now collect all 4 mushrooms to complete the level" />
+  <phrase key="dialogue/tutorial8/speech1" text="The fruits can't fill the whole field. They're being blocked by the bread!" />
+  <phrase key="dialogue/tutorial8/speech2" text="Crush the fruits between the bread, it will crumble" />
+  <phrase key="dialogue/tutorial8/speech3" text="This looks much better!" />
+  <phrase key="dialogue/tutorial9/speech1" text="The green fields has a special rule!" />
+  <phrase key="dialogue/tutorial9/speech2" text="You need to push a fruit to crash it. Then it will crash all neighbouring fruits with the same color!" />
+  <phrase key="dialogue/tutorial9/speech3" text="Let's try!" />
+  <phrase key="dialogue/tutorial9/speech4" text="If you collect enough fruits, it will create a bomb. 5 fruits should be enough for a simple bomb&#xD;" />
+  <phrase key="dialogue/tutorial9/speech5" text="Great! Now push the bomb and it will explode!" />
+  <phrase key="dialogue/tutorial9/speech6" text="WOW! You learn quickly!" />
+  <phrase key="facebook/login" text="LOGIN" />
+  <phrase key="facebook/logout" text="LOGOUT" />
+  <phrase key="facebook/title" text="Facebook" />
+  <phrase key="full-of-lifes" text="FULL OF LIFES" />
+  <phrase key="heart-info/title" text="Keep playing!" />
+  <phrase key="heart-info/your-lives" text="your lives" />
+  <phrase key="id/coin" text="Gem" />
+  <phrase key="id/extramoves" text="Extra Moves" />
+  <phrase key="id/firework" text="Firework" />
+  <phrase key="id/glove" text="Shovel" />
+  <phrase key="id/life" text="Life" />
+  <phrase key="id/lifeslot" text="Slot for Life" />
+  <phrase key="id/paint" text="Paint" />
+  <phrase key="id/pearl" text="Pearl" />
+  <phrase key="id/spin" text="" />
+  <phrase key="id/surprise" text="Surprise" />
+  <phrase key="id/tornado" text="Tornado" />
+  <phrase key="item/coins1/description" text="" />
+  <phrase key="item/coins1/name" text="x5" />
+  <phrase key="item/coins2/description" text="" />
+  <phrase key="item/coins2/name" text="x30" />
+  <phrase key="item/coins3/description" text="" />
+  <phrase key="item/coins3/name" text="x100" />
+  <phrase key="item/coins4/description" text="" />
+  <phrase key="item/coins4/name" text="x300" />
+  <phrase key="item/coins5/description" text="" />
+  <phrase key="item/coins5/name" text="x30" />
+  <phrase key="item/coins-group/description" text="&#xD;Buy everything you like for gems" />
+  <phrase key="item/coins-group/name" text="Gems" />
+  <phrase key="item/extramoves1/description" text="" />
+  <phrase key="item/extramoves1/name" text="x1" />
+  <phrase key="item/extramoves2/description" text="" />
+  <phrase key="item/extramoves2/name" text="x8" />
+  <phrase key="item/extramoves3/description" text="" />
+  <phrase key="item/extramoves3/name" text="x30" />
+  <phrase key="item/extramoves-group/description" text="Five additional moves on level start" />
+  <phrase key="item/extramoves-group/name" text="Extra Moves Boosters" />
+  <phrase key="item/free-group/description" text="There's no free cheese in a mousetrap!" />
+  <phrase key="item/free-group/name" text="Free" />
+  <phrase key="item/glove1/description" text="" />
+  <phrase key="item/glove1/name" text="x1" />
+  <phrase key="item/glove2/description" text="" />
+  <phrase key="item/glove2/name" text="x8" />
+  <phrase key="item/glove3/description" text="" />
+  <phrase key="item/glove3/name" text="x30" />
+  <phrase key="item/glove-group/description" text="Use a shovel to crush a chip" />
+  <phrase key="item/glove-group/name" text="Shovel" />
+  <phrase key="item/infinitylife1/description" text="" />
+  <phrase key="item/infinitylife1/name" text="Free lives hour" />
+  <phrase key="item/infinitylife24/description" text="" />
+  <phrase key="item/infinitylife24/name" text="Free lives day" />
+  <phrase key="item/life6/description" text="" />
+  <phrase key="item/life6/name" text="6th Life" />
+  <phrase key="item/life7/description" text="" />
+  <phrase key="item/life7/name" text="7th Life" />
+  <phrase key="item/life8/description" text="" />
+  <phrase key="item/life8/name" text="8th Life" />
+  <phrase key="item/life-group/description" text="You need a life to be able to start a level" />
+  <phrase key="item/life-group/name" text="Lives" />
+  <phrase key="item/paint1/description" text="" />
+  <phrase key="item/paint1/name" text="x1" />
+  <phrase key="item/paint2/description" text="" />
+  <phrase key="item/paint2/name" text="x8" />
+  <phrase key="item/paint3/description" text=" " />
+  <phrase key="item/paint3/name" text="x30" />
+  <phrase key="item/paint-group/description" text="It paints many chips in one color" />
+  <phrase key="item/paint-group/name" text="Paint" />
+  <phrase key="item/pearls1/description" text="" />
+  <phrase key="item/pearls1/name" text="x1" />
+  <phrase key="item/pearls2/description" text="" />
+  <phrase key="item/pearls2/name" text="x8" />
+  <phrase key="item/pearls3/description" text="" />
+  <phrase key="item/pearls3/name" text="x30" />
+  <phrase key="item/pearls-group/description" text="This kind of chips doesn't have a color. It can be matched with any colored chips." />
+  <phrase key="item/pearls-group/name" text="Pearls" />
+  <phrase key="item/pig/description" text="Watch rewarded ads!" />
+  <phrase key="item/pig/name" text="Pig in a Poke" />
+  <phrase key="item/refuellife/description" text="" />
+  <phrase key="item/refuellife/name" text="Refuel" />
+  <phrase key="item/surpirse1/description" text="" />
+  <phrase key="item/surpirse1/name" text="x8" />
+  <phrase key="item/surpirse2/description" text="" />
+  <phrase key="item/surpirse2/name" text="x30" />
+  <phrase key="item/surpirse3/description" text="" />
+  <phrase key="item/surpirse3/name" text="x60" />
+  <phrase key="item/surprise-group/description" text="The boxes with random boosters" />
+  <phrase key="item/surprise-group/name" text="Surprises" />
+  <phrase key="level" text="Level {level}" />
+  <phrase key="level-complete" text="Level Complete!" />
+  <phrase key="loading" text="Loading..." />
+  <phrase key="map" text="MAP" />
+  <phrase key="moves-left" text="MOVES LEFT" />
+  <phrase key="new-life-in" text="NEW LIFE IN&#xA;{timer}" />
+  <phrase key="next" text="Next" />
+  <phrase key="no-lives/description" text="You will receive a new life in" />
+  <phrase key="no-lives/description-enough" text="You have enough lives to play" />
+  <phrase key="no-lives/title" text="NO LIVES" />
+  <phrase key="no-steps/give-up" text="Give up" />
+  <phrase key="no-steps/title" text="Almost there!" />
+  <phrase key="notifications/daily-message" text="It's time to try your luck in the Wheel of Fortune" />
+  <phrase key="notifications/daily-title" text="Daily Reward" />
+  <phrase key="notifications/i-miss-you-message1" text="We missed you!&#xA;" />
+  <phrase key="notifications/i-miss-you-message2" text="Agnes: Where have you gone?! We miss you..." />
+  <phrase key="notifications/i-miss-you-message3" text="Agnes: Help us to complete this level!" />
+  <phrase key="notifications/i-miss-you-title" text="Hey! Come back!" />
+  <phrase key="notifications/lives-message" text="Take a few minutes to enjoy it ♥" />
+  <phrase key="notifications/lives-title" text="Lives bar is full!" />
+  <phrase key="offline/cancel" text="Cancel" />
+  <phrase key="offline/description" text="You're not signed in your &lt;color=#AAAAFFFF&gt;Facebook&lt;/color&gt; account. If you want to continue, you need to sign in." />
+  <phrase key="offline/signin" text="Sign in" />
+  <phrase key="offline/title" text="Facebook" />
+  <phrase key="other/offline" text="OFFLINE" />
+  <phrase key="other/share" text="&lt;sprite name=&quot;IL_Share&quot;&gt;SHARE" />
+  <phrase key="pause" text="PAUSE" />
+  <phrase key="piginapoke/reward/back" text="Thank You" />
+  <phrase key="piginapoke/reward/title" text="Your Reward!" />
+  <phrase key="quit" text="Quit" />
+  <phrase key="rateit/description" text="If you enjoy playing this game, would you mind taking a moment to rate it? It won't take more than a minute. Thanks for your support!" />
+  <phrase key="rateit/later" text="LATER" />
+  <phrase key="rateit/no" text="NO" />
+  <phrase key="rateit/title" text="Take a moment!" />
+  <phrase key="rateit/yes" text="RATE IT" />
+  <phrase key="restart" text="Again" />
+  <phrase key="score" text="Score:" />
+  <phrase key="settings" text="Settings" />
+  <phrase key="settings/language" text="Language" />
+  <phrase key="settings/music" text="Music" />
+  <phrase key="settings/Privacy policy" text="Privacy Policy" />
+  <phrase key="settings/Privacy policy " text="" />
+  <phrase key="settings/sfx" text="SFX" />
+  <phrase key="settings/this-language" text="English" />
+  <phrase key="settings/title" text="SETTINGS" />
+  <phrase key="share/link-caption" text="I completed the {level} level with {score} score points" />
+  <phrase key="share/link-description" text="Try to bit it!" />
+  <phrase key="share/link-name" text="Ultimate Match-Three" />
+  <phrase key="soon/description" text="New levels will be avaliable pretty soon! Wait for new updates, but now leave a positive review in the app store. Thank you! :)" />
+  <phrase key="soon/leave-a-review" text="LEAVE A REVIEW" />
+  <phrase key="soon/level-button" text="Soon!" />
+  <phrase key="soon/title" text="Soon!" />
+  <phrase key="spin-wheel/daily/not-enough-spins" text="NOT ENOUGH SPINS" />
+  <phrase key="spin-wheel/daily/push" text="PUSH&#xA;TO&#xA;SPIN" />
+  <phrase key="spin-wheel/daily/title" text="Daily rewards" />
+  <phrase key="spin-wheel/rewarded/button" text="Watch" />
+  <phrase key="spin-wheel/rewarded/description" text="Watch video clips and get free spins" />
+  <phrase key="start" text="Play" />
+  <phrase key="store/button" text="STORE" />
+  <phrase key="store/title" text="Store" />
+  <phrase key="store/watch" text="Watch" />
+  <phrase key="you-lose/title" text="Failed!" />
+  <phrase key="you-win/title" text="VICTORY" />
+  <phrase key="id" text="" />
+  <phrase key="item/coins6/name" text="x5" />
+  <phrase key="item/coins6/description" text="" />
+  <phrase key="name-field/enter-your-name" text="Enter nickname..." />
+  <phrase key="item/starter-pack/name" text="Starter Pack" />
+  <phrase key="item/starter-pack/description" text="5 rainbow + 5 bomb + 5 gloves + 100 gems" />
+  <phrase key="item/premium/name" text="Premium" />
+  <phrase key="item/premium/description" text="Everything you need to enjoy game" />
+  <phrase key="item/jelly-combo/name" text="Jelly Combo" />
+  <phrase key="item/jelly-combo/description" text="3 rainbow + 3 bomb + 3 glove" />
+  <phrase key="item/packs/name" text="Packs" />
+  <phrase key="item/packs/description" text="Buy packages for a quick start" />
+  <phrase key="item/premium/icon0" text="2 Days" />
+  <phrase key="item/premium/icon1" text="30" />
+  <phrase key="item/premium/icon2" text="5" />
+  <phrase key="item/rainbow-group/name" text="Rainbow" />
+  <phrase key="item/rainbow-group/description" text="Rainbow explosion hits all chips with color that you choose" />
+  <phrase key="item/rainbow1/name" text="x1" />
+  <phrase key="item/rainbow1/description" text="" />
+  <phrase key="item/rainbow2/name" text="x8" />
+  <phrase key="item/rainbow2/description" text="" />
+  <phrase key="item/rainbow3/name" text="x30" />
+  <phrase key="item/rainbow3/description" text="" />
+  <phrase key="item/bomb-group/name" text="Jam" />
+  <phrase key="item/bomb1/name" text="x1" />
+  <phrase key="item/bomb2/name" text="x8" />
+  <phrase key="item/bomb3/name" text="x30" />
+  <phrase key="item/bomb-group/description" text="Can't find any good moves? Let jam explode something!" />
+  <phrase key="item/bomb1/description" text="" />
+  <phrase key="item/bomb2/description" text="" />
+  <phrase key="item/bomb3/description" text="" />
+  <phrase key="id/rainbow" text="Rainbow" />
+  <phrase key="id/bomb" text="Jam" />
+  <phrase key="id/adToken" text="Ad Token" />
+  <phrase key="id/multiplier" text="Piece of cake" />
+  <phrase key="item/cross-group/name" text="Stripped Chip" />
+  <phrase key="item/cross-group/description" text="Explode all line of chips!" />
+  <phrase key="item/multipliers/name" text="Piece of cake" />
+  <phrase key="item/multipliers/description" text="Piece of cake collect a lot of chips of target colors!" />
+  <phrase key="item/multiplier1/name" text="x1" />
+  <phrase key="item/multiplier1/description" text="" />
+  <phrase key="item/multiplier2/name" text="x8" />
+  <phrase key="item/multiplier3/name" text="x30" />
+  <phrase key="item/multiplier2/description" text="" />
+  <phrase key="item/multiplier3/description" text="" />
+  <phrase key="dialogue/tutorial2/cross_bomb" text="Four chips get Stripped chip!&#xA;For collect all line of chips!" />
+  <phrase key="dialogue/tutorial1/simple_chip" text="Collect 3 chips in a row to collect them!" />
+  <phrase key="dialogue/untitled/merge_cross_bomb" text="Merge two striped chips to get explosion on two lines!" />
+  <phrase key="dialogue/untitled/simple_bomb" text="Five chips at angle get Jam!&#xA;Jam collect chips around!" />
+  <phrase key="dialogue/untitled/glass" text="Collect chips under which the glass to break it!" />
+  <phrase key="dialogue/untitled/merge_simple_bomb" text="Merge two Jam for huge explosion!" />
+  <phrase key="dialogue/untitled/Merge_simple_cross_bomb" text="Merge Striped chip and Jam for a wide explosion on lines!" />
+  <phrase key="dialogue/untitled/sandwich" text="Collect chips next to Sandwich to eat it!" />
+  <phrase key="dialogue/untitled/Multiply" text="Piece of cake collect a lot of chips of target colors!" />
+  <phrase key="dialogue/untitled/merge_multiply_bomb" text="Merge piece of cake with Striped chip or Jam for multiple explosions!" />
+  <phrase key="dialogue/untitled/wall" text="Walls do not allow you to move the chips!" />
+  <phrase key="dialogue/untitled/rainbow" text="Five chips get Rainbow!&#xA;Merge with chip for collect all chips of same color!" />
+  <phrase key="dialogue/untitled/merge_rainbow_bomb" text="Merge Rainbow with Striped chip or Jam for huge number of explosions!" />
+  <phrase key="dialogue/untitled/merge_rainbow_multiply" text="Merge Rainbow and Piece of cake to collect al the targets chips!" />
+  <phrase key="dialogue/untitled/merge_rainbow" text="Merge two Rainbows and create an explosion that will collect all chips!" />
+  <phrase key="dialogue/untitled/water" text="At the end of turn, chip will sink in the water and will not be possible to collect it!" />
+  <phrase key="dialogue/untitled/teleport" text="Blue gate teleports chips to orange gate!" />
+  <phrase key="dialogue/untitled/ice" text="At the end of turn Ice freezes a random neighboring chip!" />
+  <phrase key="dialogue/untitled/mashroom" text="To collect Mushroom, you need to bring it to the end of field in the hole!" />
+  <phrase key="dialogue/untitled/lock" text="Lock blocks chip!&#xA;Destroy lock by matching it with chips!" />
+  <phrase key="ice-cream/title" text="Ice Creams" />
+  <phrase key="ice-cream/text" text="Great! There is something!&#xA;Complete complex levels to collect&#xA;ice-cream of complex and get a&#xA;juicy discount!" />
+  <phrase key="ice-cream/button" text="Nice" />
+  <phrase key="select-page/collect-this" text="Collect this:" />
+  <phrase key="starts-collectioneer/title" text="Stars Collectioneer" />
+  <phrase key="starts-collectioneer/description" text="Collect Stars and receive a fruit award!" />
+  <phrase key="id-description/multiplier" text="" />
+  <phrase key="id-description/bomb" text="Jam" />
+  <phrase key="id-description/rainbow" text="Rainbow" />
+  <phrase key="id-description/tornado" text="" />
+  <phrase key="id-description/extramoves" text="" />
+  <phrase key="id-description/glove" text="Take any fruit or damage the blocker!" />
+  <phrase key="id-description/paint" text="" />
+  <phrase key="id-description/pearl" text="" />
+  <phrase key="id-description/surprise" text="" />
+  <phrase key="id/knife" text="Knife" />
+  <phrase key="id-description/knife" text="Draw strips on any fruit and choose the direction of the charge!" />
+  <phrase key="booster/item/knife/title" text="Knife" />
+  <phrase key="booster/item/knife/description" text="Draw strips on any fruit and choose the direction of the charge!" />
+  <phrase key="item/knife/name" text="Knifes" />
+  <phrase key="item/knife/description" text="Draw strips on any fruit and choose the direction of the charge!" />
+  <phrase key="item/knife1/name" text="x1" />
+  <phrase key="item/knife1/description" text="" />
+  <phrase key="item/knife2/name" text="x8" />
+  <phrase key="item/knife2/description" text="" />
+  <phrase key="item/knife3/name" text="x30" />
+  <phrase key="item/knife3/description" text="" />
+  <phrase key="item/hands/name" text="Glove" />
+  <phrase key="item/hands/description" text="Swap 2 any fruit without losing your move!" />
+  <phrase key="item/hand1/name" text="x1" />
+  <phrase key="item/hand1/description" text="" />
+  <phrase key="item/hand2/name" text="x8" />
+  <phrase key="item/hand2/description" text="" />
+  <phrase key="item/hand3/name" text="x30" />
+  <phrase key="item/hand3/description" text="" />
+  <phrase key="item/pineapples/name" text="Pineapples" />
+  <phrase key="item/pineapples/description" text="Summon a delicious pineapple that will make a splash on the playing field by blowing up 3 jams." />
+  <phrase key="item/pineapple1/name" text="x1" />
+  <phrase key="item/pineapple1/description" text="" />
+  <phrase key="item/pineapple2/name" text="x8" />
+  <phrase key="item/pineapple2/description" text="" />
+  <phrase key="item/pineapple3/name" text="x30" />
+  <phrase key="item/pineapple3/description" text="" />
+  <phrase key="item/cake-group/name" text="Cakes" />
+  <phrase key="item/cake-group/description" text="Clear the playing field and free up 4 special exploding Jams" />
+  <phrase key="item/cake1/name" text="x1" />
+  <phrase key="item/cake1/description" text="" />
+  <phrase key="item/cake2/name" text="x8" />
+  <phrase key="item/cake2/description" text="" />
+  <phrase key="item/cake3/name" text="x30" />
+  <phrase key="item/cake3/description" text="" />
+  <phrase key="booster/item/hand/title" text="Glove" />
+  <phrase key="booster/item/hand/description" text="Swap 2 any fruit without losing your move!" />
+  <phrase key="booster/item/pineapple/title" text="Pineapple" />
+  <phrase key="booster/item/pineapple/description" text="Summon a delicious pineapple that will make a splash on the playing field by blowing up 3 jams." />
+  <phrase key="booster/item/cake/title" text="Cake" />
+  <phrase key="booster/item/cake/description" text="It's time to have fun! Reclaim the cake to clear the playing field and free up 4 special exploding Jams." />
+  <phrase key="booster/item/multiplier/title" text="Piece of cake" />
+  <phrase key="booster/item/multiplier/description" text="" />
+  <phrase key="id/cross" text="Stripped chip" />
+  <phrase key="id/cake" text="Cake" />
+  <phrase key="id-description/cake" text="Clear the playing field and free up 4 special exploding Jams" />
+  <phrase key="id-description/hand" text="Swap 2 any fruit without losing your move!" />
+  <phrase key="id-description/pineapple" text="Summon a delicious pineapple that will make a splash on the playing field by blowing up 3 jams." />
+  <phrase key="id/pineapple" text="Pineapple" />
+  <phrase key="id/hand" text="Glove" />
+  <phrase key="select-page/hard-level" text="Hard Level" />
+</language>

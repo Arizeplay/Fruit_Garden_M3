@@ -1,0 +1,1141 @@
+<level number="119" star1="36" star2="90" star3="99" deep="0" deepHeight="12" size="(9, 9)" path="">
+  <EasyLevelDesign type="MatchThreeSwap" bonus="AirstrikeBonus" color="4" moves="6" physic="Straight">
+    <parameters />
+    <goals>
+      <goal type="SandwichGoal" />
+    </goals>
+    <slots>
+      <slot position="(3, 1)">
+        <c name="UndeadBlocker" type="1" />
+      </slot>
+      <slot position="(3, 2)">
+        <c name="SimpleChip" type="0">
+          <p name="color" value="0" coord="(3, -1)" color="100"></p>
+        </c>
+      </slot>
+      <slot position="(3, 3)">
+        <c name="SimpleChip" type="0">
+          <p name="color" value="0" coord="(3, -1)" color="100"></p>
+        </c>
+      </slot>
+      <slot position="(4, 1)">
+        <c name="UndeadBlocker" type="1" />
+      </slot>
+      <slot position="(4, 2)">
+        <c name="SimpleChip" type="0">
+          <p name="color" value="0" coord="(3, -1)" color="100"></p>
+        </c>
+      </slot>
+      <slot position="(4, 3)">
+        <c name="SimpleChip" type="0">
+          <p name="color" value="0" coord="(3, -1)" color="100"></p>
+        </c>
+      </slot>
+      <slot position="(5, 1)">
+        <c name="UndeadBlocker" type="1" />
+      </slot>
+      <slot position="(5, 2)">
+        <c name="SimpleChip" type="0">
+          <p name="color" value="0" coord="(3, -1)" color="100"></p>
+        </c>
+      </slot>
+      <slot position="(5, 3)">
+        <c name="SimpleChip" type="0">
+          <p name="color" value="0" coord="(3, -1)" color="100"></p>
+        </c>
+      </slot>
+      <slot position="(6, 1)">
+        <c name="UndeadBlocker" type="1" />
+      </slot>
+      <slot position="(6, 2)">
+        <c name="SimpleChip" type="0">
+          <p name="color" value="0" coord="(3, -1)" color="100"></p>
+        </c>
+      </slot>
+      <slot position="(6, 3)">
+        <c name="SimpleChip" type="0">
+          <p name="color" value="0" coord="(3, -1)" color="100"></p>
+        </c>
+      </slot>
+      <slot position="(3, 4)">
+        <c name="SimpleChip" type="0">
+          <p name="color" value="0" coord="(3, -1)" color="100"></p>
+        </c>
+      </slot>
+      <slot position="(3, 5)">
+        <c name="SimpleChip" type="0">
+          <p name="color" value="0" coord="(3, -1)" color="2"></p>
+        </c>
+      </slot>
+      <slot position="(3, 6)">
+        <c name="SimpleChip" type="0">
+          <p name="color" value="0" coord="(3, -1)" color="2"></p>
+        </c>
+      </slot>
+      <slot position="(3, 7)">
+        <c name="SimpleChip" type="0">
+          <p name="color" value="0" coord="(3, -1)" color="0"></p>
+        </c>
+      </slot>
+      <slot position="(3, 8)">
+        <c name="Sandwich" type="1">
+          <p name="layer" value="3" coord="(3, -1)" color="100"></p>
+        </c>
+      </slot>
+      <slot position="(4, 4)">
+        <c name="SimpleChip" type="0">
+          <p name="color" value="0" coord="(3, -1)" color="100"></p>
+        </c>
+      </slot>
+      <slot position="(4, 5)">
+        <c name="SimpleChip" type="0">
+          <p name="color" value="0" coord="(3, -1)" color="1"></p>
+        </c>
+      </slot>
+      <slot position="(4, 6)">
+        <c name="SimpleChip" type="0">
+          <p name="color" value="0" coord="(3, -1)" color="3"></p>
+        </c>
+      </slot>
+      <slot position="(4, 7)">
+        <c name="SimpleChip" type="0">
+          <p name="color" value="0" coord="(3, -1)" color="0"></p>
+        </c>
+      </slot>
+      <slot position="(4, 8)">
+        <c name="Sandwich" type="1">
+          <p name="layer" value="2" coord="(3, -1)" color="100"></p>
+        </c>
+      </slot>
+      <slot position="(5, 4)">
+        <c name="SimpleChip" type="0">
+          <p name="color" value="0" coord="(3, -1)" color="2"></p>
+        </c>
+      </slot>
+      <slot position="(5, 5)">
+        <c name="SimpleChip" type="0">
+          <p name="color" value="0" coord="(3, -1)" color="0"></p>
+        </c>
+      </slot>
+      <slot position="(5, 6)">
+        <c name="SimpleChip" type="0">
+          <p name="color" value="0" coord="(3, -1)" color="0"></p>
+        </c>
+      </slot>
+      <slot position="(5, 7)">
+        <c name="SimpleChip" type="0">
+          <p name="color" value="0" coord="(3, -1)" color="1"></p>
+        </c>
+      </slot>
+      <slot position="(5, 8)">
+        <c name="Sandwich" type="1">
+          <p name="layer" value="2" coord="(3, -1)" color="100"></p>
+        </c>
+      </slot>
+      <slot position="(6, 4)">
+        <c name="SimpleChip" type="0">
+          <p name="color" value="0" coord="(3, -1)" color="100"></p>
+        </c>
+      </slot>
+      <slot position="(6, 5)">
+        <c name="SimpleChip" type="0">
+          <p name="color" value="0" coord="(3, -1)" color="1"></p>
+        </c>
+      </slot>
+      <slot position="(6, 6)">
+        <c name="SimpleChip" type="0">
+          <p name="color" value="0" coord="(3, -1)" color="2"></p>
+        </c>
+      </slot>
+      <slot position="(6, 7)">
+        <c name="SimpleChip" type="0">
+          <p name="color" value="0" coord="(3, -1)" color="0"></p>
+        </c>
+      </slot>
+      <slot position="(6, 8)">
+        <c name="Sandwich" type="1">
+          <p name="layer" value="3" coord="(3, -1)" color="100"></p>
+        </c>
+      </slot>
+      <slot position="(1, 3)">
+        <c name="GeneratorExtended" type="2">
+          <p name="case1" value="0" coord="(0, -2)" color="100">&lt;case name="HorizontalBomb" type="0"&gt;
+  &lt;p name="_weightCurve" value="0" coord="(0, 0)" color="100"&gt;
+    &lt;curve&gt;
+      &lt;key time="0" value="1" inTangent="0" outTangent="0" inWeight="0" outWeight="0" /&gt;
+      &lt;key time="1" value="1" inTangent="0" outTangent="0" inWeight="0" outWeight="0" /&gt;
+    &lt;/curve&gt;
+  &lt;/p&gt;
+  &lt;p name="color" value="0" coord="(0, 0)" color="100"&gt;&lt;/p&gt;
+&lt;/case&gt;</p>
+        </c>
+      </slot>
+      <slot position="(1, 4)">
+        <c name="UndeadBlocker" type="1" />
+      </slot>
+      <slot position="(1, 5)">
+        <c name="UndeadBlocker" type="1" />
+      </slot>
+      <slot position="(1, 6)">
+        <c name="UndeadBlocker" type="1" />
+      </slot>
+      <slot position="(1, 7)">
+        <c name="UndeadBlocker" type="1" />
+      </slot>
+      <slot position="(1, 8)">
+        <c name="UndeadBlocker" type="1" />
+      </slot>
+      <slot position="(1, 0)" />
+      <slot position="(3, 0)" />
+      <slot position="(4, 0)" />
+      <slot position="(5, 0)" />
+      <slot position="(6, 0)" />
+    </slots>
+    <bigObjects />
+    <startBoosters>
+      <startBooster startBooster="1_RinbowBooster" />
+      <startBooster startBooster="3_BombBooster" />
+      <startBooster startBooster="4_MultiplierBooster" />
+    </startBoosters>
+    <boosters>
+      <booster booster="1_RinbowBooster" />
+      <booster booster="2_GloveBooster" />
+      <booster booster="3_BombBooster" />
+    </boosters>
+  </EasyLevelDesign>
+  <NormalLevelDesign type="MatchThreeSwap" bonus="AirstrikeBonus" color="4" moves="6" physic="Straight">
+    <parameters />
+    <goals>
+      <goal type="SandwichGoal" />
+    </goals>
+    <slots>
+      <slot position="(3, 1)">
+        <c name="UndeadBlocker" type="1" />
+      </slot>
+      <slot position="(3, 2)">
+        <c name="SimpleChip" type="0">
+          <p name="color" value="0" coord="(3, -1)" color="100"></p>
+        </c>
+      </slot>
+      <slot position="(3, 3)">
+        <c name="SimpleChip" type="0">
+          <p name="color" value="0" coord="(3, -1)" color="100"></p>
+        </c>
+      </slot>
+      <slot position="(4, 1)">
+        <c name="UndeadBlocker" type="1" />
+      </slot>
+      <slot position="(4, 2)">
+        <c name="SimpleChip" type="0">
+          <p name="color" value="0" coord="(3, -1)" color="100"></p>
+        </c>
+      </slot>
+      <slot position="(4, 3)">
+        <c name="SimpleChip" type="0">
+          <p name="color" value="0" coord="(3, -1)" color="100"></p>
+        </c>
+      </slot>
+      <slot position="(5, 1)">
+        <c name="UndeadBlocker" type="1" />
+      </slot>
+      <slot position="(5, 2)">
+        <c name="SimpleChip" type="0">
+          <p name="color" value="0" coord="(3, -1)" color="100"></p>
+        </c>
+      </slot>
+      <slot position="(5, 3)">
+        <c name="SimpleChip" type="0">
+          <p name="color" value="0" coord="(3, -1)" color="100"></p>
+        </c>
+      </slot>
+      <slot position="(6, 1)">
+        <c name="UndeadBlocker" type="1" />
+      </slot>
+      <slot position="(6, 2)">
+        <c name="SimpleChip" type="0">
+          <p name="color" value="0" coord="(3, -1)" color="100"></p>
+        </c>
+      </slot>
+      <slot position="(6, 3)">
+        <c name="SimpleChip" type="0">
+          <p name="color" value="0" coord="(3, -1)" color="100"></p>
+        </c>
+      </slot>
+      <slot position="(3, 4)">
+        <c name="SimpleChip" type="0">
+          <p name="color" value="0" coord="(3, -1)" color="100"></p>
+        </c>
+      </slot>
+      <slot position="(3, 5)">
+        <c name="SimpleChip" type="0">
+          <p name="color" value="0" coord="(3, -1)" color="2"></p>
+        </c>
+      </slot>
+      <slot position="(3, 6)">
+        <c name="SimpleChip" type="0">
+          <p name="color" value="0" coord="(3, -1)" color="2"></p>
+        </c>
+      </slot>
+      <slot position="(3, 7)">
+        <c name="SimpleChip" type="0">
+          <p name="color" value="0" coord="(3, -1)" color="0"></p>
+        </c>
+      </slot>
+      <slot position="(3, 8)">
+        <c name="Sandwich" type="1">
+          <p name="layer" value="3" coord="(3, -1)" color="100"></p>
+        </c>
+      </slot>
+      <slot position="(4, 4)">
+        <c name="SimpleChip" type="0">
+          <p name="color" value="0" coord="(3, -1)" color="100"></p>
+        </c>
+      </slot>
+      <slot position="(4, 5)">
+        <c name="SimpleChip" type="0">
+          <p name="color" value="0" coord="(3, -1)" color="1"></p>
+        </c>
+      </slot>
+      <slot position="(4, 6)">
+        <c name="SimpleChip" type="0">
+          <p name="color" value="0" coord="(3, -1)" color="3"></p>
+        </c>
+      </slot>
+      <slot position="(4, 7)">
+        <c name="SimpleChip" type="0">
+          <p name="color" value="0" coord="(3, -1)" color="0"></p>
+        </c>
+      </slot>
+      <slot position="(4, 8)">
+        <c name="Sandwich" type="1">
+          <p name="layer" value="2" coord="(3, -1)" color="100"></p>
+        </c>
+      </slot>
+      <slot position="(5, 4)">
+        <c name="SimpleChip" type="0">
+          <p name="color" value="0" coord="(3, -1)" color="2"></p>
+        </c>
+      </slot>
+      <slot position="(5, 5)">
+        <c name="SimpleChip" type="0">
+          <p name="color" value="0" coord="(3, -1)" color="0"></p>
+        </c>
+      </slot>
+      <slot position="(5, 6)">
+        <c name="SimpleChip" type="0">
+          <p name="color" value="0" coord="(3, -1)" color="0"></p>
+        </c>
+      </slot>
+      <slot position="(5, 7)">
+        <c name="SimpleChip" type="0">
+          <p name="color" value="0" coord="(3, -1)" color="1"></p>
+        </c>
+      </slot>
+      <slot position="(5, 8)">
+        <c name="Sandwich" type="1">
+          <p name="layer" value="2" coord="(3, -1)" color="100"></p>
+        </c>
+      </slot>
+      <slot position="(6, 4)">
+        <c name="SimpleChip" type="0">
+          <p name="color" value="0" coord="(3, -1)" color="100"></p>
+        </c>
+      </slot>
+      <slot position="(6, 5)">
+        <c name="SimpleChip" type="0">
+          <p name="color" value="0" coord="(3, -1)" color="1"></p>
+        </c>
+      </slot>
+      <slot position="(6, 6)">
+        <c name="SimpleChip" type="0">
+          <p name="color" value="0" coord="(3, -1)" color="2"></p>
+        </c>
+      </slot>
+      <slot position="(6, 7)">
+        <c name="SimpleChip" type="0">
+          <p name="color" value="0" coord="(3, -1)" color="0"></p>
+        </c>
+      </slot>
+      <slot position="(6, 8)">
+        <c name="Sandwich" type="1">
+          <p name="layer" value="3" coord="(3, -1)" color="100"></p>
+        </c>
+      </slot>
+      <slot position="(1, 3)">
+        <c name="GeneratorExtended" type="2">
+          <p name="case1" value="0" coord="(0, -2)" color="100">&lt;case name="HorizontalBomb" type="0"&gt;
+  &lt;p name="_weightCurve" value="0" coord="(0, 0)" color="100"&gt;
+    &lt;curve&gt;
+      &lt;key time="0" value="1" inTangent="0" outTangent="0" inWeight="0" outWeight="0" /&gt;
+      &lt;key time="1" value="1" inTangent="0" outTangent="0" inWeight="0" outWeight="0" /&gt;
+    &lt;/curve&gt;
+  &lt;/p&gt;
+  &lt;p name="color" value="0" coord="(0, 0)" color="100"&gt;&lt;/p&gt;
+&lt;/case&gt;</p>
+        </c>
+      </slot>
+      <slot position="(1, 4)">
+        <c name="UndeadBlocker" type="1" />
+      </slot>
+      <slot position="(1, 5)">
+        <c name="UndeadBlocker" type="1" />
+      </slot>
+      <slot position="(1, 6)">
+        <c name="UndeadBlocker" type="1" />
+      </slot>
+      <slot position="(1, 7)">
+        <c name="UndeadBlocker" type="1" />
+      </slot>
+      <slot position="(1, 8)">
+        <c name="UndeadBlocker" type="1" />
+      </slot>
+      <slot position="(1, 0)" />
+      <slot position="(3, 0)" />
+      <slot position="(4, 0)" />
+      <slot position="(5, 0)" />
+      <slot position="(6, 0)" />
+    </slots>
+    <bigObjects />
+    <startBoosters>
+      <startBooster startBooster="1_RinbowBooster" />
+      <startBooster startBooster="3_BombBooster" />
+      <startBooster startBooster="4_MultiplierBooster" />
+    </startBoosters>
+    <boosters>
+      <booster booster="1_RinbowBooster" />
+      <booster booster="2_GloveBooster" />
+      <booster booster="3_BombBooster" />
+    </boosters>
+  </NormalLevelDesign>
+  <HardLevelDesign type="MatchThreeSwap" bonus="AirstrikeBonus" color="4" moves="6" physic="Straight">
+    <parameters />
+    <goals>
+      <goal type="SandwichGoal" />
+    </goals>
+    <slots>
+      <slot position="(3, 1)">
+        <c name="UndeadBlocker" type="1" />
+      </slot>
+      <slot position="(3, 2)">
+        <c name="SimpleChip" type="0">
+          <p name="color" value="0" coord="(3, -1)" color="100"></p>
+        </c>
+      </slot>
+      <slot position="(3, 3)">
+        <c name="SimpleChip" type="0">
+          <p name="color" value="0" coord="(3, -1)" color="100"></p>
+        </c>
+      </slot>
+      <slot position="(4, 1)">
+        <c name="UndeadBlocker" type="1" />
+      </slot>
+      <slot position="(4, 2)">
+        <c name="SimpleChip" type="0">
+          <p name="color" value="0" coord="(3, -1)" color="100"></p>
+        </c>
+      </slot>
+      <slot position="(4, 3)">
+        <c name="SimpleChip" type="0">
+          <p name="color" value="0" coord="(3, -1)" color="100"></p>
+        </c>
+      </slot>
+      <slot position="(5, 1)">
+        <c name="UndeadBlocker" type="1" />
+      </slot>
+      <slot position="(5, 2)">
+        <c name="SimpleChip" type="0">
+          <p name="color" value="0" coord="(3, -1)" color="100"></p>
+        </c>
+      </slot>
+      <slot position="(5, 3)">
+        <c name="SimpleChip" type="0">
+          <p name="color" value="0" coord="(3, -1)" color="100"></p>
+        </c>
+      </slot>
+      <slot position="(6, 1)">
+        <c name="UndeadBlocker" type="1" />
+      </slot>
+      <slot position="(6, 2)">
+        <c name="SimpleChip" type="0">
+          <p name="color" value="0" coord="(3, -1)" color="100"></p>
+        </c>
+      </slot>
+      <slot position="(6, 3)">
+        <c name="SimpleChip" type="0">
+          <p name="color" value="0" coord="(3, -1)" color="100"></p>
+        </c>
+      </slot>
+      <slot position="(3, 4)">
+        <c name="SimpleChip" type="0">
+          <p name="color" value="0" coord="(3, -1)" color="100"></p>
+        </c>
+      </slot>
+      <slot position="(3, 5)">
+        <c name="SimpleChip" type="0">
+          <p name="color" value="0" coord="(3, -1)" color="2"></p>
+        </c>
+      </slot>
+      <slot position="(3, 6)">
+        <c name="SimpleChip" type="0">
+          <p name="color" value="0" coord="(3, -1)" color="2"></p>
+        </c>
+      </slot>
+      <slot position="(3, 7)">
+        <c name="SimpleChip" type="0">
+          <p name="color" value="0" coord="(3, -1)" color="0"></p>
+        </c>
+      </slot>
+      <slot position="(3, 8)">
+        <c name="Sandwich" type="1">
+          <p name="layer" value="3" coord="(3, -1)" color="100"></p>
+        </c>
+      </slot>
+      <slot position="(4, 4)">
+        <c name="SimpleChip" type="0">
+          <p name="color" value="0" coord="(3, -1)" color="100"></p>
+        </c>
+      </slot>
+      <slot position="(4, 5)">
+        <c name="SimpleChip" type="0">
+          <p name="color" value="0" coord="(3, -1)" color="1"></p>
+        </c>
+      </slot>
+      <slot position="(4, 6)">
+        <c name="SimpleChip" type="0">
+          <p name="color" value="0" coord="(3, -1)" color="3"></p>
+        </c>
+      </slot>
+      <slot position="(4, 7)">
+        <c name="SimpleChip" type="0">
+          <p name="color" value="0" coord="(3, -1)" color="0"></p>
+        </c>
+      </slot>
+      <slot position="(4, 8)">
+        <c name="Sandwich" type="1">
+          <p name="layer" value="2" coord="(3, -1)" color="100"></p>
+        </c>
+      </slot>
+      <slot position="(5, 4)">
+        <c name="SimpleChip" type="0">
+          <p name="color" value="0" coord="(3, -1)" color="2"></p>
+        </c>
+      </slot>
+      <slot position="(5, 5)">
+        <c name="SimpleChip" type="0">
+          <p name="color" value="0" coord="(3, -1)" color="0"></p>
+        </c>
+      </slot>
+      <slot position="(5, 6)">
+        <c name="SimpleChip" type="0">
+          <p name="color" value="0" coord="(3, -1)" color="0"></p>
+        </c>
+      </slot>
+      <slot position="(5, 7)">
+        <c name="SimpleChip" type="0">
+          <p name="color" value="0" coord="(3, -1)" color="1"></p>
+        </c>
+      </slot>
+      <slot position="(5, 8)">
+        <c name="Sandwich" type="1">
+          <p name="layer" value="2" coord="(3, -1)" color="100"></p>
+        </c>
+      </slot>
+      <slot position="(6, 4)">
+        <c name="SimpleChip" type="0">
+          <p name="color" value="0" coord="(3, -1)" color="100"></p>
+        </c>
+      </slot>
+      <slot position="(6, 5)">
+        <c name="SimpleChip" type="0">
+          <p name="color" value="0" coord="(3, -1)" color="1"></p>
+        </c>
+      </slot>
+      <slot position="(6, 6)">
+        <c name="SimpleChip" type="0">
+          <p name="color" value="0" coord="(3, -1)" color="2"></p>
+        </c>
+      </slot>
+      <slot position="(6, 7)">
+        <c name="SimpleChip" type="0">
+          <p name="color" value="0" coord="(3, -1)" color="0"></p>
+        </c>
+      </slot>
+      <slot position="(6, 8)">
+        <c name="Sandwich" type="1">
+          <p name="layer" value="3" coord="(3, -1)" color="100"></p>
+        </c>
+      </slot>
+      <slot position="(1, 3)">
+        <c name="GeneratorExtended" type="2">
+          <p name="case1" value="0" coord="(0, -2)" color="100">&lt;case name="HorizontalBomb" type="0"&gt;
+  &lt;p name="_weightCurve" value="0" coord="(0, 0)" color="100"&gt;
+    &lt;curve&gt;
+      &lt;key time="0" value="1" inTangent="0" outTangent="0" inWeight="0" outWeight="0" /&gt;
+      &lt;key time="1" value="1" inTangent="0" outTangent="0" inWeight="0" outWeight="0" /&gt;
+    &lt;/curve&gt;
+  &lt;/p&gt;
+  &lt;p name="color" value="0" coord="(0, 0)" color="100"&gt;&lt;/p&gt;
+&lt;/case&gt;</p>
+        </c>
+      </slot>
+      <slot position="(1, 4)">
+        <c name="UndeadBlocker" type="1" />
+      </slot>
+      <slot position="(1, 5)">
+        <c name="UndeadBlocker" type="1" />
+      </slot>
+      <slot position="(1, 6)">
+        <c name="UndeadBlocker" type="1" />
+      </slot>
+      <slot position="(1, 7)">
+        <c name="UndeadBlocker" type="1" />
+      </slot>
+      <slot position="(1, 8)">
+        <c name="UndeadBlocker" type="1" />
+      </slot>
+      <slot position="(1, 0)" />
+      <slot position="(3, 0)" />
+      <slot position="(4, 0)" />
+      <slot position="(5, 0)" />
+      <slot position="(6, 0)" />
+    </slots>
+    <bigObjects />
+    <startBoosters>
+      <startBooster startBooster="1_RinbowBooster" />
+      <startBooster startBooster="3_BombBooster" />
+      <startBooster startBooster="4_MultiplierBooster" />
+    </startBoosters>
+    <boosters>
+      <booster booster="1_RinbowBooster" />
+      <booster booster="2_GloveBooster" />
+      <booster booster="3_BombBooster" />
+    </boosters>
+  </HardLevelDesign>
+  <InfernoLevelDesign type="MatchThreeSwap" bonus="AirstrikeBonus" color="4" moves="6" physic="Straight">
+    <parameters />
+    <goals>
+      <goal type="SandwichGoal" />
+    </goals>
+    <slots>
+      <slot position="(3, 1)">
+        <c name="UndeadBlocker" type="1" />
+      </slot>
+      <slot position="(3, 2)">
+        <c name="SimpleChip" type="0">
+          <p name="color" value="0" coord="(3, -1)" color="100"></p>
+        </c>
+      </slot>
+      <slot position="(3, 3)">
+        <c name="SimpleChip" type="0">
+          <p name="color" value="0" coord="(3, -1)" color="100"></p>
+        </c>
+      </slot>
+      <slot position="(4, 1)">
+        <c name="UndeadBlocker" type="1" />
+      </slot>
+      <slot position="(4, 2)">
+        <c name="SimpleChip" type="0">
+          <p name="color" value="0" coord="(3, -1)" color="100"></p>
+        </c>
+      </slot>
+      <slot position="(4, 3)">
+        <c name="SimpleChip" type="0">
+          <p name="color" value="0" coord="(3, -1)" color="100"></p>
+        </c>
+      </slot>
+      <slot position="(5, 1)">
+        <c name="UndeadBlocker" type="1" />
+      </slot>
+      <slot position="(5, 2)">
+        <c name="SimpleChip" type="0">
+          <p name="color" value="0" coord="(3, -1)" color="100"></p>
+        </c>
+      </slot>
+      <slot position="(5, 3)">
+        <c name="SimpleChip" type="0">
+          <p name="color" value="0" coord="(3, -1)" color="100"></p>
+        </c>
+      </slot>
+      <slot position="(6, 1)">
+        <c name="UndeadBlocker" type="1" />
+      </slot>
+      <slot position="(6, 2)">
+        <c name="SimpleChip" type="0">
+          <p name="color" value="0" coord="(3, -1)" color="100"></p>
+        </c>
+      </slot>
+      <slot position="(6, 3)">
+        <c name="SimpleChip" type="0">
+          <p name="color" value="0" coord="(3, -1)" color="100"></p>
+        </c>
+      </slot>
+      <slot position="(3, 4)">
+        <c name="SimpleChip" type="0">
+          <p name="color" value="0" coord="(3, -1)" color="100"></p>
+        </c>
+      </slot>
+      <slot position="(3, 5)">
+        <c name="SimpleChip" type="0">
+          <p name="color" value="0" coord="(3, -1)" color="2"></p>
+        </c>
+      </slot>
+      <slot position="(3, 6)">
+        <c name="SimpleChip" type="0">
+          <p name="color" value="0" coord="(3, -1)" color="2"></p>
+        </c>
+      </slot>
+      <slot position="(3, 7)">
+        <c name="SimpleChip" type="0">
+          <p name="color" value="0" coord="(3, -1)" color="0"></p>
+        </c>
+      </slot>
+      <slot position="(3, 8)">
+        <c name="Sandwich" type="1">
+          <p name="layer" value="3" coord="(3, -1)" color="100"></p>
+        </c>
+      </slot>
+      <slot position="(4, 4)">
+        <c name="SimpleChip" type="0">
+          <p name="color" value="0" coord="(3, -1)" color="100"></p>
+        </c>
+      </slot>
+      <slot position="(4, 5)">
+        <c name="SimpleChip" type="0">
+          <p name="color" value="0" coord="(3, -1)" color="1"></p>
+        </c>
+      </slot>
+      <slot position="(4, 6)">
+        <c name="SimpleChip" type="0">
+          <p name="color" value="0" coord="(3, -1)" color="3"></p>
+        </c>
+      </slot>
+      <slot position="(4, 7)">
+        <c name="SimpleChip" type="0">
+          <p name="color" value="0" coord="(3, -1)" color="0"></p>
+        </c>
+      </slot>
+      <slot position="(4, 8)">
+        <c name="Sandwich" type="1">
+          <p name="layer" value="2" coord="(3, -1)" color="100"></p>
+        </c>
+      </slot>
+      <slot position="(5, 4)">
+        <c name="SimpleChip" type="0">
+          <p name="color" value="0" coord="(3, -1)" color="2"></p>
+        </c>
+      </slot>
+      <slot position="(5, 5)">
+        <c name="SimpleChip" type="0">
+          <p name="color" value="0" coord="(3, -1)" color="0"></p>
+        </c>
+      </slot>
+      <slot position="(5, 6)">
+        <c name="SimpleChip" type="0">
+          <p name="color" value="0" coord="(3, -1)" color="0"></p>
+        </c>
+      </slot>
+      <slot position="(5, 7)">
+        <c name="SimpleChip" type="0">
+          <p name="color" value="0" coord="(3, -1)" color="1"></p>
+        </c>
+      </slot>
+      <slot position="(5, 8)">
+        <c name="Sandwich" type="1">
+          <p name="layer" value="2" coord="(3, -1)" color="100"></p>
+        </c>
+      </slot>
+      <slot position="(6, 4)">
+        <c name="SimpleChip" type="0">
+          <p name="color" value="0" coord="(3, -1)" color="100"></p>
+        </c>
+      </slot>
+      <slot position="(6, 5)">
+        <c name="SimpleChip" type="0">
+          <p name="color" value="0" coord="(3, -1)" color="1"></p>
+        </c>
+      </slot>
+      <slot position="(6, 6)">
+        <c name="SimpleChip" type="0">
+          <p name="color" value="0" coord="(3, -1)" color="2"></p>
+        </c>
+      </slot>
+      <slot position="(6, 7)">
+        <c name="SimpleChip" type="0">
+          <p name="color" value="0" coord="(3, -1)" color="0"></p>
+        </c>
+      </slot>
+      <slot position="(6, 8)">
+        <c name="Sandwich" type="1">
+          <p name="layer" value="3" coord="(3, -1)" color="100"></p>
+        </c>
+      </slot>
+      <slot position="(1, 3)">
+        <c name="GeneratorExtended" type="2">
+          <p name="case1" value="0" coord="(0, -2)" color="100">&lt;case name="HorizontalBomb" type="0"&gt;
+  &lt;p name="_weightCurve" value="0" coord="(0, 0)" color="100"&gt;
+    &lt;curve&gt;
+      &lt;key time="0" value="1" inTangent="0" outTangent="0" inWeight="0" outWeight="0" /&gt;
+      &lt;key time="1" value="1" inTangent="0" outTangent="0" inWeight="0" outWeight="0" /&gt;
+    &lt;/curve&gt;
+  &lt;/p&gt;
+  &lt;p name="color" value="0" coord="(0, 0)" color="100"&gt;&lt;/p&gt;
+&lt;/case&gt;</p>
+        </c>
+      </slot>
+      <slot position="(1, 4)">
+        <c name="UndeadBlocker" type="1" />
+      </slot>
+      <slot position="(1, 5)">
+        <c name="UndeadBlocker" type="1" />
+      </slot>
+      <slot position="(1, 6)">
+        <c name="UndeadBlocker" type="1" />
+      </slot>
+      <slot position="(1, 7)">
+        <c name="UndeadBlocker" type="1" />
+      </slot>
+      <slot position="(1, 8)">
+        <c name="UndeadBlocker" type="1" />
+      </slot>
+      <slot position="(1, 0)" />
+      <slot position="(3, 0)" />
+      <slot position="(4, 0)" />
+      <slot position="(5, 0)" />
+      <slot position="(6, 0)" />
+    </slots>
+    <bigObjects />
+    <startBoosters>
+      <startBooster startBooster="1_RinbowBooster" />
+      <startBooster startBooster="3_BombBooster" />
+      <startBooster startBooster="4_MultiplierBooster" />
+    </startBoosters>
+    <boosters>
+      <booster booster="1_RinbowBooster" />
+      <booster booster="2_GloveBooster" />
+      <booster booster="3_BombBooster" />
+    </boosters>
+  </InfernoLevelDesign>
+  <InsaneLevelDesign type="MatchThreeSwap" bonus="AirstrikeBonus" color="4" moves="6" physic="Straight">
+    <parameters />
+    <goals>
+      <goal type="SandwichGoal" />
+    </goals>
+    <slots>
+      <slot position="(3, 1)">
+        <c name="UndeadBlocker" type="1" />
+      </slot>
+      <slot position="(3, 2)">
+        <c name="SimpleChip" type="0">
+          <p name="color" value="0" coord="(3, -1)" color="100"></p>
+        </c>
+      </slot>
+      <slot position="(3, 3)">
+        <c name="SimpleChip" type="0">
+          <p name="color" value="0" coord="(3, -1)" color="100"></p>
+        </c>
+      </slot>
+      <slot position="(4, 1)">
+        <c name="UndeadBlocker" type="1" />
+      </slot>
+      <slot position="(4, 2)">
+        <c name="SimpleChip" type="0">
+          <p name="color" value="0" coord="(3, -1)" color="100"></p>
+        </c>
+      </slot>
+      <slot position="(4, 3)">
+        <c name="SimpleChip" type="0">
+          <p name="color" value="0" coord="(3, -1)" color="100"></p>
+        </c>
+      </slot>
+      <slot position="(5, 1)">
+        <c name="UndeadBlocker" type="1" />
+      </slot>
+      <slot position="(5, 2)">
+        <c name="SimpleChip" type="0">
+          <p name="color" value="0" coord="(3, -1)" color="100"></p>
+        </c>
+      </slot>
+      <slot position="(5, 3)">
+        <c name="SimpleChip" type="0">
+          <p name="color" value="0" coord="(3, -1)" color="100"></p>
+        </c>
+      </slot>
+      <slot position="(6, 1)">
+        <c name="UndeadBlocker" type="1" />
+      </slot>
+      <slot position="(6, 2)">
+        <c name="SimpleChip" type="0">
+          <p name="color" value="0" coord="(3, -1)" color="100"></p>
+        </c>
+      </slot>
+      <slot position="(6, 3)">
+        <c name="SimpleChip" type="0">
+          <p name="color" value="0" coord="(3, -1)" color="100"></p>
+        </c>
+      </slot>
+      <slot position="(3, 4)">
+        <c name="SimpleChip" type="0">
+          <p name="color" value="0" coord="(3, -1)" color="100"></p>
+        </c>
+      </slot>
+      <slot position="(3, 5)">
+        <c name="SimpleChip" type="0">
+          <p name="color" value="0" coord="(3, -1)" color="2"></p>
+        </c>
+      </slot>
+      <slot position="(3, 6)">
+        <c name="SimpleChip" type="0">
+          <p name="color" value="0" coord="(3, -1)" color="2"></p>
+        </c>
+      </slot>
+      <slot position="(3, 7)">
+        <c name="SimpleChip" type="0">
+          <p name="color" value="0" coord="(3, -1)" color="0"></p>
+        </c>
+      </slot>
+      <slot position="(3, 8)">
+        <c name="Sandwich" type="1">
+          <p name="layer" value="3" coord="(3, -1)" color="100"></p>
+        </c>
+      </slot>
+      <slot position="(4, 4)">
+        <c name="SimpleChip" type="0">
+          <p name="color" value="0" coord="(3, -1)" color="100"></p>
+        </c>
+      </slot>
+      <slot position="(4, 5)">
+        <c name="SimpleChip" type="0">
+          <p name="color" value="0" coord="(3, -1)" color="1"></p>
+        </c>
+      </slot>
+      <slot position="(4, 6)">
+        <c name="SimpleChip" type="0">
+          <p name="color" value="0" coord="(3, -1)" color="3"></p>
+        </c>
+      </slot>
+      <slot position="(4, 7)">
+        <c name="SimpleChip" type="0">
+          <p name="color" value="0" coord="(3, -1)" color="0"></p>
+        </c>
+      </slot>
+      <slot position="(4, 8)">
+        <c name="Sandwich" type="1">
+          <p name="layer" value="2" coord="(3, -1)" color="100"></p>
+        </c>
+      </slot>
+      <slot position="(5, 4)">
+        <c name="SimpleChip" type="0">
+          <p name="color" value="0" coord="(3, -1)" color="2"></p>
+        </c>
+      </slot>
+      <slot position="(5, 5)">
+        <c name="SimpleChip" type="0">
+          <p name="color" value="0" coord="(3, -1)" color="0"></p>
+        </c>
+      </slot>
+      <slot position="(5, 6)">
+        <c name="SimpleChip" type="0">
+          <p name="color" value="0" coord="(3, -1)" color="0"></p>
+        </c>
+      </slot>
+      <slot position="(5, 7)">
+        <c name="SimpleChip" type="0">
+          <p name="color" value="0" coord="(3, -1)" color="1"></p>
+        </c>
+      </slot>
+      <slot position="(5, 8)">
+        <c name="Sandwich" type="1">
+          <p name="layer" value="2" coord="(3, -1)" color="100"></p>
+        </c>
+      </slot>
+      <slot position="(6, 4)">
+        <c name="SimpleChip" type="0">
+          <p name="color" value="0" coord="(3, -1)" color="100"></p>
+        </c>
+      </slot>
+      <slot position="(6, 5)">
+        <c name="SimpleChip" type="0">
+          <p name="color" value="0" coord="(3, -1)" color="1"></p>
+        </c>
+      </slot>
+      <slot position="(6, 6)">
+        <c name="SimpleChip" type="0">
+          <p name="color" value="0" coord="(3, -1)" color="2"></p>
+        </c>
+      </slot>
+      <slot position="(6, 7)">
+        <c name="SimpleChip" type="0">
+          <p name="color" value="0" coord="(3, -1)" color="0"></p>
+        </c>
+      </slot>
+      <slot position="(6, 8)">
+        <c name="Sandwich" type="1">
+          <p name="layer" value="3" coord="(3, -1)" color="100"></p>
+        </c>
+      </slot>
+      <slot position="(1, 3)">
+        <c name="GeneratorExtended" type="2">
+          <p name="case1" value="0" coord="(0, -2)" color="100">&lt;case name="HorizontalBomb" type="0"&gt;
+  &lt;p name="_weightCurve" value="0" coord="(0, 0)" color="100"&gt;
+    &lt;curve&gt;
+      &lt;key time="0" value="1" inTangent="0" outTangent="0" inWeight="0" outWeight="0" /&gt;
+      &lt;key time="1" value="1" inTangent="0" outTangent="0" inWeight="0" outWeight="0" /&gt;
+    &lt;/curve&gt;
+  &lt;/p&gt;
+  &lt;p name="color" value="0" coord="(0, 0)" color="100"&gt;&lt;/p&gt;
+&lt;/case&gt;</p>
+        </c>
+      </slot>
+      <slot position="(1, 4)">
+        <c name="UndeadBlocker" type="1" />
+      </slot>
+      <slot position="(1, 5)">
+        <c name="UndeadBlocker" type="1" />
+      </slot>
+      <slot position="(1, 6)">
+        <c name="UndeadBlocker" type="1" />
+      </slot>
+      <slot position="(1, 7)">
+        <c name="UndeadBlocker" type="1" />
+      </slot>
+      <slot position="(1, 8)">
+        <c name="UndeadBlocker" type="1" />
+      </slot>
+      <slot position="(1, 0)" />
+      <slot position="(3, 0)" />
+      <slot position="(4, 0)" />
+      <slot position="(5, 0)" />
+      <slot position="(6, 0)" />
+    </slots>
+    <bigObjects />
+    <startBoosters>
+      <startBooster startBooster="1_RinbowBooster" />
+      <startBooster startBooster="3_BombBooster" />
+      <startBooster startBooster="4_MultiplierBooster" />
+    </startBoosters>
+    <boosters>
+      <booster booster="1_RinbowBooster" />
+      <booster booster="2_GloveBooster" />
+      <booster booster="3_BombBooster" />
+    </boosters>
+  </InsaneLevelDesign>
+  <extensions>
+    <exten type="Walls">
+      <slot coord="(3, 8)">
+        <param name="h" value="1" coord="(3, -1)" color="100"></param>
+        <param name="v" value="0" coord="(3, -1)" color="100"></param>
+      </slot>
+      <slot coord="(4, 8)">
+        <param name="h" value="1" coord="(3, -1)" color="100"></param>
+        <param name="v" value="0" coord="(3, -1)" color="100"></param>
+      </slot>
+      <slot coord="(5, 8)">
+        <param name="h" value="1" coord="(3, -1)" color="100"></param>
+        <param name="v" value="0" coord="(3, -1)" color="100"></param>
+      </slot>
+      <slot coord="(6, 8)">
+        <param name="h" value="1" coord="(3, -1)" color="100"></param>
+        <param name="v" value="0" coord="(3, -1)" color="100"></param>
+      </slot>
+      <slot coord="(7, 8)">
+        <param name="h" value="1" coord="(3, -1)" color="100"></param>
+        <param name="v" value="0" coord="(3, -1)" color="100"></param>
+      </slot>
+      <slot coord="(8, 8)">
+        <param name="h" value="1" coord="(3, -1)" color="100"></param>
+        <param name="v" value="0" coord="(3, -1)" color="100"></param>
+      </slot>
+      <slot coord="(9, 8)">
+        <param name="h" value="1" coord="(3, -1)" color="100"></param>
+        <param name="v" value="0" coord="(3, -1)" color="100"></param>
+      </slot>
+    </exten>
+    <exten type="AntiGravitation">
+      <slot coord="(3, -1)">
+        <param name="Right" value="1" coord="(3, -1)" color="100"></param>
+        <param name="Bottom" value="0" coord="(3, -1)" color="100"></param>
+        <param name="Left" value="0" coord="(3, -1)" color="100"></param>
+        <param name="Top" value="0" coord="(3, -1)" color="100"></param>
+      </slot>
+      <slot coord="(4, -1)">
+        <param name="Right" value="1" coord="(3, -1)" color="100"></param>
+        <param name="Bottom" value="0" coord="(3, -1)" color="100"></param>
+        <param name="Left" value="0" coord="(3, -1)" color="100"></param>
+        <param name="Top" value="0" coord="(3, -1)" color="100"></param>
+      </slot>
+      <slot coord="(5, -1)">
+        <param name="Right" value="1" coord="(3, -1)" color="100"></param>
+        <param name="Bottom" value="0" coord="(3, -1)" color="100"></param>
+        <param name="Left" value="0" coord="(3, -1)" color="100"></param>
+        <param name="Top" value="0" coord="(3, -1)" color="100"></param>
+      </slot>
+      <slot coord="(6, -1)">
+        <param name="Right" value="1" coord="(3, -1)" color="100"></param>
+        <param name="Bottom" value="0" coord="(3, -1)" color="100"></param>
+        <param name="Left" value="0" coord="(3, -1)" color="100"></param>
+        <param name="Top" value="0" coord="(3, -1)" color="100"></param>
+      </slot>
+      <slot coord="(7, -1)">
+        <param name="Right" value="1" coord="(3, -1)" color="100"></param>
+        <param name="Bottom" value="0" coord="(3, -1)" color="100"></param>
+        <param name="Left" value="0" coord="(3, -1)" color="100"></param>
+        <param name="Top" value="0" coord="(3, -1)" color="100"></param>
+      </slot>
+      <slot coord="(8, -1)">
+        <param name="Right" value="1" coord="(3, -1)" color="100"></param>
+        <param name="Bottom" value="0" coord="(3, -1)" color="100"></param>
+        <param name="Left" value="0" coord="(3, -1)" color="100"></param>
+        <param name="Top" value="0" coord="(3, -1)" color="100"></param>
+      </slot>
+      <slot coord="(9, -1)">
+        <param name="Right" value="1" coord="(3, -1)" color="100"></param>
+        <param name="Bottom" value="0" coord="(3, -1)" color="100"></param>
+        <param name="Left" value="0" coord="(3, -1)" color="100"></param>
+        <param name="Top" value="0" coord="(3, -1)" color="100"></param>
+      </slot>
+      <slot coord="(1, -1)">
+        <param name="Right" value="1" coord="(1, -1)" color="100"></param>
+        <param name="Bottom" value="0" coord="(1, -1)" color="100"></param>
+        <param name="Left" value="0" coord="(1, -1)" color="100"></param>
+        <param name="Top" value="0" coord="(1, -1)" color="100"></param>
+      </slot>
+      <slot coord="(1, 1)">
+        <param name="Bottom" value="1" coord="(1, -1)" color="100"></param>
+        <param name="Left" value="0" coord="(1, -1)" color="100"></param>
+        <param name="Top" value="0" coord="(1, -1)" color="100"></param>
+        <param name="Right" value="0" coord="(1, -1)" color="100"></param>
+      </slot>
+      <slot coord="(1, 0)">
+        <param name="Right" value="1" coord="(0, 0)" color="100"></param>
+        <param name="Bottom" value="0" coord="(0, 0)" color="100"></param>
+        <param name="Left" value="0" coord="(0, 0)" color="100"></param>
+        <param name="Top" value="0" coord="(0, 0)" color="100"></param>
+      </slot>
+      <slot coord="(3, 0)">
+        <param name="Right" value="1" coord="(0, 0)" color="100"></param>
+        <param name="Bottom" value="0" coord="(0, 0)" color="100"></param>
+        <param name="Left" value="0" coord="(0, 0)" color="100"></param>
+        <param name="Top" value="0" coord="(0, 0)" color="100"></param>
+      </slot>
+      <slot coord="(4, 0)">
+        <param name="Right" value="1" coord="(0, 0)" color="100"></param>
+        <param name="Bottom" value="0" coord="(0, 0)" color="100"></param>
+        <param name="Left" value="0" coord="(0, 0)" color="100"></param>
+        <param name="Top" value="0" coord="(0, 0)" color="100"></param>
+      </slot>
+      <slot coord="(5, 0)">
+        <param name="Right" value="1" coord="(0, 0)" color="100"></param>
+        <param name="Bottom" value="0" coord="(0, 0)" color="100"></param>
+        <param name="Left" value="0" coord="(0, 0)" color="100"></param>
+        <param name="Top" value="0" coord="(0, 0)" color="100"></param>
+      </slot>
+      <slot coord="(1, 3)">
+        <param name="Bottom" value="1" coord="(0, 0)" color="100"></param>
+        <param name="Left" value="0" coord="(0, 0)" color="100"></param>
+        <param name="Top" value="0" coord="(0, 0)" color="100"></param>
+        <param name="Right" value="0" coord="(0, 0)" color="100"></param>
+      </slot>
+    </exten>
+  </extensions>
+  <editor key="tB7Ne9wVqBBwnCYp" path="" title="MatchThreeSwap (SandwichGoal)" />
+</level>

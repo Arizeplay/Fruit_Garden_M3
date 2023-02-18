@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9e6007c369a941ccb5945921a21eb5c3, type: 3}
+  m_Name: QuestChipCollection_Rainbow
+  m_EditorClassIdentifier: 
+  _showPageIfReady: 1
+  _page: 
+  label: Rainbow
+  icon: {fileID: 21300000, guid: 777e5047ffddd4347addb50b1df67c30, type: 3}
+  _saveName: RainbowCollectionerSave
+  _requirement:
+    _content: {fileID: 114827059835604936, guid: c0c743ab29b5e854abd5942ca7b0e93a,
+      type: 3}
+  _rarities:
+  - Type: 0
+    FromIndex: 0
+    ToIndex: 3
+  - Type: 1
+    FromIndex: 3
+    ToIndex: 8
+  - Type: 2
+    FromIndex: 8
+    ToIndex: 13
+  - Type: 3
+    FromIndex: 13
+    ToIndex: 18
+  - Type: 4
+    FromIndex: 18
+    ToIndex: 23
+  _questLevels:
+  - {fileID: 11400000, guid: edee130af98a23b4a9d0e3c4981ab8ac, type: 2}
+  - {fileID: 11400000, guid: 42d8d2dd683f233448af2fbe867167ef, type: 2}
+  - {fileID: 11400000, guid: 39ba5a09bb766684e945affe78f9907c, type: 2}
+  - {fileID: 11400000, guid: 70b6c7509763a6d4f8142801ac568f1f, type: 2}
+  - {fileID: 11400000, guid: 810f2d44e9c282f4aa66988bf9de1cda, type: 2}
+  - {fileID: 11400000, guid: 3e5215164fabb5144889715b39b1bd13, type: 2}
+  - {fileID: 11400000, guid: ed56278d5027a1e44a5c75cf8fae618f, type: 2}
+  - {fileID: 11400000, guid: eb1408fe584d07449b644c4580268d0e, type: 2}
+  - {fileID: 11400000, guid: 68a8ea53f93d9b2439a1f18a3007028d, type: 2}
+  - {fileID: 11400000, guid: 4bfb72019192f9342871fdd6619b21a0, type: 2}
+  - {fileID: 11400000, guid: d9b8cee41aa06b54da1d241eae5a8102, type: 2}
+  - {fileID: 11400000, guid: 6079d377f16e707408d937d6f610e602, type: 2}
+  - {fileID: 11400000, guid: a62b137e0162b4749b1772c7c7ae83b1, type: 2}
+  - {fileID: 11400000, guid: f2967ca3d02c8264e8b48d510170d961, type: 2}
+  - {fileID: 11400000, guid: fd2df1c5da4cfcc44a51112d13d17805, type: 2}
+  - {fileID: 11400000, guid: 421b33c038c5db84e82a6790a0637968, type: 2}
+  - {fileID: 11400000, guid: 31e937a8823b22c4f95f9f7caa2b0e36, type: 2}
+  - {fileID: 11400000, guid: c72a7f029d2692e49992eb891cde7677, type: 2}
+  - {fileID: 11400000, guid: 3c40c7db644516042bc0c6947cc1e201, type: 2}
+  - {fileID: 11400000, guid: ae0d298d9fb0ffd48bf5b22b82ec665a, type: 2}
+  - {fileID: 11400000, guid: 22eddf7a4d7f9a24b9ad810847c2ecce, type: 2}
+  - {fileID: 11400000, guid: 2ed4ed9303baef14e9accbd560dd2b05, type: 2}
+  - {fileID: 11400000, guid: 2e0928aabde37c743ac05e7c59fe370c, type: 2}
+  _questUIComponent:
+    _prefab: {fileID: 6852900661169752162, guid: 65b355e35c002c941942fb12b3239168,
+      type: 3}
+  parseLevelsRewards: 100,200,300,600,1000,4,5,7,10,12,6,7,8,11,15,8,10,12,15,20,20,25,30,35,50
+  parseLevels: ',,1,7,12,10,12,16,18,22,16,18,20,22,24,9,12,15,17,18,21,13,26,31,35'
+  _autoComplete: 0
+  _parse: 1

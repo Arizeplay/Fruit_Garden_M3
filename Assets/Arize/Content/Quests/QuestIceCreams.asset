@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3a74fee6ff214dc1a13369b03866df06, type: 3}
+  m_Name: QuestIceCreams
+  m_EditorClassIdentifier: 
+  _showPageIfReady: 1
+  _page: 
+  label: Ice Cream Collection
+  icon: {fileID: 21300000, guid: a2ddc80db8e852b4b8060d22513d0d32, type: 3}
+  _saveName: IceCreamEventSave
+  _requirement:
+    _itemID: 106
+    _collectOnDifference: 0
+  _rarities:
+  - Type: 0
+    FromIndex: 0
+    ToIndex: 5
+  - Type: 1
+    FromIndex: 5
+    ToIndex: 10
+  - Type: 2
+    FromIndex: 10
+    ToIndex: 15
+  - Type: 3
+    FromIndex: 15
+    ToIndex: 20
+  - Type: 4
+    FromIndex: 20
+    ToIndex: 25
+  _questLevels:
+  - {fileID: 11400000, guid: cadfb2ef852277446977e10b833eeb6d, type: 2}
+  - {fileID: 11400000, guid: 0aea461dd49062740adb542ade01058e, type: 2}
+  - {fileID: 11400000, guid: 094787f21ab20534da21f152024f7588, type: 2}
+  - {fileID: 11400000, guid: 60928cfa8904bd54cbedabe7a8064fbf, type: 2}
+  - {fileID: 11400000, guid: 8d514ba3e59dfa943a7a51da9d0e4eda, type: 2}
+  - {fileID: 11400000, guid: 2be372a9dd95fc4429f75ed88ba2a4d2, type: 2}
+  - {fileID: 11400000, guid: a31f05a01bf126f4abc3bfea2baac634, type: 2}
+  - {fileID: 11400000, guid: d47c8a878d6c47d4184fc1d1d6190204, type: 2}
+  - {fileID: 11400000, guid: 5eac43796a0f7cf4587d10b3701d0474, type: 2}
+  - {fileID: 11400000, guid: 57aba01b9cf1f0b43a50d1e1202071f2, type: 2}
+  - {fileID: 11400000, guid: 214a9952607aa134ebe7507bb93267af, type: 2}
+  - {fileID: 11400000, guid: 349b3776844abc34f97a1914bbb4f0f1, type: 2}
+  - {fileID: 11400000, guid: 74432650f9be86d40ae9bf4d233d5acd, type: 2}
+  - {fileID: 11400000, guid: 4f395f00ab21ada4caf3dae6a95a5aae, type: 2}
+  - {fileID: 11400000, guid: fec3aeba54cec894abbd72ae1ac813b9, type: 2}
+  - {fileID: 11400000, guid: adcf9cbfbc91b0f40be29089b437f038, type: 2}
+  - {fileID: 11400000, guid: f0d26955c6a14dd42a4cd818567318f9, type: 2}
+  - {fileID: 11400000, guid: be4ad60020116bd4dbdba463b77edf58, type: 2}
+  - {fileID: 11400000, guid: 85ed54dc7fde59e4e9594f6fd97c6986, type: 2}
+  - {fileID: 11400000, guid: d2c161b54391eb74f962c7c79b3f470f, type: 2}
+  - {fileID: 11400000, guid: 9655d9aacaa51b64f93228135ceac101, type: 2}
+  - {fileID: 11400000, guid: 87cb4accab358f04199d08b059d54069, type: 2}
+  - {fileID: 11400000, guid: 70cdeca5289d7cb4db8f674eb7c1bdfa, type: 2}
+  - {fileID: 11400000, guid: cf826d4b41874bc4f811cd3863df2cb3, type: 2}
+  - {fileID: 11400000, guid: a56a72d4b590c674490776b05c057620, type: 2}
+  _questUIComponent:
+    _prefab: {fileID: 6852900661169752162, guid: 65b355e35c002c941942fb12b3239168,
+      type: 3}
+  parseLevelsRewards: 100,200,300,600,1000,4,5,7,10,12,6,7,8,11,15,8,10,12,15,20,20,25,30,35,50
+  parseLevels: 1,3,5,20,30,35,40,45,50,55,60,65,70,75,80,85,90,95,100,105,110,115,120,125,130
+  _autoComplete: 0
+  _parse: 1

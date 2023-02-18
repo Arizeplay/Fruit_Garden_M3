@@ -1,0 +1,3559 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &4571235533785557258
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 1736077257174182, guid: 9b2f2ab57d9fa644fa6f5269584c0f61,
+    type: 2}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4571235533785557481}
+  - component: {fileID: 4571235533785557255}
+  - component: {fileID: 4571235533785558482}
+  - component: {fileID: 4571235533785558997}
+  - component: {fileID: 4571235533785558996}
+  - component: {fileID: 4571235533785559003}
+  - component: {fileID: 4571235533785557264}
+  - component: {fileID: 4571235533785559002}
+  - component: {fileID: 4571235533785558483}
+  - component: {fileID: 4571235533785557479}
+  - component: {fileID: 4571235533785557473}
+  - component: {fileID: 4571235533785557472}
+  - component: {fileID: 4571235533785558275}
+  - component: {fileID: 4571235533785558963}
+  - component: {fileID: 4571235533785559000}
+  - component: {fileID: 4571235533785559007}
+  - component: {fileID: 4571235533785559006}
+  - component: {fileID: 4571235533785559005}
+  - component: {fileID: 4571235533785559004}
+  - component: {fileID: 4571235533785558300}
+  - component: {fileID: 4571235533785558999}
+  - component: {fileID: 4571235533785558992}
+  - component: {fileID: 4571235533785558993}
+  - component: {fileID: 4571235533785557492}
+  - component: {fileID: 4571235533785557494}
+  - component: {fileID: 4571235533785557491}
+  m_Layer: 0
+  m_Name: Core
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4571235533785557481
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 4213127990350170, guid: 9b2f2ab57d9fa644fa6f5269584c0f61,
+    type: 2}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4571235533785557258}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &4571235533785557255
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4571235533785557258}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ee3b90e0aa1d4ea7a3698acf8e863d2d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  key: AbObA
+  cItems:
+  - item: {fileID: 1463209541322898, guid: ca18e942e3ac6af44a69f999241beb94, type: 3}
+    path: Dialogue/Characters
+  - item: {fileID: 1577485924886306, guid: a225910994a0b744e8095e6f5685767a, type: 3}
+    path: Dialogue/Characters
+  - item: {fileID: 1361777839710646, guid: a7ece832a992a6d43ae1dfedc29a1e71, type: 3}
+    path: Dialogue
+  - item: {fileID: 1107254290038316, guid: eb6f5907a80527b4eacb23d98b8f8b30, type: 3}
+    path: Dialogue
+  - item: {fileID: 1804925385721104, guid: f57ef18653583104c8eea2903c9135f8, type: 3}
+    path: Dialogue
+  - item: {fileID: 1586665457754454, guid: 5e623bcb17b64fb4dac0583362befbed, type: 3}
+    path: Effects
+  - item: {fileID: 1356378523619646, guid: 9468bc00c7df4e64a8d03d2777ea693c, type: 3}
+    path: Effects
+  - item: {fileID: 1714090175634228, guid: 3f84b00bd50d0884f9571873c6b7fd55, type: 3}
+    path: Effects
+  - item: {fileID: 1276284376492500, guid: 5b80c41092fdafe41b088fad3e383106, type: 3}
+    path: Effects
+  - item: {fileID: 1070936778451530, guid: 10f9fa8e71d1648429a21b17e076406a, type: 3}
+    path: Effects
+  - item: {fileID: 1846430406781552, guid: 50004e9da35e7414b8eaba4c6c97d710, type: 3}
+    path: Effects
+  - item: {fileID: 1285348375081976, guid: 556050a82fcd67b4ca331cc9672445d5, type: 3}
+    path: Effects
+  - item: {fileID: 1952143860204902, guid: f1ac5ce040de6554fb24b21b4577d75c, type: 3}
+    path: Effects
+  - item: {fileID: 1057720518601142, guid: 328492299c4fbf24bb51ff8dd1df9d1c, type: 3}
+    path: Effects
+  - item: {fileID: 1119401737289950, guid: e3e5c8d0dba207f46b1ed1fcab951629, type: 3}
+    path: Effects
+  - item: {fileID: 1000011214248124, guid: c2ec6a086793d494db4ce3043a79d880, type: 3}
+    path: Effects
+  - item: {fileID: 1340665371198536, guid: e97c24e0ccb193c4a8cb8c3c0bce4dc8, type: 3}
+    path: Effects
+  - item: {fileID: 1602558252011216, guid: 0b9362be51b52d040a0556855b39b8c9, type: 3}
+    path: Effects
+  - item: {fileID: 1309957780565858, guid: 07e5a27ebcaf39f41b7da4988cb19fd5, type: 3}
+    path: Effects
+  - item: {fileID: 1120011928581428, guid: a85f6639cc20cd54e88e146b026faa13, type: 3}
+    path: Effects
+  - item: {fileID: 1933198242211856, guid: 9466dcc871fd1e8489556b38cc6436db, type: 3}
+    path: Effects
+  - item: {fileID: 1502195788973814, guid: 103e5cda1c27ea641b294357a7f62f29, type: 3}
+    path: Effects
+  - item: {fileID: 1964892118188194, guid: 96ce4e093665b9f48911341f0f837158, type: 3}
+    path: Effects
+  - item: {fileID: 1523607746925940, guid: 5584f7e777720444f8e2e8c52742ae02, type: 3}
+    path: Effects
+  - item: {fileID: 1717464782456760, guid: fb716746c59f19242a962c60bbb04925, type: 3}
+    path: Effects
+  - item: {fileID: 1210439900734098, guid: 5d03f7c59f1a4654a93219f9ac1f85ba, type: 3}
+    path: Effects
+  - item: {fileID: 1250948730886798, guid: 9649947304d00fb4390cd8d6fa82a5be, type: 3}
+    path: Effects
+  - item: {fileID: 1239771374233544, guid: 057788c0a35e0ef4a9b5342412b27f77, type: 3}
+    path: Effects
+  - item: {fileID: 1196057722914942, guid: ebecb7ffd090bba4cb20d98bff2c5ed6, type: 3}
+    path: Effects
+  - item: {fileID: 1519671718579938, guid: 1adf5561e70d57e44a208ce707f21f44, type: 3}
+    path: Effects
+  - item: {fileID: 1968973919990638, guid: eec7219c513d20c429678eb692dcd88c, type: 3}
+    path: Effects
+  - item: {fileID: 1062337219480930, guid: d5249bcc610589e4382cdfd0735744ec, type: 3}
+    path: Effects
+  - item: {fileID: 1579234733732566, guid: 84ab62fa52826fa4a89a829cac51a9a3, type: 3}
+    path: Effects
+  - item: {fileID: 1806906149259798, guid: c4192d6e3da31214992a914f5a83db07, type: 3}
+    path: Effects
+  - item: {fileID: 1722503551068956, guid: 95d42b740c3184b479cdbd37bbf176d4, type: 3}
+    path: Effects
+  - item: {fileID: 1328669749886540, guid: a0a989bca44ec9b42a4d8076cfc579b7, type: 3}
+    path: CompleteBonus
+  - item: {fileID: 1709638302416804, guid: 54ffe8222a9a3e84fa1f0a75aa5dd980, type: 3}
+    path: CompleteBonus
+  - item: {fileID: 1577109585813428, guid: 9a40ee5f6ecbbfa47aebc97513969168, type: 3}
+    path: CompleteBonus
+  - item: {fileID: 1131144758401386, guid: 482bda2fb97d40345857dee6fafc4034, type: 3}
+    path: CompleteBonus
+  - item: {fileID: 1773727549006106, guid: e0574cb1e4f888c4492828512cb2f85b, type: 3}
+    path: Extentions
+  - item: {fileID: 1396254053146922, guid: 4d69c1da1a2a65949a18f04e3c874139, type: 3}
+    path: Extentions
+  - item: {fileID: 1513626169106034, guid: 72d4734a026a1a842aa780c631780952, type: 3}
+    path: Extentions
+  - item: {fileID: 1596799640393940, guid: 5bc0c372cbe31d140aceb4e6ecb14526, type: 3}
+    path: Store
+  - item: {fileID: 5494229443064447141, guid: 907b4ed4142b342419c049fd4b705a78, type: 3}
+    path: Store
+  - item: {fileID: 1018381129257930, guid: 021da9e14438f1747b64021f2488c90c, type: 3}
+    path: ChipMixes
+  - item: {fileID: 1514160213039184, guid: 5a313ac500183e34cad7602a5a17a493, type: 3}
+    path: ChipMixes
+  - item: {fileID: 1142948688491318, guid: e30ac7f54815a3845be5527bbcc3a483, type: 3}
+    path: ChipMixes
+  - item: {fileID: 1305965342331880, guid: 8689e95392fc7514581597d456295033, type: 3}
+    path: ChipMixes
+  - item: {fileID: 1513585690885724, guid: 5bdfa45cefd75aa4d872d8274f2489ab, type: 3}
+    path: ChipMixes
+  - item: {fileID: 1826406445495702, guid: fed7d509345ad4a4a8fb24a375981e2a, type: 3}
+    path: ChipMixes
+  - item: {fileID: 1396099927864364, guid: 681e8e35019b2bc418b72732f78c80cb, type: 3}
+    path: ChipMixes
+  - item: {fileID: 1000010757992130, guid: e677bc66124b41a43887d0a29871b8d0, type: 3}
+    path: Chips
+  - item: {fileID: 1583790839900844, guid: c0c743ab29b5e854abd5942ca7b0e93a, type: 3}
+    path: Chips
+  - item: {fileID: 1000011541433178, guid: eff7bb6bf9687e4459ee795555893441, type: 3}
+    path: Chips
+  - item: {fileID: 1748839581404872, guid: 86cc6b52b900e434ebc76602875a607b, type: 3}
+    path: Chips
+  - item: {fileID: 1000014206769442, guid: 37f2b460c33ef67428cb52e058052add, type: 3}
+    path: Chips
+  - item: {fileID: 1780256075899416, guid: 1c834a588df1faa47a9057e6c53c96c6, type: 3}
+    path: Chips
+  - item: {fileID: 1332058975047762, guid: 4d285b1795f57234dafaecca6a3839e6, type: 3}
+    path: Chips
+  - item: {fileID: 1833145214745314, guid: 476b784e35601514ebb1b1bae4f8475f, type: 3}
+    path: Chips
+  - item: {fileID: 1000013447827616, guid: 5859fcc4c6d33704e96fb035f320857b, type: 3}
+    path: Chips
+  - item: {fileID: 1000011650193068, guid: c269c4a8cd895134b99d960cdf49af8d, type: 3}
+    path: Chips
+  - item: {fileID: 1000012316789038, guid: 2374aba3a37db074bbffde82b4b66583, type: 3}
+    path: Chips
+  - item: {fileID: 1000013106098722, guid: 9b6bf9ffe5742244daa497af0f8c64ae, type: 3}
+    path: Chips
+  - item: {fileID: 1000014022641560, guid: 90d732f3ef14a2648bd36e0ee3fe9d1e, type: 3}
+    path: Chips
+  - item: {fileID: 1431166811987640, guid: a5074e4aa241b424cb2a6196ded0691a, type: 3}
+    path: Chips
+  - item: {fileID: 1215021245293236, guid: 54fda3af92e2094489961a097509e1ce, type: 3}
+    path: Chips
+  - item: {fileID: 1281388339553842, guid: d7abb36df440e2744af24e6a716ea2de, type: 3}
+    path: Chips
+  - item: {fileID: 1006858105042244, guid: 7da1a33a319d967428b1adb30bd49e26, type: 3}
+    path: Chips
+  - item: {fileID: 1764596552449576, guid: 35d267e746bf52943aacb8274e347d73, type: 3}
+    path: LevelGoals
+  - item: {fileID: 1044946913717782, guid: 6fcb63d8524a601478a632dad4b9df2b, type: 3}
+    path: LevelGoals
+  - item: {fileID: 1052598691751262, guid: 778c3bda2ec5e8d4bb68e29b5ad8b9f8, type: 3}
+    path: LevelGoals
+  - item: {fileID: 1235104100339800, guid: 47943d75b64c537458e1003a3cad38c9, type: 3}
+    path: LevelGoals
+  - item: {fileID: 1484675246595734, guid: c0266f3065d5a6549aadde53c2ac19eb, type: 3}
+    path: LevelGoals
+  - item: {fileID: 1663661214962476, guid: 8a1a3318797bc0a4196339a7628f8b50, type: 3}
+    path: LevelGoals
+  - item: {fileID: 1072623167833232, guid: 3981b8832e9ebd54f82698083429be5c, type: 3}
+    path: LevelGoals
+  - item: {fileID: 1544103187104490, guid: 40781a05d13eda747a24e57b2dfe1e08, type: 3}
+    path: Other
+  - item: {fileID: 1342861724115784, guid: 1033e108e63d6614fbdfebe3b6187d74, type: 3}
+    path: Other
+  - item: {fileID: 1417230721993458, guid: 3b6c99a42ff3faa4f98f5ee117128c36, type: 3}
+    path: Other
+  - item: {fileID: 1392266201351674, guid: 931e5ca2b6990b644a3248a94b179047, type: 3}
+    path: Other
+  - item: {fileID: 1742008968904604, guid: e755102648c1d854c8d015c541c4f3f3, type: 3}
+    path: Boosters
+  - item: {fileID: 1856421812725166, guid: 0537822fba5bbfd46b8c20b2e22310d0, type: 3}
+    path: Boosters
+  - item: {fileID: 1505661945575790, guid: 1610236937500eb4aa54adcb0e63638a, type: 3}
+    path: Boosters
+  - item: {fileID: 1844660189442624, guid: 5f57425ac8f85d344931805d5ae55a88, type: 3}
+    path: Boosters
+  - item: {fileID: 1766439118805948, guid: 278e0aaa0c770fe41875643a913708b0, type: 3}
+    path: Boosters
+  - item: {fileID: 1632597308600586, guid: 1472c5df43b2e75479ac2164d4cd9622, type: 3}
+    path: Boosters
+  - item: {fileID: 1505661945575790, guid: 919824bfba0b1f947a73a0871af62350, type: 3}
+    path: Boosters
+  - item: {fileID: 1000010716443056, guid: d1c7458264bab2849a3cf799dafcb2aa, type: 3}
+    path: Slots
+  - item: {fileID: 1000014261591092, guid: 29db9f982dedcd4489aefd37a1e641a6, type: 3}
+    path: Slots
+  - item: {fileID: 1000011737305554, guid: 662358e3283a3e446893602d9755ac61, type: 3}
+    path: Slots
+  - item: {fileID: 1000011881810198, guid: 5f3c098671eee1a408ea502f03fe5e56, type: 3}
+    path: Slots
+  - item: {fileID: 1000013068518880, guid: 323ffddba8fb90547a8a6f1b55fcc5d8, type: 3}
+    path: Slots
+  - item: {fileID: 1000010971585206, guid: 17b81e3c167858f488a8ffac9c8d91d6, type: 3}
+    path: Slots
+  - item: {fileID: 1000012088341534, guid: c2a449d714ae5a34c9cba4c7342a9e2e, type: 3}
+    path: LevelButtons
+  - item: {fileID: 1000013486497288, guid: e9a4f5e3bec39d04d8f104071fcaa67d, type: 3}
+    path: LevelButtons
+  - item: {fileID: 1000013341420902, guid: 53b1c4fe47e21b949adb713f0ad96098, type: 3}
+    path: LevelButtons
+  - item: {fileID: 1000013261711572, guid: d1cc44c87719983409eebf3adc027054, type: 3}
+    path: LevelButtons
+  - item: {fileID: 1949416545741090, guid: 672d6acfc8950b54bb4b739ddd278802, type: 3}
+    path: LevelButtons
+  - item: {fileID: 1000010361808622, guid: bcad50f0ed3290c4fafcbb32f5410120, type: 3}
+    path: Blocks
+  - item: {fileID: 1000013210579050, guid: db01516283e66794ca55d58dccaf935c, type: 3}
+    path: Blocks
+  - item: {fileID: 1000010262132588, guid: ddff733afc10de347b201a43b6e99ccb, type: 3}
+    path: Blocks
+  - item: {fileID: 1142589556940824, guid: 978a81f3c5b0ad149a7dd57a865385ff, type: 3}
+    path: Blocks
+  - item: {fileID: 1000013127976294, guid: 0b8b1cc944c6b47488517eaaac211b7b, type: 3}
+    path: Rules
+  - item: {fileID: 1509349897568650, guid: ce22a1dd5ee093f4ea779391a3518222, type: 3}
+    path: Rules
+  - item: {fileID: 1000013318534028, guid: 995882e6aacc4a946a6acfbbcd35765b, type: 3}
+    path: Rules
+  - item: {fileID: 1289547356157960, guid: 323b3628651491244bbfcd0398c974e8, type: 3}
+    path: Rules
+  - item: {fileID: 1000013868835156, guid: 8bd175f33d5b4744ea41f21d0fd50096, type: 3}
+    path: BoosterButtons
+  - item: {fileID: 1000011128738610, guid: a485d6507911c374a9659f5927303fbd, type: 3}
+    path: BoosterButtons
+  - item: {fileID: 1532419568378272, guid: be681408cb28e054c93aa71f49814130, type: 3}
+    path: Renderers
+  - item: {fileID: 1371608042497202, guid: 853cc2d0011002e4586b69db6b53ba02, type: 3}
+    path: Renderers
+  - item: {fileID: 1552036858460548, guid: c499b1310239e56489a612c8861f923a, type: 3}
+    path: Renderers
+  - item: {fileID: 1590307696728874, guid: cdeca7fd3ac37a34eba275f2b591b8cb, type: 3}
+    path: Renderers
+  - item: {fileID: 1987904545467990, guid: 4bbc830588e93f94a8cbb95df320e591, type: 3}
+    path: Renderers
+  - item: {fileID: 1677039111492062, guid: c99cf4f7d8bbe3c45ba786bc47507586, type: 3}
+    path: Renderers
+  - item: {fileID: 1000012056901774, guid: 20ab9d079a4f4b14cbe5dd73d033ce13, type: 3}
+    path: TargetCounters
+  - item: {fileID: 1392717971946468, guid: 24fe8ce8791e97c46a08d3b650d07242, type: 3}
+    path: TargetCounters
+  - item: {fileID: 1000012347348472, guid: a45d30b406794ea489cb2c7c8add1dc8, type: 3}
+    path: TargetCounters
+  - item: {fileID: 1000011109837512, guid: ada294b809968c04fab5acc8429d25bb, type: 3}
+    path: TargetCounters
+  - item: {fileID: 1000011131310516, guid: abe793db70f62864ba48b27f4465805c, type: 3}
+    path: TargetCounters
+  - item: {fileID: 1259169842918972, guid: 5d4e1343ab3fce24da0182e6fc2b285a, type: 3}
+    path: TargetCounters
+  - item: {fileID: 1135225273313694, guid: 97b5e23ad3ddc554f9d2a37a3d8e91d4, type: 3}
+    path: TargetCounters
+  - item: {fileID: 1251974623136212, guid: d34716f5ca0f6cd499bd0af046da05dc, type: 3}
+    path: DLC/Dirt
+  - item: {fileID: 1126395736347630, guid: f2b59c20c15fe6e4abdcf2e2f0f306bc, type: 3}
+    path: DLC/Dirt
+  - item: {fileID: 1408369586317718, guid: 9a81bd22913b6694d81ce46ff7a8871e, type: 3}
+    path: DLC/Dirt
+  - item: {fileID: 1895511514931734, guid: e2ab772609bff4844bb6b21c3133f39f, type: 3}
+    path: DLC/Dirt
+  - item: {fileID: 1833567073787140, guid: d7d47048a07d7094da2274c2de3ef91f, type: 3}
+    path: DLC/Dirt
+  - item: {fileID: 1414829613039486, guid: 63baf1d77e304874cbd0d0515e9d363f, type: 3}
+    path: DLC/Dynamite
+  - item: {fileID: 1395531792783654, guid: e263c7288effefc4bb3b9b12e95a6337, type: 3}
+    path: DLC/GeneratorExtended
+  - item: {fileID: 1250926048392566, guid: 24f3f62cd9717d04eb85a6bdabcfe9da, type: 3}
+    path: DLC/GummyBear
+  - item: {fileID: 1250926048392566, guid: d85a6a853660217408ff5925e4258eed, type: 3}
+    path: DLC/GummyBear
+  - item: {fileID: 1250926048392566, guid: de7b632e3ea9e444ebad01620d257d1d, type: 3}
+    path: DLC/GummyBear
+  - item: {fileID: 1382146675905478, guid: f2faaf28128542544afaf5195e15b555, type: 3}
+    path: DLC/GummyBear
+  - item: {fileID: 1259169842918972, guid: 03073f3c02b320c418c0a1d53cacc2f0, type: 3}
+    path: DLC/GummyBear
+  - item: {fileID: 1354675377705502, guid: 6f6201c1a10df7e43981fba9c41fcd71, type: 3}
+    path: DLC/Shell
+  - item: {fileID: 1538353856888096, guid: 369392d6949e73d44aa34ac92102814a, type: 3}
+    path: DLC/Shell
+  - item: {fileID: 1000011131310516, guid: 4c0ad88f736d55c498878b7b09b5e83e, type: 3}
+    path: DLC/Timer
+  - item: {fileID: 1586639784064102, guid: bd0bf817b98533448985a0bef93c87f5, type: 3}
+    path: DLC/Timer
+  categories:
+  - path: 
+    name: Dialogue
+  - path: Dialogue
+    name: Characters
+  - path: 
+    name: Effects
+  - path: 
+    name: CompleteBonus
+  - path: 
+    name: Extentions
+  - path: 
+    name: Store
+  - path: 
+    name: ChipMixes
+  - path: 
+    name: Chips
+  - path: 
+    name: LevelGoals
+  - path: 
+    name: Other
+  - path: 
+    name: Boosters
+  - path: 
+    name: Slots
+  - path: 
+    name: LevelButtons
+  - path: 
+    name: Blocks
+  - path: 
+    name: Rules
+  - path: 
+    name: BoosterButtons
+  - path: 
+    name: Renderers
+  - path: 
+    name: TargetCounters
+  - path: 
+    name: DLC
+  - path: DLC
+    name: Dirt
+  - path: DLC
+    name: Dynamite
+  - path: DLC
+    name: GeneratorExtended
+  - path: DLC
+    name: GummyBear
+  - path: DLC
+    name: Shell
+  - path: DLC
+    name: Timer
+  SDSymbols: []
+--- !u!114 &4571235533785558482
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 114435204841631508, guid: 9b2f2ab57d9fa644fa6f5269584c0f61,
+    type: 2}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4571235533785557258}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 675c1c108a7225143b8e8bf37aeab9f5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  save_sessions: 1
+  chipPrefabs:
+  - {fileID: 114000013770711000, guid: e677bc66124b41a43887d0a29871b8d0, type: 3}
+  - {fileID: 114827059835604936, guid: c0c743ab29b5e854abd5942ca7b0e93a, type: 3}
+  - {fileID: 114000010939868162, guid: eff7bb6bf9687e4459ee795555893441, type: 3}
+  - {fileID: 114477942197861490, guid: 86cc6b52b900e434ebc76602875a607b, type: 3}
+  - {fileID: 114000012673832230, guid: 37f2b460c33ef67428cb52e058052add, type: 3}
+  - {fileID: 114909846982071752, guid: 1c834a588df1faa47a9057e6c53c96c6, type: 3}
+  - {fileID: 114244970305648582, guid: 4d285b1795f57234dafaecca6a3839e6, type: 3}
+  - {fileID: 114475040973665424, guid: 476b784e35601514ebb1b1bae4f8475f, type: 3}
+  - {fileID: 114000011238500098, guid: 5859fcc4c6d33704e96fb035f320857b, type: 3}
+  - {fileID: 114000012702044042, guid: c269c4a8cd895134b99d960cdf49af8d, type: 3}
+  - {fileID: 114000011166083700, guid: 2374aba3a37db074bbffde82b4b66583, type: 3}
+  - {fileID: 114000014180111708, guid: 9b6bf9ffe5742244daa497af0f8c64ae, type: 3}
+  - {fileID: 114000013679055856, guid: 90d732f3ef14a2648bd36e0ee3fe9d1e, type: 3}
+  - {fileID: 114551093344720456, guid: a5074e4aa241b424cb2a6196ded0691a, type: 3}
+  - {fileID: 114854552356151336, guid: 54fda3af92e2094489961a097509e1ce, type: 3}
+  - {fileID: 114297810429113748, guid: d7abb36df440e2744af24e6a716ea2de, type: 3}
+  - {fileID: 114826744695394084, guid: 7da1a33a319d967428b1adb30bd49e26, type: 3}
+  - {fileID: 114133210071882936, guid: 63baf1d77e304874cbd0d0515e9d363f, type: 3}
+  blockPrefabs:
+  - {fileID: 114000010215742280, guid: bcad50f0ed3290c4fafcbb32f5410120, type: 3}
+  - {fileID: 114000013902650926, guid: db01516283e66794ca55d58dccaf935c, type: 3}
+  - {fileID: 114000012383960132, guid: ddff733afc10de347b201a43b6e99ccb, type: 3}
+  - {fileID: 114582127409857492, guid: 978a81f3c5b0ad149a7dd57a865385ff, type: 3}
+  - {fileID: 114951290619843626, guid: 6f6201c1a10df7e43981fba9c41fcd71, type: 3}
+  modifierPrefabs:
+  - {fileID: 114000013661690224, guid: d1c7458264bab2849a3cf799dafcb2aa, type: 3}
+  - {fileID: 114000012688995314, guid: 29db9f982dedcd4489aefd37a1e641a6, type: 3}
+  - {fileID: 114000010354260070, guid: 662358e3283a3e446893602d9755ac61, type: 3}
+  - {fileID: 114000012603970106, guid: 323ffddba8fb90547a8a6f1b55fcc5d8, type: 3}
+  - {fileID: 114000014133882654, guid: 17b81e3c167858f488a8ffac9c8d91d6, type: 3}
+  - {fileID: 114083529860234194, guid: d34716f5ca0f6cd499bd0af046da05dc, type: 3}
+  - {fileID: 114198075849817732, guid: e263c7288effefc4bb3b9b12e95a6337, type: 3}
+  - {fileID: 114701338918852688, guid: 24f3f62cd9717d04eb85a6bdabcfe9da, type: 3}
+  - {fileID: 114701338918852688, guid: d85a6a853660217408ff5925e4258eed, type: 3}
+  - {fileID: 114701338918852688, guid: de7b632e3ea9e444ebad01620d257d1d, type: 3}
+  rules:
+  - {fileID: 114902284343505642, guid: 0b8b1cc944c6b47488517eaaac211b7b, type: 3}
+  - {fileID: 114673271657416138, guid: ce22a1dd5ee093f4ea779391a3518222, type: 3}
+  - {fileID: 114000012873216090, guid: 995882e6aacc4a946a6acfbbcd35765b, type: 3}
+  - {fileID: 114895619328479394, guid: 323b3628651491244bbfcd0398c974e8, type: 3}
+--- !u!114 &4571235533785558997
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 114337797700157102, guid: 9b2f2ab57d9fa644fa6f5269584c0f61,
+    type: 2}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4571235533785557258}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5889393088bce4d4b8c44e96695d0169, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  controlCamera: {fileID: 0}
+--- !u!114 &4571235533785558996
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 114830308937108014, guid: 9b2f2ab57d9fa644fa6f5269584c0f61,
+    type: 2}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4571235533785557258}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7d659891dece84f49ba13360fe490a61, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  sceneFolder: {fileID: 0}
+--- !u!114 &4571235533785559003
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 114016634198240648, guid: 9b2f2ab57d9fa644fa6f5269584c0f61,
+    type: 2}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4571235533785557258}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 83a8724f5873d194ebb1869362152feb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  storeListState:
+    scrollPos: {x: 0, y: 0}
+    m_SelectedIDs: f1406459
+    m_LastClickedID: 1499742449
+    m_ExpandedIDs: a2248881ab8a7d987b07c2ab8d3726bdbecbe8cb2da492d6a21679db3dff88fb00000000626787098ebb36183264f918338c131cde50653322b7a0378aecb7472c6a5077
+    m_RenameOverlay:
+      m_UserAcceptedRename: 0
+      m_Name: bomb2
+      m_OriginalName: bomb2
+      m_EditFieldRect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      m_UserData: 313153644
+      m_IsWaitingForDelay: 0
+      m_IsRenaming: 0
+      m_OriginalEventType: 0
+      m_IsRenamingFilename: 0
+      m_ClientGUIView: {fileID: 0}
+    m_SearchString: 
+  onPurchase:
+    m_PersistentCalls:
+      m_Calls: []
+  fillStores:
+    m_PersistentCalls:
+      m_Calls: []
+  items:
+  - id: pig
+    localized: 1
+    Name: 
+    Descrition: 
+    instanceID: 1499742449
+    icons:
+    - icon: {fileID: 21300000, guid: 346d662c42f11634b9e73e418a0a2972, type: 3}
+      description: 
+      localized: 0
+    group:
+      id: free-group
+      localized: 1
+      Name: 
+      Descrition: 
+      instanceID: 1203235978
+    purchaseType: 1
+    iap: 
+    cost: 1
+    pack: []
+    onPurchase:
+      m_PersistentCalls:
+        m_Calls:
+        - m_Target: {fileID: 0}
+          m_TargetAssemblyTypeName: 
+          m_MethodName: GetReward
+          m_Mode: 1
+          m_Arguments:
+            m_ObjectArgument: {fileID: 0}
+            m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+            m_IntArgument: 0
+            m_FloatArgument: 0
+            m_StringArgument: 
+            m_BoolArgument: 0
+          m_CallState: 2
+    type: 0
+    alwaysAvaliable: 0
+    avaliableWhen:
+      comparionOperator: 1
+      valueA:
+        source: 2
+        value: 1
+        reference: Ready Pig A Poke Rewarded Ad
+        compareItemID: 0
+      valueB:
+        source: 0
+        value: 0
+        reference: 
+        compareItemID: 0
+    showInfoButton: 0
+    showTape: 0
+    tapeDescription: 
+  - id: coins1
+    localized: 1
+    Name: 
+    Descrition: 
+    instanceID: -699422884
+    icons:
+    - icon: {fileID: 21300000, guid: 03c8ae96003859d43815cb91b4fe4169, type: 3}
+      description: 
+      localized: 0
+    group:
+      id: coins-group
+      localized: 1
+      Name: 
+      Descrition: 
+      instanceID: 862277854
+    purchaseType: 0
+    iap: 5jewels
+    cost: 1
+    pack:
+    - type: 0
+      itemID: 0
+      itemCount: 5
+      movesCount: 0
+    onPurchase:
+      m_PersistentCalls:
+        m_Calls: []
+    type: 0
+    alwaysAvaliable: 1
+    avaliableWhen:
+      comparionOperator: 0
+      valueA:
+        source: 0
+        value: 1
+        reference: 
+        compareItemID: 0
+      valueB:
+        source: 0
+        value: 1
+        reference: 
+        compareItemID: 0
+    showInfoButton: 0
+    showTape: 0
+    tapeDescription: 
+  - id: coins2
+    localized: 1
+    Name: 
+    Descrition: 
+    instanceID: -1328653549
+    icons:
+    - icon: {fileID: 21300000, guid: f94b1d4c33d343b43aa7f00520a2ee5a, type: 3}
+      description: 
+      localized: 0
+    group:
+      id: coins-group
+      localized: 1
+      Name: 
+      Descrition: 
+      instanceID: 862277854
+    purchaseType: 0
+    iap: 30jewels
+    cost: 1
+    pack:
+    - type: 0
+      itemID: 0
+      itemCount: 30
+      movesCount: 0
+    onPurchase:
+      m_PersistentCalls:
+        m_Calls: []
+    type: 0
+    alwaysAvaliable: 1
+    avaliableWhen:
+      comparionOperator: 0
+      valueA:
+        source: 0
+        value: 1
+        reference: 
+        compareItemID: 0
+      valueB:
+        source: 0
+        value: 1
+        reference: 
+        compareItemID: 0
+    showInfoButton: 0
+    showTape: 0
+    tapeDescription: 
+  - id: refuellife
+    localized: 1
+    Name: 
+    Descrition: 
+    instanceID: -360523778
+    icons:
+    - icon: {fileID: 21300000, guid: 8033ad0254c8e4f4cb69f7a5c318792b, type: 3}
+      description: 
+      localized: 0
+    group:
+      id: life-group
+      localized: 1
+      Name: 
+      Descrition: 
+      instanceID: 418997298
+    purchaseType: 2
+    iap: 
+    cost: 4
+    pack: []
+    onPurchase:
+      m_PersistentCalls:
+        m_Calls:
+        - m_Target: {fileID: 4571235533785559002}
+          m_TargetAssemblyTypeName: 
+          m_MethodName: RefuelLives
+          m_Mode: 1
+          m_Arguments:
+            m_ObjectArgument: {fileID: 0}
+            m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+            m_IntArgument: 0
+            m_FloatArgument: 0
+            m_StringArgument: 
+            m_BoolArgument: 0
+          m_CallState: 2
+    type: 0
+    alwaysAvaliable: 0
+    avaliableWhen:
+      comparionOperator: 0
+      valueA:
+        source: 1
+        value: 1
+        reference: 
+        compareItemID: 1
+      valueB:
+        source: 1
+        value: 1
+        reference: 
+        compareItemID: 2
+    showInfoButton: 0
+    showTape: 0
+    tapeDescription: 
+  - id: life6
+    localized: 1
+    Name: 
+    Descrition: 
+    instanceID: 1241431490
+    icons:
+    - icon: {fileID: 21300000, guid: f2f66db12141d3241986c46b73dce92a, type: 3}
+      description: 
+      localized: 0
+    group:
+      id: life-group
+      localized: 1
+      Name: 
+      Descrition: 
+      instanceID: 418997298
+    purchaseType: 2
+    iap: 
+    cost: 10
+    pack:
+    - type: 0
+      itemID: 1
+      itemCount: 1
+      movesCount: 0
+    - type: 0
+      itemID: 2
+      itemCount: 1
+      movesCount: 0
+    onPurchase:
+      m_PersistentCalls:
+        m_Calls: []
+    type: 0
+    alwaysAvaliable: 0
+    avaliableWhen:
+      comparionOperator: 2
+      valueA:
+        source: 1
+        value: 1
+        reference: 
+        compareItemID: 2
+      valueB:
+        source: 0
+        value: 5
+        reference: 
+        compareItemID: 0
+    showInfoButton: 0
+    showTape: 0
+    tapeDescription: 
+  - id: infinitylife24
+    localized: 1
+    Name: 
+    Descrition: 
+    instanceID: 680142221
+    icons:
+    - icon: {fileID: 21300000, guid: 1a5b64ed25bb10f4582776c5be6f7486, type: 3}
+      description: 
+      localized: 0
+    group:
+      id: life-group
+      localized: 1
+      Name: 
+      Descrition: 
+      instanceID: 418997298
+    purchaseType: 0
+    iap: infinitylife24
+    cost: 400
+    pack: []
+    onPurchase:
+      m_PersistentCalls:
+        m_Calls:
+        - m_Target: {fileID: 4571235533785559002}
+          m_TargetAssemblyTypeName: 
+          m_MethodName: SetUnlimitedLivesDay
+          m_Mode: 1
+          m_Arguments:
+            m_ObjectArgument: {fileID: 0}
+            m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+            m_IntArgument: 0
+            m_FloatArgument: 0
+            m_StringArgument: 
+            m_BoolArgument: 0
+          m_CallState: 2
+    type: 0
+    alwaysAvaliable: 0
+    avaliableWhen:
+      comparionOperator: 2
+      valueA:
+        source: 2
+        value: 1
+        reference: UnlimitedLifesSpan
+        compareItemID: 2
+      valueB:
+        source: 0
+        value: 0
+        reference: 
+        compareItemID: 0
+    showInfoButton: 0
+    showTape: 0
+    tapeDescription: 
+  - id: rainbow1
+    localized: 1
+    Name: 
+    Descrition: 
+    instanceID: -2122861178
+    icons:
+    - icon: {fileID: 21300000, guid: 73fa8c46f4fa84f44bad2559a9edf1be, type: 3}
+      description: 
+      localized: 0
+    group:
+      id: rainbow-group
+      localized: 1
+      Name: 
+      Descrition: 
+      instanceID: 159868770
+    purchaseType: 2
+    iap: 
+    cost: 3
+    pack:
+    - type: 0
+      itemID: 101
+      itemCount: 1
+      movesCount: 0
+    onPurchase:
+      m_PersistentCalls:
+        m_Calls: []
+    type: 0
+    alwaysAvaliable: 1
+    avaliableWhen:
+      comparionOperator: 0
+      valueA:
+        source: 0
+        value: 1
+        reference: 
+        compareItemID: 0
+      valueB:
+        source: 0
+        value: 1
+        reference: 
+        compareItemID: 0
+    showInfoButton: 0
+    showTape: 0
+    tapeDescription: 
+  - id: rainbow2
+    localized: 1
+    Name: 
+    Descrition: 
+    instanceID: -752044715
+    icons:
+    - icon: {fileID: 21300000, guid: 73fa8c46f4fa84f44bad2559a9edf1be, type: 3}
+      description: 
+      localized: 0
+    group:
+      id: rainbow-group
+      localized: 1
+      Name: 
+      Descrition: 
+      instanceID: 159868770
+    purchaseType: 2
+    iap: 
+    cost: 12
+    pack:
+    - type: 0
+      itemID: 101
+      itemCount: 8
+      movesCount: 0
+    onPurchase:
+      m_PersistentCalls:
+        m_Calls: []
+    type: 0
+    alwaysAvaliable: 1
+    avaliableWhen:
+      comparionOperator: 0
+      valueA:
+        source: 0
+        value: 1
+        reference: 
+        compareItemID: 0
+      valueB:
+        source: 0
+        value: 1
+        reference: 
+        compareItemID: 0
+    showInfoButton: 0
+    showTape: 0
+    tapeDescription: 
+  - id: rainbow3
+    localized: 1
+    Name: 
+    Descrition: 
+    instanceID: 712201456
+    icons:
+    - icon: {fileID: 21300000, guid: 73fa8c46f4fa84f44bad2559a9edf1be, type: 3}
+      description: 
+      localized: 0
+    group:
+      id: rainbow-group
+      localized: 1
+      Name: 
+      Descrition: 
+      instanceID: 159868770
+    purchaseType: 0
+    iap: 30rainbows
+    cost: 80
+    pack:
+    - type: 0
+      itemID: 101
+      itemCount: 30
+      movesCount: 0
+    onPurchase:
+      m_PersistentCalls:
+        m_Calls: []
+    type: 0
+    alwaysAvaliable: 1
+    avaliableWhen:
+      comparionOperator: 0
+      valueA:
+        source: 0
+        value: 1
+        reference: 
+        compareItemID: 0
+      valueB:
+        source: 0
+        value: 1
+        reference: 
+        compareItemID: 0
+    showInfoButton: 0
+    showTape: 0
+    tapeDescription: 
+  - id: bomb1
+    localized: 1
+    Name: 
+    Descrition: 
+    instanceID: 605738919
+    icons:
+    - icon: {fileID: 21300000, guid: c3465c8ffee1d794f96e8daa339f0dcd, type: 3}
+      description: 
+      localized: 0
+    group:
+      id: bomb-group
+      localized: 1
+      Name: 
+      Descrition: 
+      instanceID: -1736602965
+    purchaseType: 2
+    iap: 
+    cost: 2
+    pack:
+    - type: 0
+      itemID: 102
+      itemCount: 1
+      movesCount: 0
+    onPurchase:
+      m_PersistentCalls:
+        m_Calls: []
+    type: 0
+    alwaysAvaliable: 1
+    avaliableWhen:
+      comparionOperator: 0
+      valueA:
+        source: 0
+        value: 1
+        reference: 
+        compareItemID: 0
+      valueB:
+        source: 0
+        value: 1
+        reference: 
+        compareItemID: 0
+    showInfoButton: 0
+    showTape: 0
+    tapeDescription: 
+  - id: bomb2
+    localized: 1
+    Name: 
+    Descrition: 
+    instanceID: 313153644
+    icons:
+    - icon: {fileID: 21300000, guid: c3465c8ffee1d794f96e8daa339f0dcd, type: 3}
+      description: 
+      localized: 0
+    group:
+      id: bomb-group
+      localized: 1
+      Name: 
+      Descrition: 
+      instanceID: -1736602965
+    purchaseType: 2
+    iap: 
+    cost: 8
+    pack:
+    - type: 0
+      itemID: 102
+      itemCount: 8
+      movesCount: 0
+    onPurchase:
+      m_PersistentCalls:
+        m_Calls: []
+    type: 0
+    alwaysAvaliable: 1
+    avaliableWhen:
+      comparionOperator: 0
+      valueA:
+        source: 0
+        value: 1
+        reference: 
+        compareItemID: 0
+      valueB:
+        source: 0
+        value: 1
+        reference: 
+        compareItemID: 0
+    showInfoButton: 0
+    showTape: 0
+    tapeDescription: 
+  - id: bomb3
+    localized: 1
+    Name: 
+    Descrition: 
+    instanceID: 575556125
+    icons:
+    - icon: {fileID: 21300000, guid: c3465c8ffee1d794f96e8daa339f0dcd, type: 3}
+      description: 
+      localized: 0
+    group:
+      id: bomb-group
+      localized: 1
+      Name: 
+      Descrition: 
+      instanceID: -1736602965
+    purchaseType: 0
+    iap: 30bombs
+    cost: 80
+    pack:
+    - type: 0
+      itemID: 102
+      itemCount: 30
+      movesCount: 0
+    onPurchase:
+      m_PersistentCalls:
+        m_Calls: []
+    type: 0
+    alwaysAvaliable: 1
+    avaliableWhen:
+      comparionOperator: 0
+      valueA:
+        source: 0
+        value: 1
+        reference: 
+        compareItemID: 0
+      valueB:
+        source: 0
+        value: 1
+        reference: 
+        compareItemID: 0
+    showInfoButton: 0
+    showTape: 0
+    tapeDescription: 
+  - id: glove1
+    localized: 1
+    Name: 
+    Descrition: 
+    instanceID: -1538791753
+    icons:
+    - icon: {fileID: 21300000, guid: 626c2e2822123054797ba069c79de4b0, type: 3}
+      description: 
+      localized: 0
+    group:
+      id: glove-group
+      localized: 1
+      Name: 
+      Descrition: 
+      instanceID: -695032787
+    purchaseType: 2
+    iap: 
+    cost: 1
+    pack:
+    - type: 0
+      itemID: 100
+      itemCount: 1
+      movesCount: 0
+    onPurchase:
+      m_PersistentCalls:
+        m_Calls: []
+    type: 0
+    alwaysAvaliable: 1
+    avaliableWhen:
+      comparionOperator: 0
+      valueA:
+        source: 0
+        value: 1
+        reference: 
+        compareItemID: 0
+      valueB:
+        source: 0
+        value: 1
+        reference: 
+        compareItemID: 0
+    showInfoButton: 0
+    showTape: 0
+    tapeDescription: 
+  - id: glove2
+    localized: 1
+    Name: 
+    Descrition: 
+    instanceID: 1693365099
+    icons:
+    - icon: {fileID: 21300000, guid: 626c2e2822123054797ba069c79de4b0, type: 3}
+      description: 
+      localized: 0
+    group:
+      id: glove-group
+      localized: 1
+      Name: 
+      Descrition: 
+      instanceID: -695032787
+    purchaseType: 2
+    iap: 
+    cost: 4
+    pack:
+    - type: 0
+      itemID: 100
+      itemCount: 8
+      movesCount: 0
+    onPurchase:
+      m_PersistentCalls:
+        m_Calls: []
+    type: 0
+    alwaysAvaliable: 1
+    avaliableWhen:
+      comparionOperator: 0
+      valueA:
+        source: 0
+        value: 1
+        reference: 
+        compareItemID: 0
+      valueB:
+        source: 0
+        value: 1
+        reference: 
+        compareItemID: 0
+    showInfoButton: 0
+    showTape: 0
+    tapeDescription: 
+  - id: glove3
+    localized: 1
+    Name: 
+    Descrition: 
+    instanceID: -1272966327
+    icons:
+    - icon: {fileID: 21300000, guid: 626c2e2822123054797ba069c79de4b0, type: 3}
+      description: 
+      localized: 0
+    group:
+      id: glove-group
+      localized: 1
+      Name: 
+      Descrition: 
+      instanceID: -695032787
+    purchaseType: 0
+    iap: 30gloves
+    cost: 80
+    pack:
+    - type: 0
+      itemID: 100
+      itemCount: 30
+      movesCount: 0
+    onPurchase:
+      m_PersistentCalls:
+        m_Calls: []
+    type: 0
+    alwaysAvaliable: 1
+    avaliableWhen:
+      comparionOperator: 0
+      valueA:
+        source: 0
+        value: 1
+        reference: ExtraLifes
+        compareItemID: 0
+      valueB:
+        source: 0
+        value: 1
+        reference: 
+        compareItemID: 0
+    showInfoButton: 0
+    showTape: 0
+    tapeDescription: 
+  - id: surpirse1
+    localized: 1
+    Name: 
+    Descrition: 
+    instanceID: 1815697455
+    icons:
+    - icon: {fileID: 21300000, guid: dc4ce117a121c3e45be2f3938901c34d, type: 3}
+      description: 
+      localized: 0
+    group:
+      id: surprise-group
+      localized: 1
+      Name: 
+      Descrition: 
+      instanceID: 2001758764
+    purchaseType: 2
+    iap: 
+    cost: 6
+    pack:
+    - type: 0
+      itemID: 12
+      itemCount: 8
+      movesCount: 0
+    onPurchase:
+      m_PersistentCalls:
+        m_Calls: []
+    type: 0
+    alwaysAvaliable: 1
+    avaliableWhen:
+      comparionOperator: 0
+      valueA:
+        source: 0
+        value: 1
+        reference: 
+        compareItemID: 0
+      valueB:
+        source: 0
+        value: 1
+        reference: 
+        compareItemID: 0
+    showInfoButton: 0
+    showTape: 0
+    tapeDescription: 
+  - id: surpirse2
+    localized: 1
+    Name: 
+    Descrition: 
+    instanceID: -35792088
+    icons:
+    - icon: {fileID: 21300000, guid: dc4ce117a121c3e45be2f3938901c34d, type: 3}
+      description: 
+      localized: 0
+    group:
+      id: surprise-group
+      localized: 1
+      Name: 
+      Descrition: 
+      instanceID: 2001758764
+    purchaseType: 0
+    iap: 30surprises
+    cost: 40
+    pack:
+    - type: 0
+      itemID: 12
+      itemCount: 30
+      movesCount: 0
+    onPurchase:
+      m_PersistentCalls:
+        m_Calls: []
+    type: 0
+    alwaysAvaliable: 1
+    avaliableWhen:
+      comparionOperator: 0
+      valueA:
+        source: 0
+        value: 1
+        reference: 
+        compareItemID: 0
+      valueB:
+        source: 0
+        value: 1
+        reference: 
+        compareItemID: 0
+    showInfoButton: 0
+    showTape: 0
+    tapeDescription: 
+  - id: surpirse3
+    localized: 1
+    Name: 
+    Descrition: 
+    instanceID: -917293695
+    icons:
+    - icon: {fileID: 21300000, guid: dc4ce117a121c3e45be2f3938901c34d, type: 3}
+      description: 
+      localized: 0
+    group:
+      id: surprise-group
+      localized: 1
+      Name: 
+      Descrition: 
+      instanceID: 2001758764
+    purchaseType: 0
+    iap: 60surprises
+    cost: 80
+    pack:
+    - type: 0
+      itemID: 12
+      itemCount: 60
+      movesCount: 0
+    onPurchase:
+      m_PersistentCalls:
+        m_Calls: []
+    type: 0
+    alwaysAvaliable: 1
+    avaliableWhen:
+      comparionOperator: 0
+      valueA:
+        source: 0
+        value: 1
+        reference: 
+        compareItemID: 0
+      valueB:
+        source: 0
+        value: 1
+        reference: 
+        compareItemID: 0
+    showInfoButton: 0
+    showTape: 0
+    tapeDescription: 
+  - id: paint1
+    localized: 1
+    Name: 
+    Descrition: 
+    instanceID: -1678186458
+    icons:
+    - icon: {fileID: 21300000, guid: 4da9cdcc9c1b1dd43ad55dbadf5bc829, type: 3}
+      description: 
+      localized: 0
+    group:
+      id: paint-group
+      localized: 1
+      Name: 
+      Descrition: 
+      instanceID: -1121568883
+    purchaseType: 2
+    iap: 
+    cost: 1
+    pack:
+    - type: 0
+      itemID: 11
+      itemCount: 1
+      movesCount: 0
+    onPurchase:
+      m_PersistentCalls:
+        m_Calls: []
+    type: 0
+    alwaysAvaliable: 1
+    avaliableWhen:
+      comparionOperator: 0
+      valueA:
+        source: 0
+        value: 1
+        reference: 
+        compareItemID: 0
+      valueB:
+        source: 0
+        value: 1
+        reference: 
+        compareItemID: 0
+    showInfoButton: 0
+    showTape: 0
+    tapeDescription: 
+  - id: paint2
+    localized: 1
+    Name: 
+    Descrition: 
+    instanceID: -724145791
+    icons:
+    - icon: {fileID: 21300000, guid: 4da9cdcc9c1b1dd43ad55dbadf5bc829, type: 3}
+      description: 
+      localized: 0
+    group:
+      id: paint-group
+      localized: 1
+      Name: 
+      Descrition: 
+      instanceID: -1121568883
+    purchaseType: 2
+    iap: 
+    cost: 3
+    pack:
+    - type: 0
+      itemID: 11
+      itemCount: 8
+      movesCount: 0
+    onPurchase:
+      m_PersistentCalls:
+        m_Calls: []
+    type: 0
+    alwaysAvaliable: 1
+    avaliableWhen:
+      comparionOperator: 0
+      valueA:
+        source: 0
+        value: 1
+        reference: 
+        compareItemID: 0
+      valueB:
+        source: 0
+        value: 1
+        reference: 
+        compareItemID: 0
+    showInfoButton: 0
+    showTape: 0
+    tapeDescription: 
+  - id: paint3
+    localized: 1
+    Name: 
+    Descrition: 
+    instanceID: 145949413
+    icons:
+    - icon: {fileID: 21300000, guid: 4da9cdcc9c1b1dd43ad55dbadf5bc829, type: 3}
+      description: 
+      localized: 0
+    group:
+      id: paint-group
+      localized: 1
+      Name: 
+      Descrition: 
+      instanceID: -1121568883
+    purchaseType: 0
+    iap: 30paint
+    cost: 80
+    pack:
+    - type: 0
+      itemID: 11
+      itemCount: 30
+      movesCount: 0
+    onPurchase:
+      m_PersistentCalls:
+        m_Calls: []
+    type: 0
+    alwaysAvaliable: 1
+    avaliableWhen:
+      comparionOperator: 0
+      valueA:
+        source: 0
+        value: 1
+        reference: 
+        compareItemID: 0
+      valueB:
+        source: 0
+        value: 1
+        reference: 
+        compareItemID: 0
+    showInfoButton: 0
+    showTape: 0
+    tapeDescription: 
+  - id: extramoves1
+    localized: 1
+    Name: 
+    Descrition: 
+    instanceID: -1498417816
+    icons:
+    - icon: {fileID: 21300000, guid: a21cacfa94f34b543ba0e0bd7f16a2c6, type: 3}
+      description: 
+      localized: 0
+    group:
+      id: extramoves-group
+      localized: 1
+      Name: 
+      Descrition: 
+      instanceID: -74907843
+    purchaseType: 2
+    iap: 
+    cost: 3
+    pack:
+    - type: 0
+      itemID: 10
+      itemCount: 1
+      movesCount: 0
+    onPurchase:
+      m_PersistentCalls:
+        m_Calls: []
+    type: 0
+    alwaysAvaliable: 1
+    avaliableWhen:
+      comparionOperator: 0
+      valueA:
+        source: 0
+        value: 1
+        reference: 
+        compareItemID: 0
+      valueB:
+        source: 0
+        value: 1
+        reference: 
+        compareItemID: 0
+    showInfoButton: 0
+    showTape: 0
+    tapeDescription: 
+  - id: extramoves2
+    localized: 1
+    Name: 
+    Descrition: 
+    instanceID: 1104284253
+    icons:
+    - icon: {fileID: 21300000, guid: a21cacfa94f34b543ba0e0bd7f16a2c6, type: 3}
+      description: 
+      localized: 0
+    group:
+      id: extramoves-group
+      localized: 1
+      Name: 
+      Descrition: 
+      instanceID: -74907843
+    purchaseType: 2
+    iap: 
+    cost: 12
+    pack:
+    - type: 0
+      itemID: 10
+      itemCount: 8
+      movesCount: 0
+    onPurchase:
+      m_PersistentCalls:
+        m_Calls: []
+    type: 0
+    alwaysAvaliable: 1
+    avaliableWhen:
+      comparionOperator: 0
+      valueA:
+        source: 0
+        value: 1
+        reference: 
+        compareItemID: 0
+      valueB:
+        source: 0
+        value: 1
+        reference: 
+        compareItemID: 0
+    showInfoButton: 0
+    showTape: 0
+    tapeDescription: 
+  - id: extramoves3
+    localized: 1
+    Name: 
+    Descrition: 
+    instanceID: 1365679272
+    icons:
+    - icon: {fileID: 21300000, guid: a21cacfa94f34b543ba0e0bd7f16a2c6, type: 3}
+      description: 
+      localized: 0
+    group:
+      id: extramoves-group
+      localized: 1
+      Name: 
+      Descrition: 
+      instanceID: -74907843
+    purchaseType: 0
+    iap: 30extramoves
+    cost: 80
+    pack:
+    - type: 0
+      itemID: 10
+      itemCount: 30
+      movesCount: 0
+    onPurchase:
+      m_PersistentCalls:
+        m_Calls: []
+    type: 0
+    alwaysAvaliable: 1
+    avaliableWhen:
+      comparionOperator: 0
+      valueA:
+        source: 0
+        value: 1
+        reference: 
+        compareItemID: 0
+      valueB:
+        source: 0
+        value: 1
+        reference: 
+        compareItemID: 0
+    showInfoButton: 0
+    showTape: 0
+    tapeDescription: 
+  - id: pearls1
+    localized: 1
+    Name: 
+    Descrition: 
+    instanceID: -1094700428
+    icons:
+    - icon: {fileID: 21300000, guid: 2ba63f1b642343f409532b44ecea1293, type: 3}
+      description: 
+      localized: 0
+    group:
+      id: pearls-group
+      localized: 1
+      Name: 
+      Descrition: 
+      instanceID: 471043123
+    purchaseType: 2
+    iap: 
+    cost: 1
+    pack:
+    - type: 0
+      itemID: 13
+      itemCount: 1
+      movesCount: 0
+    onPurchase:
+      m_PersistentCalls:
+        m_Calls: []
+    type: 0
+    alwaysAvaliable: 1
+    avaliableWhen:
+      comparionOperator: 0
+      valueA:
+        source: 0
+        value: 1
+        reference: 
+        compareItemID: 0
+      valueB:
+        source: 0
+        value: 1
+        reference: 
+        compareItemID: 0
+    showInfoButton: 0
+    showTape: 0
+    tapeDescription: 
+  - id: pearls2
+    localized: 1
+    Name: 
+    Descrition: 
+    instanceID: 96910261
+    icons:
+    - icon: {fileID: 21300000, guid: 2ba63f1b642343f409532b44ecea1293, type: 3}
+      description: 
+      localized: 0
+    group:
+      id: pearls-group
+      localized: 1
+      Name: 
+      Descrition: 
+      instanceID: 471043123
+    purchaseType: 2
+    iap: 
+    cost: 3
+    pack:
+    - type: 0
+      itemID: 13
+      itemCount: 8
+      movesCount: 0
+    onPurchase:
+      m_PersistentCalls:
+        m_Calls: []
+    type: 0
+    alwaysAvaliable: 1
+    avaliableWhen:
+      comparionOperator: 0
+      valueA:
+        source: 0
+        value: 1
+        reference: 
+        compareItemID: 0
+      valueB:
+        source: 0
+        value: 1
+        reference: 
+        compareItemID: 0
+    showInfoButton: 0
+    showTape: 0
+    tapeDescription: 
+  - id: pearls3
+    localized: 1
+    Name: 
+    Descrition: 
+    instanceID: 1387191402
+    icons:
+    - icon: {fileID: 21300000, guid: 2ba63f1b642343f409532b44ecea1293, type: 3}
+      description: 
+      localized: 0
+    group:
+      id: pearls-group
+      localized: 1
+      Name: 
+      Descrition: 
+      instanceID: 471043123
+    purchaseType: 0
+    iap: 30pearls
+    cost: 80
+    pack:
+    - type: 0
+      itemID: 13
+      itemCount: 30
+      movesCount: 0
+    onPurchase:
+      m_PersistentCalls:
+        m_Calls: []
+    type: 0
+    alwaysAvaliable: 1
+    avaliableWhen:
+      comparionOperator: 0
+      valueA:
+        source: 0
+        value: 1
+        reference: 
+        compareItemID: 0
+      valueB:
+        source: 0
+        value: 1
+        reference: 
+        compareItemID: 0
+    showInfoButton: 0
+    showTape: 0
+    tapeDescription: 
+  - id: moves5
+    localized: 1
+    Name: 
+    Descrition: 
+    instanceID: 1202424487
+    icons: []
+    group:
+      id: moves
+      localized: 0
+      Name: 
+      Descrition: 
+      instanceID: -873935938
+    purchaseType: 2
+    iap: 
+    cost: 10
+    pack:
+    - type: 1
+      itemID: 0
+      itemCount: 1
+      movesCount: 5
+    onPurchase:
+      m_PersistentCalls:
+        m_Calls: []
+    type: 0
+    alwaysAvaliable: 1
+    avaliableWhen:
+      comparionOperator: 0
+      valueA:
+        source: 0
+        value: 1
+        reference: 
+        compareItemID: 0
+      valueB:
+        source: 0
+        value: 1
+        reference: 
+        compareItemID: 0
+    showInfoButton: 0
+    showTape: 0
+    tapeDescription: 
+  - id: premium
+    localized: 1
+    Name: 
+    Descrition: 
+    instanceID: 1540304625
+    icons:
+    - icon: {fileID: 21300000, guid: aaf31081f2713dd4e9a4e3782fcdeb7b, type: 3}
+      description: 
+      localized: 1
+    - icon: {fileID: 21300000, guid: f94b1d4c33d343b43aa7f00520a2ee5a, type: 3}
+      description: 
+      localized: 1
+    - icon: {fileID: 21300000, guid: b29b81725f7bb3142b8bcee892fd3d73, type: 3}
+      description: 
+      localized: 1
+    group:
+      id: packs
+      localized: 1
+      Name: 
+      Descrition: 
+      instanceID: 406240142
+    purchaseType: 0
+    iap: premium
+    cost: 1
+    pack:
+    - type: 0
+      itemID: 0
+      itemCount: 30
+      movesCount: 0
+    - type: 0
+      itemID: 101
+      itemCount: 5
+      movesCount: 0
+    onPurchase:
+      m_PersistentCalls:
+        m_Calls:
+        - m_Target: {fileID: 4571235533785559002}
+          m_TargetAssemblyTypeName: ProfileAssistant, Assembly-CSharp
+          m_MethodName: SetPremiumTwoDays
+          m_Mode: 1
+          m_Arguments:
+            m_ObjectArgument: {fileID: 0}
+            m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+            m_IntArgument: 0
+            m_FloatArgument: 0
+            m_StringArgument: 
+            m_BoolArgument: 0
+          m_CallState: 2
+    type: 0
+    alwaysAvaliable: 0
+    avaliableWhen:
+      comparionOperator: 2
+      valueA:
+        source: 2
+        value: 1
+        reference: PremiumSpan
+        compareItemID: 0
+      valueB:
+        source: 0
+        value: 0
+        reference: 
+        compareItemID: 0
+    showInfoButton: 1
+    showTape: 0
+    tapeDescription: 
+  - id: starter-pack
+    localized: 1
+    Name: 
+    Descrition: 
+    instanceID: -2132671813
+    icons:
+    - icon: {fileID: 21300002, guid: d8fc6bdc41b43314a88f273a454249d0, type: 3}
+      description: 
+      localized: 0
+    - icon: {fileID: 21300006, guid: d8fc6bdc41b43314a88f273a454249d0, type: 3}
+      description: 
+      localized: 0
+    - icon: {fileID: 21300008, guid: d8fc6bdc41b43314a88f273a454249d0, type: 3}
+      description: 
+      localized: 0
+    - icon: {fileID: 21300010, guid: d8fc6bdc41b43314a88f273a454249d0, type: 3}
+      description: 
+      localized: 0
+    group:
+      id: packs
+      localized: 1
+      Name: 
+      Descrition: 
+      instanceID: 406240142
+    purchaseType: 0
+    iap: basepack
+    cost: 1
+    pack: []
+    onPurchase:
+      m_PersistentCalls:
+        m_Calls: []
+    type: 0
+    alwaysAvaliable: 1
+    avaliableWhen:
+      comparionOperator: 0
+      valueA:
+        source: 0
+        value: 1
+        reference: 
+        compareItemID: 0
+      valueB:
+        source: 0
+        value: 1
+        reference: 
+        compareItemID: 0
+    showInfoButton: 1
+    showTape: 0
+    tapeDescription: x2
+  - id: jelly-combo
+    localized: 1
+    Name: 
+    Descrition: 
+    instanceID: -845474005
+    icons:
+    - icon: {fileID: 21300000, guid: 86538cadcf56e5148a2d012810c15356, type: 3}
+      description: 
+      localized: 0
+    - icon: {fileID: 21300000, guid: bfc8f96b1711cc94dbb003c44e3a80d3, type: 3}
+      description: 
+      localized: 0
+    - icon: {fileID: 21300000, guid: 34c0538bbe941574f9a54e45fe23dc5a, type: 3}
+      description: 
+      localized: 0
+    group:
+      id: packs
+      localized: 1
+      Name: 
+      Descrition: 
+      instanceID: 406240142
+    purchaseType: 0
+    iap: jellycombo
+    cost: 1
+    pack: []
+    onPurchase:
+      m_PersistentCalls:
+        m_Calls: []
+    type: 0
+    alwaysAvaliable: 1
+    avaliableWhen:
+      comparionOperator: 0
+      valueA:
+        source: 0
+        value: 1
+        reference: 
+        compareItemID: 0
+      valueB:
+        source: 0
+        value: 1
+        reference: 
+        compareItemID: 0
+    showInfoButton: 1
+    showTape: 1
+    tapeDescription: x2
+  - id: coins3
+    localized: 1
+    Name: 
+    Descrition: 
+    instanceID: 1051680839
+    icons:
+    - icon: {fileID: 21300000, guid: f94b1d4c33d343b43aa7f00520a2ee5a, type: 3}
+      description: 
+      localized: 0
+    group:
+      id: coins-group
+      localized: 1
+      Name: 
+      Descrition: 
+      instanceID: 862277854
+    purchaseType: 0
+    iap: 100jewels
+    cost: 1
+    pack:
+    - type: 0
+      itemID: 0
+      itemCount: 100
+      movesCount: 0
+    onPurchase:
+      m_PersistentCalls:
+        m_Calls: []
+    type: 0
+    alwaysAvaliable: 1
+    avaliableWhen:
+      comparionOperator: 0
+      valueA:
+        source: 0
+        value: 1
+        reference: 
+        compareItemID: 0
+      valueB:
+        source: 0
+        value: 1
+        reference: 
+        compareItemID: 0
+    showInfoButton: 0
+    showTape: 0
+    tapeDescription: 
+  - id: coins4
+    localized: 1
+    Name: 
+    Descrition: 
+    instanceID: -1134206708
+    icons:
+    - icon: {fileID: 21300000, guid: f94b1d4c33d343b43aa7f00520a2ee5a, type: 3}
+      description: 
+      localized: 0
+    group:
+      id: coins-group
+      localized: 1
+      Name: 
+      Descrition: 
+      instanceID: 862277854
+    purchaseType: 0
+    iap: 300jewels
+    cost: 1
+    pack:
+    - type: 0
+      itemID: 0
+      itemCount: 300
+      movesCount: 0
+    onPurchase:
+      m_PersistentCalls:
+        m_Calls: []
+    type: 0
+    alwaysAvaliable: 1
+    avaliableWhen:
+      comparionOperator: 0
+      valueA:
+        source: 0
+        value: 1
+        reference: 
+        compareItemID: 0
+      valueB:
+        source: 0
+        value: 1
+        reference: 
+        compareItemID: 0
+    showInfoButton: 0
+    showTape: 0
+    tapeDescription: 
+  groups:
+  - id: free-group
+    localized: 1
+    Name: 
+    Descrition: 
+    instanceID: 1203235978
+  - id: coins-group
+    localized: 1
+    Name: 
+    Descrition: 
+    instanceID: 862277854
+  - id: life-group
+    localized: 1
+    Name: 
+    Descrition: 
+    instanceID: 418997298
+  - id: rainbow-group
+    localized: 1
+    Name: 
+    Descrition: 
+    instanceID: 159868770
+  - id: bomb-group
+    localized: 1
+    Name: 
+    Descrition: 
+    instanceID: -1736602965
+  - id: glove-group
+    localized: 1
+    Name: 
+    Descrition: 
+    instanceID: -695032787
+  - id: surprise-group
+    localized: 1
+    Name: 
+    Descrition: 
+    instanceID: 2001758764
+  - id: paint-group
+    localized: 1
+    Name: 
+    Descrition: 
+    instanceID: -1121568883
+  - id: extramoves-group
+    localized: 1
+    Name: 
+    Descrition: 
+    instanceID: -74907843
+  - id: pearls-group
+    localized: 1
+    Name: 
+    Descrition: 
+    instanceID: 471043123
+  - id: moves
+    localized: 0
+    Name: 
+    Descrition: 
+    instanceID: -2121784158
+  - id: packs
+    localized: 1
+    Name: 
+    Descrition: 
+    instanceID: 406240142
+  iaps:
+  - id: 5jewels
+    sku: 5jewels
+  - id: 30jewels
+    sku: 30jewels
+  - id: 100jewels
+    sku: 100jewels
+  - id: 300jewels
+    sku: 300jewels
+  - id: 30rainbows
+    sku: 30rainbows
+  - id: 30bombs
+    sku: 30bombs
+  - id: 30gloves
+    sku: 30gloves
+  - id: 30surprises
+    sku: 30surprises
+  - id: 60surprises
+    sku: 60surprises
+  - id: 30paint
+    sku: 30paint
+  - id: 30extramoves
+    sku: 30extramoves
+  - id: 30pearls
+    sku: 30pearls
+  - id: infinitylife24
+    sku: infinitylife24
+  - id: basepack
+    sku: basepack
+  - id: premium
+    sku: premium
+  - id: jellycombo
+    sku: jellycombo
+  storeItemContent: BerryStoreItem
+  storeGroupContent: BerryStoreGroup
+--- !u!114 &4571235533785557264
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4571235533785557258}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b7726075bc8a4140a082c2898fe03476, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  container: {fileID: 0}
+  groups:
+  - free-group
+  - packs
+  - coins-group
+  - life-group
+  - rainbow-group
+  - bomb-group
+  - glove-group
+  - extramoves-group
+  - paint-group
+  - pearls-group
+  - surprise-group
+--- !u!114 &4571235533785559002
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 114068334537439378, guid: 9b2f2ab57d9fa644fa6f5269584c0f61,
+    type: 2}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4571235533785557258}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4f13376843a993948b6aa74d8b3bc050, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  debugTimeOffset: 0
+  firstStartMenuSkiping: 1
+  firstStartInventory:
+  - type: 0
+    initialCount: 10
+  - type: 1
+    initialCount: 5
+  - type: 2
+    initialCount: 5
+  - type: 10
+    initialCount: 0
+  - type: 11
+    initialCount: 0
+  - type: 12
+    initialCount: 2
+  - type: 13
+    initialCount: 0
+  - type: 100
+    initialCount: 3
+  - type: 101
+    initialCount: 0
+  - type: 102
+    initialCount: 0
+  - type: 14
+    initialCount: 2
+  - type: 103
+    initialCount: 2
+--- !u!114 &4571235533785558483
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 114461943217512300, guid: 9b2f2ab57d9fa644fa6f5269584c0f61,
+    type: 2}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4571235533785557258}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9cd307801df135d48a149c379ebf78e2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  tracks:
+  - name: Menu
+    path: 
+    fullName: Menu
+    track: {fileID: 8300000, guid: 9f4aa49aca53774419662121a6530097, type: 3}
+    id: 63
+  - name: MiniGame
+    path: 
+    fullName: MiniGame
+    track: {fileID: 8300000, guid: 10cbf491557c59b40bb17ea142a9f056, type: 3}
+    id: 64
+  - name: MatchThree
+    path: GamePlay
+    fullName: GamePlay/MatchThree
+    track: {fileID: 8300000, guid: 9e0afccb1aa42bf47962c69a19b9c607, type: 3}
+    id: 65
+  - name: MatchChain
+    path: GamePlay
+    fullName: GamePlay/MatchChain
+    track: {fileID: 8300000, guid: a636e3d97e0cdae439596f970bd9fdba, type: 3}
+    id: 66
+  - name: MatchClick
+    path: GamePlay
+    fullName: GamePlay/MatchClick
+    track: {fileID: 8300000, guid: 1fbe4827b4446d744b14820cd2c2d095, type: 3}
+    id: 67
+  sounds:
+  - name: Awake
+    path: Bomb
+    fullName: Bomb/Awake
+    clips:
+    - {fileID: 8300000, guid: 3e999396f06cfd24dadf20312273918f, type: 3}
+    - {fileID: 8300000, guid: c7cb068fce4406e4a9e04ee1d6667f3b, type: 3}
+    - {fileID: 8300000, guid: 466e8621083c36c4cb636421751a07f5, type: 3}
+    id: 0
+  - name: Destroying
+    path: Bomb
+    fullName: Bomb/Destroying
+    clips:
+    - {fileID: 8300000, guid: 01a6b6e1a2376894bbefda991973930d, type: 3}
+    - {fileID: 8300000, guid: 5fbd1a7953dbbf64c88cea66c75392b0, type: 3}
+    - {fileID: 8300000, guid: 10494caac276fad4e870404cd7a4e74d, type: 3}
+    id: 1
+  - name: ExtraMoves
+    path: Booster
+    fullName: Booster/ExtraMoves
+    clips:
+    - {fileID: 8300000, guid: 123c13d325413b848842c1992b8212bb, type: 3}
+    - {fileID: 8300000, guid: 7c3d2ccf14a991a4fa4b8133d79ad2bb, type: 3}
+    - {fileID: 8300000, guid: ea7ff614dca3f5c49b793a061a396e00, type: 3}
+    - {fileID: 8300000, guid: 2cb62aa965a04dd4082366770bbea003, type: 3}
+    - {fileID: 8300000, guid: cff7baa43ee4b8f4f8934b639d2f4a1c, type: 3}
+    id: 2
+  - name: PaintDrop
+    path: Booster
+    fullName: Booster/PaintDrop
+    clips:
+    - {fileID: 8300000, guid: 7e0dbb224c6e565409cc14267118e112, type: 3}
+    - {fileID: 8300000, guid: 25a36658bd3edb04cb144d1086ca733e, type: 3}
+    - {fileID: 8300000, guid: 84ac0e13d4dbfe7408defddf0c69bd26, type: 3}
+    - {fileID: 8300000, guid: 2a5d00e1072fa3d41ba4de6d88a30e44, type: 3}
+    - {fileID: 8300000, guid: 2b4a8e9124b1454449c8ee2d945ac184, type: 3}
+    id: 3
+  - name: Destroying
+    path: Booster/Airstrike
+    fullName: Booster/Airstrike/Destroying
+    clips:
+    - {fileID: 8300000, guid: 9434e30e7d2a99842bffc9660c4dbd9d, type: 3}
+    id: 4
+  - name: Buy
+    path: 
+    fullName: Buy
+    clips:
+    - {fileID: 8300000, guid: 9559f81bac9481c42ab60c162ec65ff8, type: 3}
+    id: 5
+  - name: Awake
+    path: Cake
+    fullName: Cake/Awake
+    clips:
+    - {fileID: 8300000, guid: 089ae11d8fe691b4099dff86613729d9, type: 3}
+    - {fileID: 8300000, guid: 64851977a9507544983782fcd244de4c, type: 3}
+    id: 6
+  - name: Destroying
+    path: Cake
+    fullName: Cake/Destroying
+    clips:
+    - {fileID: 8300000, guid: afb85f5c6042f394993588ee02258d2b, type: 3}
+    id: 7
+  - name: Destroying
+    path: Chip
+    fullName: Chip/Destroying
+    clips:
+    - {fileID: 8300000, guid: f33769135ae596843811c638d3a655c5, type: 3}
+    - {fileID: 8300000, guid: d229771ea8861e34db04218727e40632, type: 3}
+    - {fileID: 8300000, guid: 0bced8ecd33a68b428e6880b08bf05ae, type: 3}
+    - {fileID: 8300000, guid: c1a0a8e5e62d87545a0b00c24d6fe30a, type: 3}
+    - {fileID: 8300000, guid: 53e5da663c7a8bb45973652551455ddc, type: 3}
+    - {fileID: 8300000, guid: 42db6eb72bee31c43ae53f21fe9c756d, type: 3}
+    - {fileID: 8300000, guid: 5a13b106841aa1d4dac49b4dd8c6a9ca, type: 3}
+    - {fileID: 8300000, guid: 2512806bfee4c354e8a9774fb4a7fa60, type: 3}
+    - {fileID: 8300000, guid: 27639e62353697543bbb60a9fe0f8c68, type: 3}
+    - {fileID: 8300000, guid: ad0c51d289cfb68468000b8f7163d18e, type: 3}
+    id: 8
+  - name: Landing
+    path: Chip
+    fullName: Chip/Landing
+    clips:
+    - {fileID: 8300000, guid: f5f3c033bf352764aa6e74797a385308, type: 3}
+    - {fileID: 8300000, guid: 9a0e0c1be1c21654eb0f6f3219dfb412, type: 3}
+    - {fileID: 8300000, guid: f827709357ded1b4289a9439c97aa51c, type: 3}
+    - {fileID: 8300000, guid: 9d06b95069951804d98b5d5bf38b0d6e, type: 3}
+    - {fileID: 8300000, guid: 787d9aa3d518131489403cccfe2f664e, type: 3}
+    - {fileID: 8300000, guid: 8e77ac2454ada464e80ca3aefbba113e, type: 3}
+    - {fileID: 8300000, guid: ccae3c1f8fd2e4d42afe47e4cbd2f775, type: 3}
+    - {fileID: 8300000, guid: caa40156092f5274b9bdd4a1d0520b39, type: 3}
+    - {fileID: 8300000, guid: 04d1ed227b5e6514fa6440be42d1be08, type: 3}
+    - {fileID: 8300000, guid: 964eeefd5db5cab4e9fb4c89ddf63a39, type: 3}
+    id: 9
+  - name: Press
+    path: Chip
+    fullName: Chip/Press
+    clips:
+    - {fileID: 8300000, guid: d45c5fa90459a4a4ebf4182c03e14b5d, type: 3}
+    - {fileID: 8300000, guid: fba152d49037b7447b2ad56f2aea2c49, type: 3}
+    id: 10
+  - name: Unpress
+    path: Chip
+    fullName: Chip/Unpress
+    clips:
+    - {fileID: 8300000, guid: 5b98370264636e24cad3939eaa57dd04, type: 3}
+    - {fileID: 8300000, guid: 1a2c9fb21f778cf44bfbd3d230625576, type: 3}
+    id: 11
+  - name: Awake
+    path: CrossBomb
+    fullName: CrossBomb/Awake
+    clips:
+    - {fileID: 8300000, guid: 41e651535d33ad646a7c5fe531c5a986, type: 3}
+    - {fileID: 8300000, guid: 2159e735ffdc84b41ada7bdd2f59896c, type: 3}
+    - {fileID: 8300000, guid: 3e5838943805e5841957256175ca9a1d, type: 3}
+    id: 12
+  - name: Destroying
+    path: CrossBomb
+    fullName: CrossBomb/Destroying
+    clips:
+    - {fileID: 8300000, guid: 4a4522d4a040296428b73b0f63444268, type: 3}
+    - {fileID: 8300000, guid: 207298d7017cc754aafedadb15794ba0, type: 3}
+    - {fileID: 8300000, guid: 4167069861a64c94286858ff2a624f47, type: 3}
+    id: 13
+  - name: Explosion
+    path: Firework
+    fullName: Firework/Explosion
+    clips:
+    - {fileID: 8300000, guid: 5cb587415be9c7b47816295fc09a4163, type: 3}
+    id: 14
+  - name: Water
+    path: Goal/Flood
+    fullName: Goal/Flood/Water
+    clips:
+    - {fileID: 8300000, guid: cf203ae40a901c747b411bcb3a21992b, type: 3}
+    id: 15
+  - name: Destroying
+    path: Glass
+    fullName: Glass/Destroying
+    clips:
+    - {fileID: 8300000, guid: 305cd56d8d3d55043af7c01bedb0f038, type: 3}
+    - {fileID: 8300000, guid: 1c6050149131cb3428a099ff13a01d26, type: 3}
+    - {fileID: 8300000, guid: df2b5810383474746b2cfa4b673bd518, type: 3}
+    id: 16
+  - name: LayerDown
+    path: Glass
+    fullName: Glass/LayerDown
+    clips:
+    - {fileID: 8300000, guid: 45b30c027cff17f48b44de3282083458, type: 3}
+    - {fileID: 8300000, guid: 39ef8c98e18284747918ac40bc995161, type: 3}
+    id: 17
+  - name: Awake
+    path: Ice
+    fullName: Ice/Awake
+    clips:
+    - {fileID: 8300000, guid: 2f843d699a4f571429426133e3e21a5f, type: 3}
+    - {fileID: 8300000, guid: f2a7b486f890bca468303ab3e46e164a, type: 3}
+    id: 18
+  - name: Destroying
+    path: Ice
+    fullName: Ice/Destroying
+    clips:
+    - {fileID: 8300000, guid: 320e3fafa0fda8e45b298dc9a51fd76b, type: 3}
+    - {fileID: 8300000, guid: 04acb28ef541dd6448ccede5121d8858, type: 3}
+    id: 19
+  - name: Awake
+    path: Ingredient
+    fullName: Ingredient/Awake
+    clips:
+    - {fileID: 8300000, guid: 7be39d2c7d0e83446a257d413528080d, type: 3}
+    - {fileID: 8300000, guid: 2aeafc64514d8b248822b3c66757f790, type: 3}
+    id: 20
+  - name: Collection
+    path: Ingredient
+    fullName: Ingredient/Collection
+    clips:
+    - {fileID: 8300000, guid: 04acb28ef541dd6448ccede5121d8858, type: 3}
+    - {fileID: 8300000, guid: 320e3fafa0fda8e45b298dc9a51fd76b, type: 3}
+    id: 21
+  - name: Awake
+    path: Jam
+    fullName: Jam/Awake
+    clips:
+    - {fileID: 8300000, guid: 4369fe43dba87af4c8bb7d010e6c1606, type: 3}
+    - {fileID: 8300000, guid: d7697f24a014047429862722a4803f4b, type: 3}
+    - {fileID: 8300000, guid: f5230dd603c5b364aa75eb55d4690684, type: 3}
+    id: 22
+  - name: Destroying
+    path: Jam
+    fullName: Jam/Destroying
+    clips:
+    - {fileID: 8300000, guid: a7bf51cabc986954e9576b03cec3b810, type: 3}
+    - {fileID: 8300000, guid: 2f43b0b79659c6543acaa998adb0900f, type: 3}
+    - {fileID: 8300000, guid: acbbdc785b37a5a44bc99b08137ba31e, type: 3}
+    id: 23
+  - name: Landing
+    path: Jam
+    fullName: Jam/Landing
+    clips:
+    - {fileID: 8300000, guid: 9a8917e84c1c39b48aa4a70e74c523d0, type: 3}
+    - {fileID: 8300000, guid: 6a262a36b5f63604a97fe5c3941b5c35, type: 3}
+    - {fileID: 8300000, guid: dddd37b83d8e73a419518110d8665b09, type: 3}
+    id: 24
+  - name: Awake
+    path: Lava
+    fullName: Lava/Awake
+    clips:
+    - {fileID: 8300000, guid: ae21d82fd1bd867418758352328e8d85, type: 3}
+    - {fileID: 8300000, guid: cd1da76a67e767641a750b321188f45a, type: 3}
+    - {fileID: 8300000, guid: 21b2ae74c2f499749a4fa06c9ac83ad7, type: 3}
+    id: 25
+  - name: Destroying
+    path: Lava
+    fullName: Lava/Destroying
+    clips:
+    - {fileID: 8300000, guid: 8bd05487fa1cf014ab98e296dc3dbeae, type: 3}
+    - {fileID: 8300000, guid: 0a3d5233175a0a74eb3fd68fee188644, type: 3}
+    - {fileID: 8300000, guid: fb76274c67cbf7d4195116b8031709b6, type: 3}
+    id: 26
+  - name: Awake
+    path: Lifebuoy
+    fullName: Lifebuoy/Awake
+    clips:
+    - {fileID: 8300000, guid: 1474c7df3fa9a994eb27e3bfbe16e06a, type: 3}
+    - {fileID: 8300000, guid: 6b47e0b568e76754ab6d35a207fe4c65, type: 3}
+    id: 27
+  - name: Collection
+    path: Lifebuoy
+    fullName: Lifebuoy/Collection
+    clips:
+    - {fileID: 8300000, guid: bd21d8c729b38bf4089a34fa8e4d5c62, type: 3}
+    - {fileID: 8300000, guid: 9e6cdb33c09d65c438738bb63e4dceff, type: 3}
+    id: 28
+  - name: Awake
+    path: Lightning
+    fullName: Lightning/Awake
+    clips:
+    - {fileID: 8300000, guid: 2a778aea3777f154bbd667a4a3868d13, type: 3}
+    - {fileID: 8300000, guid: 1c19a797a784f304dab23e9739cba714, type: 3}
+    id: 29
+  - name: Destroying
+    path: Lightning
+    fullName: Lightning/Destroying
+    clips:
+    - {fileID: 8300000, guid: b70206f819e88fe43b9001bec6370ae6, type: 3}
+    - {fileID: 8300000, guid: d3d81ff069b38244792399fa9adaba8e, type: 3}
+    id: 30
+  - name: Destroying
+    path: Lock
+    fullName: Lock/Destroying
+    clips:
+    - {fileID: 8300000, guid: 92585cb7a2d9aef409024549c11fda82, type: 3}
+    id: 31
+  - name: LayerDown
+    path: Lock
+    fullName: Lock/LayerDown
+    clips:
+    - {fileID: 8300000, guid: dd3fd48d91854aa42a4485d5727e0517, type: 3}
+    id: 32
+  - name: Pressed
+    path: Lock
+    fullName: Lock/Pressed
+    clips:
+    - {fileID: 8300000, guid: cfafd0ba188e1cf47965e8bbb2c4235d, type: 3}
+    id: 33
+  - name: StackChanged
+    path: Lock
+    fullName: Lock/StackChanged
+    clips:
+    - {fileID: 8300000, guid: 323598e788f307647a148b618a2bce37, type: 3}
+    id: 34
+  - name: RewardedAd
+    path: 
+    fullName: RewardedAd
+    clips:
+    - {fileID: 8300000, guid: 328bab7a4cfae97468692b932c8a9c3d, type: 3}
+    id: 35
+  - name: Destroying
+    path: Sandwich
+    fullName: Sandwich/Destroying
+    clips:
+    - {fileID: 8300000, guid: 593d533e1e0154046810c4a233a96b18, type: 3}
+    - {fileID: 8300000, guid: 962d834fd9792cd4cb42a0412e8ed489, type: 3}
+    - {fileID: 8300000, guid: 0692fa0efd9dc714db19a4dd9b20843a, type: 3}
+    - {fileID: 8300000, guid: f223be6f054fb784da9005be6c4e0afc, type: 3}
+    id: 36
+  - name: Shuffle
+    path: 
+    fullName: Shuffle
+    clips:
+    - {fileID: 8300000, guid: f80442fe99359984aae846435b2665b3, type: 3}
+    id: 37
+  - name: ButtonFailed
+    path: SpinWheel
+    fullName: SpinWheel/ButtonFailed
+    clips:
+    - {fileID: 8300000, guid: f2dc0fdddfa123a40b88dda5087baaa7, type: 3}
+    id: 38
+  - name: ButtonSuccess
+    path: SpinWheel
+    fullName: SpinWheel/ButtonSuccess
+    clips:
+    - {fileID: 8300000, guid: 6ea25a2345c733b43918beb195ba4c61, type: 3}
+    id: 39
+  - name: Emit
+    path: SpinWheel
+    fullName: SpinWheel/Emit
+    clips:
+    - {fileID: 8300000, guid: 49c4a77485945394685ee2cd7c08ae2d, type: 3}
+    id: 40
+  - name: Stack
+    path: SpinWheel
+    fullName: SpinWheel/Stack
+    clips:
+    - {fileID: 8300000, guid: e4db07a152dd3f949961f7c1979e7546, type: 3}
+    id: 41
+  - name: Tick
+    path: SpinWheel
+    fullName: SpinWheel/Tick
+    clips:
+    - {fileID: 8300000, guid: 39a19f8d198a5d24f8a6744f6b4c347c, type: 3}
+    - {fileID: 8300000, guid: b71a5b1daaa52ce43b60a9439c714698, type: 3}
+    - {fileID: 8300000, guid: 22fd05588b9aae04c8236d184959a557, type: 3}
+    - {fileID: 8300000, guid: 055d9e248510be246853bada9cbd463a, type: 3}
+    - {fileID: 8300000, guid: 330025c605c5c2c479c9df6ca529cb6b, type: 3}
+    - {fileID: 8300000, guid: e612bc8b3e47565429398ee0ee62b3f0, type: 3}
+    - {fileID: 8300000, guid: 73f657944fe70894ca118891a714d5b3, type: 3}
+    - {fileID: 8300000, guid: ceffc4ceb6c2a7a4eb7b19e607ed2a42, type: 3}
+    - {fileID: 8300000, guid: e981b16555441d247bf18cd94646de0f, type: 3}
+    - {fileID: 8300000, guid: c5890a9759819fa4b89faea6dec51862, type: 3}
+    id: 42
+  - name: Destroying
+    path: Stone
+    fullName: Stone/Destroying
+    clips:
+    - {fileID: 8300000, guid: c4b96b82563186b4cbe66e103dd54d99, type: 3}
+    - {fileID: 8300000, guid: 1dfb2d4afd8817c4681e88b2fdae013b, type: 3}
+    - {fileID: 8300000, guid: bcc485b242813034c8aa9d8a5979c838, type: 3}
+    id: 43
+  - name: Landing
+    path: Stone
+    fullName: Stone/Landing
+    clips:
+    - {fileID: 8300000, guid: c2c7326e0baaf864e807eb1ea783af30, type: 3}
+    - {fileID: 8300000, guid: 227e179408ecef142946cb9a2c92f34d, type: 3}
+    - {fileID: 8300000, guid: f18162a7e816eed49a61788c2767140a, type: 3}
+    id: 44
+  - name: Failed
+    path: Swap
+    fullName: Swap/Failed
+    clips:
+    - {fileID: 8300000, guid: 72a346073fa6df14fb12f1337cc18c1e, type: 3}
+    id: 45
+  - name: Begin
+    path: Swap
+    fullName: Swap/Begin
+    clips:
+    - {fileID: 8300000, guid: 1f5a2cf4f3a638e49953aca50263b370, type: 3}
+    id: 46
+  - name: TargetIsReached
+    path: 
+    fullName: TargetIsReached
+    clips:
+    - {fileID: 8300000, guid: 74715b8440b0b6d48b0b277e9a827250, type: 3}
+    id: 47
+  - name: UIButton
+    path: 
+    fullName: UIButton
+    clips:
+    - {fileID: 8300000, guid: 941f28754139230438a10a4d420138e2, type: 3}
+    id: 48
+  - name: Awazing
+    path: Voice
+    fullName: Voice/Awazing
+    clips:
+    - {fileID: 8300000, guid: b7466b672614c4948800b163a8ee1ca6, type: 3}
+    id: 49
+  - name: Incredible
+    path: Voice
+    fullName: Voice/Incredible
+    clips:
+    - {fileID: 8300000, guid: 884d8cb8479a7bd4b813c861891a8524, type: 3}
+    id: 50
+  - name: Juicy
+    path: Voice
+    fullName: Voice/Juicy
+    clips:
+    - {fileID: 8300000, guid: 6a0be1b613c8f4644878324de4493bc4, type: 3}
+    id: 51
+  - name: Masterpiece
+    path: Voice
+    fullName: Voice/Masterpiece
+    clips:
+    - {fileID: 8300000, guid: 6f778fed34d266c46940efa13083b75c, type: 3}
+    id: 52
+  - name: Nice
+    path: Voice
+    fullName: Voice/Nice
+    clips:
+    - {fileID: 8300000, guid: 3c0a4a0dfcadec1438fb06570237bb36, type: 3}
+    id: 53
+  - name: Tasty
+    path: Voice
+    fullName: Voice/Tasty
+    clips:
+    - {fileID: 8300000, guid: efc67872981da114ca695e7d6e42554c, type: 3}
+    id: 54
+  - name: VeryGood
+    path: Voice
+    fullName: Voice/VeryGood
+    clips:
+    - {fileID: 8300000, guid: 836f2cf4ec947034380cce0732c1a200, type: 3}
+    id: 55
+  - name: Drop
+    path: Water
+    fullName: Water/Drop
+    clips:
+    - {fileID: 8300000, guid: 6980920cb880f60419397cf62c5beeb1, type: 3}
+    id: 56
+  - name: YouLose
+    path: 
+    fullName: YouLose
+    clips:
+    - {fileID: 8300000, guid: dde38479b7a528f499b2baccfdb434b8, type: 3}
+    id: 57
+  - name: YouWin
+    path: 
+    fullName: YouWin
+    clips:
+    - {fileID: 8300000, guid: 915c6c6665a4e084fb0a6be60de42f31, type: 3}
+    id: 58
+  - name: DirtCrush
+    path: DLC/Dirt
+    fullName: DLC/Dirt/DirtCrush
+    clips:
+    - {fileID: 8300000, guid: 234f56d1723b4184093e9f6d9603b7af, type: 3}
+    id: 59
+  - name: Destroying
+    path: DLC/GummyBear
+    fullName: DLC/GummyBear/Destroying
+    clips:
+    - {fileID: 8300000, guid: ffc496fe31288a94fae03439d6ad08c0, type: 3}
+    id: 60
+  - name: Hit
+    path: DLC/Shell
+    fullName: DLC/Shell/Hit
+    clips:
+    - {fileID: 8300000, guid: 520311a03a35e3f40846b5a6bc9ea8d8, type: 3}
+    id: 61
+  - name: TickTock
+    path: DLC/Timer
+    fullName: DLC/Timer/TickTock
+    clips:
+    - {fileID: 8300000, guid: 4ca2c0f4eea72df4ab211b7af37dadd5, type: 3}
+    id: 62
+  mute: 0
+  quiet_mode: 0
+--- !u!81 &4571235533785557479
+AudioListener:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 81659720678954276, guid: 9b2f2ab57d9fa644fa6f5269584c0f61,
+    type: 2}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4571235533785557258}
+  m_Enabled: 1
+--- !u!82 &4571235533785557473
+AudioSource:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 82320008052712180, guid: 9b2f2ab57d9fa644fa6f5269584c0f61,
+    type: 2}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4571235533785557258}
+  m_Enabled: 1
+  serializedVersion: 4
+  OutputAudioMixerGroup: {fileID: 0}
+  m_audioClip: {fileID: 0}
+  m_PlayOnAwake: 0
+  m_Volume: 1
+  m_Pitch: 1
+  Loop: 1
+  Mute: 0
+  Spatialize: 0
+  SpatializePostEffects: 0
+  Priority: 128
+  DopplerLevel: 1
+  MinDistance: 1
+  MaxDistance: 500
+  Pan2D: 0
+  rolloffMode: 1
+  BypassEffects: 0
+  BypassListenerEffects: 0
+  BypassReverbZones: 0
+  rolloffCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 1
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  panLevelCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 0
+  spreadCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  reverbZoneMixCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 0
+--- !u!82 &4571235533785557472
+AudioSource:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 82163359802716558, guid: 9b2f2ab57d9fa644fa6f5269584c0f61,
+    type: 2}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4571235533785557258}
+  m_Enabled: 1
+  serializedVersion: 4
+  OutputAudioMixerGroup: {fileID: 0}
+  m_audioClip: {fileID: 0}
+  m_PlayOnAwake: 0
+  m_Volume: 1
+  m_Pitch: 1
+  Loop: 0
+  Mute: 0
+  Spatialize: 0
+  SpatializePostEffects: 0
+  Priority: 128
+  DopplerLevel: 1
+  MinDistance: 1
+  MaxDistance: 500
+  Pan2D: 0
+  rolloffMode: 1
+  BypassEffects: 0
+  BypassListenerEffects: 0
+  BypassReverbZones: 0
+  rolloffCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 1
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  panLevelCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 0
+  spreadCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  reverbZoneMixCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 0
+--- !u!114 &4571235533785558275
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 114470562961593724, guid: 9b2f2ab57d9fa644fa6f5269584c0f61,
+    type: 2}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4571235533785557258}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8c8eef308932425409538397ca5ed0d5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &4571235533785558963
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 114884523738262776, guid: 9b2f2ab57d9fa644fa6f5269584c0f61,
+    type: 2}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4571235533785557258}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 02171667e6ef65647b743db08fa4b726, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  UImodules:
+  - {fileID: 0}
+  panels:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  pages:
+  - name: LevelList
+    panels:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    ignoring_panels: []
+    soundtrack: Menu
+    tags:
+    - SAVE
+    - POPUP
+    default_page: 0
+    setTimeScale: 1
+    timeScale: 1
+  - name: RateIt
+    panels: []
+    ignoring_panels:
+    - {fileID: 0}
+    - {fileID: 0}
+    soundtrack: '-'
+    tags: []
+    default_page: 0
+    setTimeScale: 0
+    timeScale: 1
+  - name: Field
+    panels:
+    - {fileID: 0}
+    - {fileID: 0}
+    ignoring_panels: []
+    soundtrack: '-'
+    tags:
+    - SLOWMO
+    - SOUNDTRACK
+    default_page: 0
+    setTimeScale: 1
+    timeScale: 1
+  - name: YouWin
+    panels:
+    - {fileID: 0}
+    ignoring_panels:
+    - {fileID: 0}
+    - {fileID: 0}
+    soundtrack: None
+    tags: []
+    default_page: 0
+    setTimeScale: 1
+    timeScale: 1
+  - name: YouWin
+    panels:
+    - {fileID: 0}
+    ignoring_panels:
+    - {fileID: 0}
+    - {fileID: 0}
+    soundtrack: None
+    tags: []
+    default_page: 0
+    setTimeScale: 1
+    timeScale: 1
+  - name: YouLose
+    panels:
+    - {fileID: 0}
+    ignoring_panels:
+    - {fileID: 0}
+    - {fileID: 0}
+    soundtrack: None
+    tags:
+    - ADS
+    default_page: 0
+    setTimeScale: 1
+    timeScale: 1
+  - name: NoMoreMoves
+    panels:
+    - {fileID: 0}
+    ignoring_panels: []
+    soundtrack: '-'
+    tags: []
+    default_page: 0
+    setTimeScale: 1
+    timeScale: 0
+  - name: Pause
+    panels:
+    - {fileID: 0}
+    - {fileID: 0}
+    ignoring_panels:
+    - {fileID: 0}
+    soundtrack: '-'
+    tags: []
+    default_page: 0
+    setTimeScale: 1
+    timeScale: 0
+  - name: TargetIsReached
+    panels:
+    - {fileID: 0}
+    ignoring_panels:
+    - {fileID: 0}
+    - {fileID: 0}
+    soundtrack: '-'
+    tags:
+    - SLOWMO
+    default_page: 0
+    setTimeScale: 0
+    timeScale: 1
+  - name: LevelSelectedPopup
+    panels:
+    - {fileID: 0}
+    - {fileID: 0}
+    ignoring_panels:
+    - {fileID: 0}
+    - {fileID: 0}
+    soundtrack: '-'
+    tags:
+    - SAVE
+    default_page: 0
+    setTimeScale: 0
+    timeScale: 1
+  - name: NotEnoughLifes
+    panels:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    ignoring_panels: []
+    soundtrack: '-'
+    tags: []
+    default_page: 0
+    setTimeScale: 0
+    timeScale: 1
+  - name: Loading
+    panels:
+    - {fileID: 0}
+    ignoring_panels:
+    - {fileID: 0}
+    - {fileID: 0}
+    soundtrack: None
+    tags: []
+    default_page: 1
+    setTimeScale: 1
+    timeScale: 1
+  - name: Store
+    panels:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    ignoring_panels:
+    - {fileID: 0}
+    soundtrack: '-'
+    tags: []
+    default_page: 0
+    setTimeScale: 0
+    timeScale: 0
+  - name: Settings
+    panels:
+    - {fileID: 0}
+    ignoring_panels:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    soundtrack: '-'
+    tags: []
+    default_page: 0
+    setTimeScale: 1
+    timeScale: 0
+  - name: BoostersMenu
+    panels:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    ignoring_panels: []
+    soundtrack: '-'
+    tags: []
+    default_page: 0
+    setTimeScale: 1
+    timeScale: 1
+  - name: PigInAPoke
+    panels:
+    - {fileID: 0}
+    ignoring_panels:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    soundtrack: '-'
+    tags: []
+    default_page: 0
+    setTimeScale: 0
+    timeScale: 1
+  - name: MoreLevels
+    panels:
+    - {fileID: 0}
+    - {fileID: 0}
+    ignoring_panels: []
+    soundtrack: '-'
+    tags: []
+    default_page: 0
+    setTimeScale: 0
+    timeScale: 1
+  - name: SpinWheel
+    panels:
+    - {fileID: 0}
+    ignoring_panels:
+    - {fileID: 0}
+    - {fileID: 0}
+    soundtrack: MiniGame
+    tags: []
+    default_page: 0
+    setTimeScale: 0
+    timeScale: 1
+  - name: SkipBonus
+    panels:
+    - {fileID: 0}
+    ignoring_panels:
+    - {fileID: 0}
+    - {fileID: 0}
+    soundtrack: '-'
+    tags: []
+    default_page: 0
+    setTimeScale: 0
+    timeScale: 1
+  - name: Almost
+    panels:
+    - {fileID: 0}
+    ignoring_panels:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    soundtrack: '-'
+    tags: []
+    default_page: 0
+    setTimeScale: 0
+    timeScale: 1
+  - name: HeartsInfo
+    panels:
+    - {fileID: 0}
+    ignoring_panels:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    soundtrack: '-'
+    tags: []
+    default_page: 0
+    setTimeScale: 0
+    timeScale: 1
+  - name: RateUs
+    panels:
+    - {fileID: 0}
+    ignoring_panels:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    soundtrack: '-'
+    tags: []
+    default_page: 0
+    setTimeScale: 0
+    timeScale: 1
+  - name: BoosterStore
+    panels:
+    - {fileID: 0}
+    ignoring_panels:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    soundtrack: '-'
+    tags: []
+    default_page: 0
+    setTimeScale: 0
+    timeScale: 1
+--- !u!114 &4571235533785559000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 114577296330344514, guid: 9b2f2ab57d9fa644fa6f5269584c0f61,
+    type: 2}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4571235533785557258}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 74f5992531237f3419f807a5090fe9eb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  languages: 0a0000001e000000
+  current_language: 10
+  default_language: 10
+  use_system_language_by_default: 0
+  folders: []
+  splitterSizes:
+  - 234
+  splitterRefSizes:
+  - 421
+  entryTreeState:
+    scrollPos: {x: 0, y: 0}
+    m_SelectedIDs: bf6a0130
+    m_LastClickedID: 805399231
+    m_ExpandedIDs: e0591c821792ec832feb4fa3217167a6227167a6a0dc1fac266eaaad5ae502b592d93db632b2eebd5f23dac93cc6aad3418224d4293626d425eb82d8ed978edd84b9d7ebf3dc45eeef961cef870ef5f3224776f47ff6e005df4f8506f1351c112d713015b920912838bd9d3a7854084976234558afe0536a
+    m_RenameOverlay:
+      m_UserAcceptedRename: 0
+      m_Name: 
+      m_OriginalName: 
+      m_EditFieldRect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      m_UserData: 0
+      m_IsWaitingForDelay: 0
+      m_IsRenaming: 0
+      m_OriginalEventType: 11
+      m_IsRenamingFilename: 0
+      m_ClientGUIView: {fileID: 0}
+    m_SearchString: 
+  languageTreeState:
+    scrollPos: {x: 0, y: 0}
+    m_SelectedIDs: 0a000000
+    m_LastClickedID: 10
+    m_ExpandedIDs: feffffff00000000
+    m_RenameOverlay:
+      m_UserAcceptedRename: 0
+      m_Name: 
+      m_OriginalName: 
+      m_EditFieldRect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      m_UserData: 0
+      m_IsWaitingForDelay: 0
+      m_IsRenaming: 0
+      m_OriginalEventType: 11
+      m_IsRenamingFilename: 0
+      m_ClientGUIView: {fileID: 0}
+    m_SearchString: 
+--- !u!114 &4571235533785559007
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 114594332962911732, guid: 9b2f2ab57d9fa644fa6f5269584c0f61,
+    type: 2}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4571235533785557258}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1d91ac3209a4e214e9a2d20a9f49df8a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  chip_acceleration: 5
+  chip_max_velocity: 17
+  chip_start_velosity: 5
+  explosion_multiplier: 0.3
+  refilling_time: 30
+  dailyreward_hour: 10
+  slot_offset: 0.7
+  music_volume_max: 0.4
+  iosAppID: 
+  privacy: http://game3dev.tilda.ws/privacy
+  md5KeysProviderUrl: 
+  md5EncryptionKey: 
+  md5ProtectionType: 0
+--- !u!114 &4571235533785559006
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 114375923398981182, guid: 9b2f2ab57d9fa644fa6f5269584c0f61,
+    type: 2}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4571235533785557258}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4792e7d0ea545034da093bc88b554043, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  mapSize: 1200
+  locationPrefabs:
+  - {fileID: 114975648089140242, guid: 1e60d5bb1c2c6174e94a9e2d910729c6, type: 3}
+  - {fileID: 114746771349617896, guid: 80099fb5130da474f82ec1462bb5560e, type: 3}
+  - {fileID: 114799999363322726, guid: dd60689cef975e2439ddfab137622712, type: 3}
+  - {fileID: 114006567217093126, guid: 34ea55a46af5e924da91be0814593430, type: 3}
+  - {fileID: 114006567217093126, guid: cbc2aca1bc6af1543a898f0d4551a69f, type: 3}
+  - {fileID: 114006567217093126, guid: 65508095f0e016848bd3bbbbfd023827, type: 3}
+  - {fileID: 114006567217093126, guid: d2ee5c74ce7f79d4db44b017c8744fd1, type: 3}
+  - {fileID: 114006567217093126, guid: c2e8f497fb49017468f05f9fdad0f7c4, type: 3}
+  - {fileID: 114006567217093126, guid: 5b7e020e3e40ee1488d77e1655472947, type: 3}
+  - {fileID: 114006567217093126, guid: b566f3db8a70b094f989b12708c61934, type: 3}
+  - {fileID: 114006567217093126, guid: 957f0a69e9fa5d94cbac4979b4fc70bb, type: 3}
+  - {fileID: 114006567217093126, guid: 92fb91034fac0764f87d940fa288152c, type: 3}
+  - {fileID: 114006567217093126, guid: 503169ed522dd164faedeb5261bab7d1, type: 3}
+  - {fileID: 114006567217093126, guid: 92fb91034fac0764f87d940fa288152c, type: 3}
+  - {fileID: 114006567217093126, guid: 503169ed522dd164faedeb5261bab7d1, type: 3}
+  - {fileID: 114006567217093126, guid: ff976ce075df66240a06aecaf5b19313, type: 3}
+  - {fileID: 114006567217093126, guid: caa05fa8757c9d445adc4d642aa802d4, type: 3}
+  - {fileID: 114006567217093126, guid: caa05fa8757c9d445adc4d642aa802d4, type: 3}
+  - {fileID: 114006567217093126, guid: caa05fa8757c9d445adc4d642aa802d4, type: 3}
+--- !u!114 &4571235533785559005
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 114432277865496062, guid: 9b2f2ab57d9fa644fa6f5269584c0f61,
+    type: 2}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4571235533785557258}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 239633287ba415c44bb14e742dd838b1, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &4571235533785559004
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 114943517598520920, guid: 9b2f2ab57d9fa644fa6f5269584c0f61,
+    type: 2}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4571235533785557258}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a30a7844353ee8046bb08a46a7ac46ad, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  levelListState:
+    scrollPos: {x: 0, y: 0}
+    m_SelectedIDs: f66b9402
+    m_LastClickedID: 43281398
+    m_ExpandedIDs: 981609849ba25e8d93514e9594514e9595514e9596514e959909549545eb47986d472fa26e472fa20db8c1b26b3652c46c3652c46287a6c7bdd6a4d5b866f8d80831aef1861ad1f5040000000600000046000000754b21004ba4e502ebbbf3025f061e045265ac14ff1a45168bec5525af4ec35067286955b9906f7e
+    m_RenameOverlay:
+      m_UserAcceptedRename: 0
+      m_Name: 31-40
+      m_OriginalName: 31-40
+      m_EditFieldRect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      m_UserData: 48604235
+      m_IsWaitingForDelay: 0
+      m_IsRenaming: 0
+      m_OriginalEventType: 0
+      m_IsRenamingFilename: 0
+      m_ClientGUIView: {fileID: 0}
+    m_SearchString: 
+  levelListShown: 1
+  splitterH:
+  - 249
+  - 317
+  folders: []
+  levelListScroll: {x: 0, y: 2372}
+  parametersScroll: {x: 0, y: 0}
+  designs: []
+--- !u!114 &4571235533785558300
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 114644072234677948, guid: 9b2f2ab57d9fa644fa6f5269584c0f61,
+    type: 2}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4571235533785557258}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f37d76fad8b33cb4987ee55bd31ace7b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  me:
+    name: Me
+    avatar: {fileID: 21300000, guid: 0efd4c339120e0e48aeca705eb082d00, type: 3}
+  fakeUsers: []
+--- !u!114 &4571235533785558999
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4571235533785557258}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4c2ebbee1ca3d8949997edc14a5f6234, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  rewards:
+  - index: 0
+    rewardType: 0
+    actionReward: 0
+    item: 103
+    type: 0
+    count: 1
+    weight: 10
+    icon: {fileID: 8864832289126249941, guid: 082cd9a7edd656746a2baba9239a6ca9, type: 3}
+  - index: 0
+    rewardType: 0
+    actionReward: 0
+    item: 0
+    type: 0
+    count: 3
+    weight: 11
+    icon: {fileID: 21300000, guid: 0f12d1c4f79bbbf4b9045939e4b34115, type: 3}
+  - index: 0
+    rewardType: 0
+    actionReward: 0
+    item: 12
+    type: 0
+    count: 1
+    weight: 15
+    icon: {fileID: 21300000, guid: dc4ce117a121c3e45be2f3938901c34d, type: 3}
+  - index: 0
+    rewardType: 1
+    actionReward: 0
+    item: 1
+    type: 0
+    count: 1
+    weight: 10
+    icon: {fileID: 21300000, guid: 2bc13c8265ebc354c821f31f00297810, type: 3}
+  - index: 0
+    rewardType: 0
+    actionReward: 0
+    item: 101
+    type: 0
+    count: 1
+    weight: 15
+    icon: {fileID: 21300000, guid: 73fa8c46f4fa84f44bad2559a9edf1be, type: 3}
+  - index: 0
+    rewardType: 0
+    actionReward: 0
+    item: 102
+    type: 0
+    count: 1
+    weight: 10
+    icon: {fileID: 21300000, guid: c3465c8ffee1d794f96e8daa339f0dcd, type: 3}
+  - index: 0
+    rewardType: 0
+    actionReward: 0
+    item: 100
+    type: 0
+    count: 1
+    weight: 14
+    icon: {fileID: 21300000, guid: 626c2e2822123054797ba069c79de4b0, type: 3}
+  - index: 0
+    rewardType: 0
+    actionReward: 0
+    item: 10
+    type: 1
+    count: 1
+    weight: 3
+    icon: {fileID: 21300000, guid: a21cacfa94f34b543ba0e0bd7f16a2c6, type: 3}
+  - index: 0
+    rewardType: 0
+    actionReward: 0
+    item: 11
+    type: 1
+    count: 1
+    weight: 1
+    icon: {fileID: 21300000, guid: 4da9cdcc9c1b1dd43ad55dbadf5bc829, type: 3}
+  - index: 0
+    rewardType: 0
+    actionReward: 0
+    item: 13
+    type: 1
+    count: 1
+    weight: 1
+    icon: {fileID: 21300000, guid: 2ba63f1b642343f409532b44ecea1293, type: 3}
+  - index: 0
+    rewardType: 0
+    actionReward: 0
+    item: 101
+    type: 1
+    count: 3
+    weight: 5
+    icon: {fileID: 21300000, guid: 73fa8c46f4fa84f44bad2559a9edf1be, type: 3}
+  - index: 0
+    rewardType: 1
+    actionReward: 1
+    item: 2
+    type: 2
+    count: 1
+    weight: 5
+    icon: {fileID: 21300000, guid: 1a5b64ed25bb10f4582776c5be6f7486, type: 3}
+--- !u!114 &4571235533785558992
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4571235533785557258}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: af7ba02e6dab0af4a8b735d288b55791, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &4571235533785558993
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4571235533785557258}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 62acd94f07824804d883f2534ca40a5b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &4571235533785557492
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4571235533785557258}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 774d179a45b1a6e4f94feebdd5c07de4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &4571235533785557494
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4571235533785557258}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d4dc8b595895fb44ea6dcd8c2c9b8fa5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  adDelay: 0
+  adFreeLevels: 1
+  parameters:
+  - typeName: AdMobIntegration
+    json: '{"typeMask":-1,"active":false,"Regular_Android":"ca-app-pub-5693710361383817/2664507385","Rewarded_Android":"ca-app-pub-5693710361383817/5071178873","Pig_A_Poke_Android":"ca-app-pub-5693710361383817/6332670524","Wheel_Of_Fortune_Android":"ca-app-pub-5693710361383817/2261316150","Regular_iOS":"","Rewarded_iOS":"","Pig_A_Poke_iOS":"","Wheel_Of_Fortune_iOS":""}'
+  - typeName: AppLovinIntegration
+    json: '{"typeMask":-1,"active":true,"Sdk_Key":"hvt6uz_6Kq1TkMBnt4pEoxyQL51iGeTT0mIUGOWMyVb9N_MI4fCTJNt4naeEbSlk-mA757FWaZcHRmV8EBqqlW","Regular_Android":"726448c4dc484bf5","Rewarded_Android":"","Pig_A_Poke_Android":"b48c2f4420904a40","Wheel_Of_Fortune_Android":"f356ce6d9a5b150a","Regular_iOS":"","Rewarded_iOS":"","Pig_A_Poke_iOS":"","Wheel_Of_Fortune_iOS":"","testPlatform":11}'
+--- !u!114 &4571235533785557491
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4571235533785557258}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d1a7cd38524e6da43aae054bab6d3934, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  log: 1
+  parameters:
+  - typeName: CountlyIntegration
+    json: '{}'
+  - typeName: FlurryIntegration
+    json: '{"ApiKey_iOS":"3ZSQP7DZ7MDTN5C7W9NS","ApiKey_Android":"JQ85HBKVMDXZHJ9QPVPX"}'

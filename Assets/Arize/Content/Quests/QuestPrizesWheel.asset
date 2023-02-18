@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3a74fee6ff214dc1a13369b03866df06, type: 3}
+  m_Name: QuestPrizesWheel
+  m_EditorClassIdentifier: 
+  _showPageIfReady: 0
+  _page: 
+  label: Prizes wheel
+  icon: {fileID: 21300000, guid: 83d3d3c99dace614e852679367380f4b, type: 3}
+  _saveName: PrizesWheelEventSave
+  _requirement:
+    _itemID: 14
+    _collectOnDifference: 1
+  _rarities:
+  - Type: 0
+    FromIndex: 0
+    ToIndex: 5
+  - Type: 1
+    FromIndex: 5
+    ToIndex: 10
+  - Type: 2
+    FromIndex: 10
+    ToIndex: 15
+  - Type: 3
+    FromIndex: 15
+    ToIndex: 20
+  - Type: 4
+    FromIndex: 20
+    ToIndex: 25
+  _questLevels:
+  - {fileID: 11400000, guid: 75c51f526556caf449c9f1534b6e74b3, type: 2}
+  - {fileID: 11400000, guid: 05e6f7e97bb69b44281fa913b03d29b4, type: 2}
+  - {fileID: 11400000, guid: bfdbbd9adf5550143a3f614403559739, type: 2}
+  - {fileID: 11400000, guid: 5c81bda74af6571468df22970c40948b, type: 2}
+  - {fileID: 11400000, guid: 2816177800c81bc4397bc434fb2119e0, type: 2}
+  - {fileID: 11400000, guid: 79c1047b90fc2974e8a4684efbe78509, type: 2}
+  - {fileID: 11400000, guid: a7a84b981c9533d4199136aff0e5cb66, type: 2}
+  - {fileID: 11400000, guid: cd16e85af16d2c542a4fe2a56f45e3c6, type: 2}
+  - {fileID: 11400000, guid: ddac5bc5385d2a043b423ad3868a6f6f, type: 2}
+  - {fileID: 11400000, guid: 48c3287ca92fa7d43915d2e9f5d5aa3f, type: 2}
+  - {fileID: 11400000, guid: b9222d486bd8c024495e57bedb62b835, type: 2}
+  - {fileID: 11400000, guid: 183de5e15bdab81469f1fc4114fbd1ad, type: 2}
+  - {fileID: 11400000, guid: 5338d4a32ad2ce34eb50847e9056f359, type: 2}
+  - {fileID: 11400000, guid: b6d8f8af302a86d49a1a864c99ff07bc, type: 2}
+  - {fileID: 11400000, guid: c4e134a019dd708468ef5431b7273e49, type: 2}
+  - {fileID: 11400000, guid: 876dfcb1d9ca640419a44b0598f46f5b, type: 2}
+  - {fileID: 11400000, guid: 83036fbbe6703ac44b7dfff85533fc93, type: 2}
+  - {fileID: 11400000, guid: ffeb7530109a3e14aabc68d67ed50ce5, type: 2}
+  - {fileID: 11400000, guid: c037c6fbb7b72274caec2ad1afe2350a, type: 2}
+  - {fileID: 11400000, guid: f9c18572b89b4dd41bd56dc4e0610f27, type: 2}
+  - {fileID: 11400000, guid: b52cb63aabde09e42a14446408a0f328, type: 2}
+  - {fileID: 11400000, guid: 97fdd948352b5754a91616892dbb4598, type: 2}
+  - {fileID: 11400000, guid: 9b181c885a63c974e990a01853368bd2, type: 2}
+  - {fileID: 11400000, guid: a14d0136a2d2bf84dbe71864e7bd065c, type: 2}
+  - {fileID: 11400000, guid: b87064287fcf26c40a970c714654f59c, type: 2}
+  _questUIComponent:
+    _prefab: {fileID: 2051082062489934602, guid: a7fffaa89135a6b47bf637ffc3b22284,
+      type: 3}
+  _questPinger: {fileID: 11400000, guid: b5f2c1b45b32eaa46a8b4a772a7a7d42, type: 2}
+  _autoComplete: 1

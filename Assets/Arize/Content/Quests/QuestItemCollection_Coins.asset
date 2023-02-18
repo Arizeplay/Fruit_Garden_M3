@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3a74fee6ff214dc1a13369b03866df06, type: 3}
+  m_Name: QuestItemCollection_Coins
+  m_EditorClassIdentifier: 
+  _showPageIfReady: 1
+  _page: 
+  label: Coins
+  icon: {fileID: 21300000, guid: ed92097cde5b59648a23a503ded30afd, type: 3}
+  _saveName: SpendCoinsSave
+  _requirement:
+    _itemID: 0
+    _collectOnDifference: 1
+  _rarities:
+  - Type: 0
+    FromIndex: 0
+    ToIndex: 4
+  - Type: 1
+    FromIndex: 4
+    ToIndex: 9
+  - Type: 2
+    FromIndex: 9
+    ToIndex: 14
+  - Type: 3
+    FromIndex: 14
+    ToIndex: 19
+  - Type: 4
+    FromIndex: 19
+    ToIndex: 24
+  _questLevels:
+  - {fileID: 11400000, guid: b2ae191fa91e0c240902b692567d7c43, type: 2}
+  - {fileID: 11400000, guid: d7d3ebe5edf2a62438867fef29950cdf, type: 2}
+  - {fileID: 11400000, guid: 9a104e12520fd04418ab363722031e86, type: 2}
+  - {fileID: 11400000, guid: ca38e852d772864489b9f79f546b73a0, type: 2}
+  - {fileID: 11400000, guid: 5b409331bd987ea44be875b252933b7f, type: 2}
+  - {fileID: 11400000, guid: b90f49f27bde1f249a4e20005c880744, type: 2}
+  - {fileID: 11400000, guid: e11bbc7e2fba5954a95653f5258141a0, type: 2}
+  - {fileID: 11400000, guid: d8b7435eb46480643b31f07c7909d08c, type: 2}
+  - {fileID: 11400000, guid: fd72375da55dea344b1ae5b619d4f3a4, type: 2}
+  - {fileID: 11400000, guid: 7579870267d908440b345927c523e822, type: 2}
+  - {fileID: 11400000, guid: 47dc8d61b6f10e841bed89e7c29cf858, type: 2}
+  - {fileID: 11400000, guid: b0d18b7eb79d79a4f88c60d9ff892f12, type: 2}
+  - {fileID: 11400000, guid: 9b588f5a7c434b3479066b8206bffc65, type: 2}
+  - {fileID: 11400000, guid: f9d9fa5d1fd44bd48a347eb84bc966ab, type: 2}
+  - {fileID: 11400000, guid: 2d5f89f26fbae5e459a39b72aaafb220, type: 2}
+  - {fileID: 11400000, guid: e500afa1de204d246aa4d0a20e41da91, type: 2}
+  - {fileID: 11400000, guid: ce1cb4916e245164582ed3d9aec89ed4, type: 2}
+  - {fileID: 11400000, guid: b5edae333f3d02a4e8f5b7b909f87e46, type: 2}
+  - {fileID: 11400000, guid: 1b8865c141a7aa94cb877fd27ed6ccab, type: 2}
+  - {fileID: 11400000, guid: 8e8436816acaebc43941e95495ffe1e1, type: 2}
+  - {fileID: 11400000, guid: d7e0d6fd1affc094c9dd1ebf85cb84e6, type: 2}
+  - {fileID: 11400000, guid: d3533e376028d05439cff9c92b3269d2, type: 2}
+  - {fileID: 11400000, guid: 487a58ca31cf92a46b4c253f012799c9, type: 2}
+  - {fileID: 11400000, guid: 87cb24066664f9d42a7be593a64f668e, type: 2}
+  _questUIComponent:
+    _prefab: {fileID: 6852900661169752162, guid: 65b355e35c002c941942fb12b3239168,
+      type: 3}
+  parseLevelsRewards: 100,200,300,600,1000,4,5,7,10,12,6,7,8,11,15,8,10,12,15,20,20,25,30,35,50
+  parseLevels: ',1000,3000,8000,10000,5000,7000,8000,9000,14000,10000,11000,12000,14000,15000,12000,18000,25000,31000,37000,45000,58000,65000,72000,80000'
+  _autoComplete: 0
+  _parse: 1

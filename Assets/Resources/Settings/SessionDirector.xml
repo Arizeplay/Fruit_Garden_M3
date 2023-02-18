@@ -1,0 +1,393 @@
+<SessionDirector SessionHours="23" SessionFreeLevels="22">
+  <levels>
+    <level difficulty="0">
+      <complexities>
+        <complexity difficulty="0">
+          <complexity_operation operation="3" complexities="0">
+            <win>
+              <items />
+            </win>
+            <fail>
+              <items />
+            </fail>
+          </complexity_operation>
+        </complexity>
+        <complexity difficulty="1">
+          <complexity_operation operation="2" complexities="200">
+            <win>
+              <items>
+                <item id="105" count="0" />
+                <item id="105" count="0" />
+              </items>
+            </win>
+            <fail>
+              <items />
+            </fail>
+          </complexity_operation>
+        </complexity>
+        <complexity difficulty="2">
+          <complexity_operation operation="0" complexities="200">
+            <win>
+              <items />
+            </win>
+            <fail>
+              <items />
+            </fail>
+          </complexity_operation>
+        </complexity>
+        <complexity difficulty="3">
+          <complexity_operation operation="0" complexities="100">
+            <win>
+              <items />
+            </win>
+            <fail>
+              <items />
+            </fail>
+          </complexity_operation>
+        </complexity>
+        <complexity difficulty="4">
+          <complexity_operation operation="0" complexities="0">
+            <win>
+              <items />
+            </win>
+            <fail>
+              <items />
+            </fail>
+          </complexity_operation>
+        </complexity>
+      </complexities>
+    </level>
+    <level difficulty="1">
+      <complexities>
+        <complexity difficulty="0">
+          <complexity_operation operation="0" complexities="0">
+            <win>
+              <items />
+            </win>
+            <fail>
+              <items />
+            </fail>
+          </complexity_operation>
+        </complexity>
+        <complexity difficulty="1">
+          <complexity_operation operation="1" complexities="0">
+            <win>
+              <items />
+            </win>
+            <fail>
+              <items />
+            </fail>
+          </complexity_operation>
+        </complexity>
+        <complexity difficulty="2">
+          <complexity_operation operation="0" complexities="150">
+            <win>
+              <items />
+            </win>
+            <fail>
+              <items />
+            </fail>
+          </complexity_operation>
+        </complexity>
+        <complexity difficulty="3">
+          <complexity_operation operation="0" complexities="0">
+            <win>
+              <items />
+            </win>
+            <fail>
+              <items />
+            </fail>
+          </complexity_operation>
+        </complexity>
+        <complexity difficulty="4">
+          <complexity_operation operation="0" complexities="0">
+            <win>
+              <items />
+            </win>
+            <fail>
+              <items />
+            </fail>
+          </complexity_operation>
+        </complexity>
+      </complexities>
+    </level>
+    <level difficulty="2">
+      <complexities>
+        <complexity difficulty="0">
+          <complexity_operation operation="0" complexities="0">
+            <win>
+              <items />
+            </win>
+            <fail>
+              <items />
+            </fail>
+          </complexity_operation>
+        </complexity>
+        <complexity difficulty="1">
+          <complexity_operation operation="0" complexities="0">
+            <win>
+              <items />
+            </win>
+            <fail>
+              <items />
+            </fail>
+          </complexity_operation>
+        </complexity>
+        <complexity difficulty="2">
+          <complexity_operation operation="3" complexities="0">
+            <win>
+              <items />
+            </win>
+            <fail>
+              <items />
+            </fail>
+          </complexity_operation>
+        </complexity>
+        <complexity difficulty="3">
+          <complexity_operation operation="2" complexities="100">
+            <win>
+              <items />
+            </win>
+            <fail>
+              <items />
+            </fail>
+          </complexity_operation>
+        </complexity>
+        <complexity difficulty="4">
+          <complexity_operation operation="2" complexities="200">
+            <win>
+              <items />
+            </win>
+            <fail>
+              <items />
+            </fail>
+          </complexity_operation>
+        </complexity>
+      </complexities>
+    </level>
+    <level difficulty="0">
+      <complexities>
+        <complexity difficulty="0">
+          <complexity_operation operation="3" complexities="0">
+            <win>
+              <items />
+            </win>
+            <fail>
+              <items />
+            </fail>
+          </complexity_operation>
+        </complexity>
+        <complexity difficulty="1">
+          <complexity_operation operation="2" complexities="300">
+            <win>
+              <items />
+            </win>
+            <fail>
+              <items />
+            </fail>
+          </complexity_operation>
+        </complexity>
+        <complexity difficulty="2">
+          <complexity_operation operation="0" complexities="0">
+            <win>
+              <items>
+                <item id="105" count="0" />
+              </items>
+            </win>
+            <fail>
+              <items>
+                <item id="105" count="0" />
+              </items>
+            </fail>
+          </complexity_operation>
+        </complexity>
+        <complexity difficulty="3">
+          <complexity_operation operation="0" complexities="0">
+            <win>
+              <items />
+            </win>
+            <fail>
+              <items />
+            </fail>
+          </complexity_operation>
+        </complexity>
+        <complexity difficulty="4">
+          <complexity_operation operation="0" complexities="0">
+            <win>
+              <items />
+            </win>
+            <fail>
+              <items />
+            </fail>
+          </complexity_operation>
+        </complexity>
+      </complexities>
+    </level>
+    <level difficulty="1">
+      <complexities>
+        <complexity difficulty="0">
+          <complexity_operation operation="0" complexities="0">
+            <win>
+              <items />
+            </win>
+            <fail>
+              <items />
+            </fail>
+          </complexity_operation>
+        </complexity>
+        <complexity difficulty="1">
+          <complexity_operation operation="3" complexities="0">
+            <win>
+              <items />
+            </win>
+            <fail>
+              <items />
+            </fail>
+          </complexity_operation>
+        </complexity>
+        <complexity difficulty="2">
+          <complexity_operation operation="2" complexities="150">
+            <win>
+              <items />
+            </win>
+            <fail>
+              <items />
+            </fail>
+          </complexity_operation>
+        </complexity>
+        <complexity difficulty="3">
+          <complexity_operation operation="0" complexities="0">
+            <win>
+              <items />
+            </win>
+            <fail>
+              <items />
+            </fail>
+          </complexity_operation>
+        </complexity>
+        <complexity difficulty="4">
+          <complexity_operation operation="0" complexities="0">
+            <win>
+              <items />
+            </win>
+            <fail>
+              <items />
+            </fail>
+          </complexity_operation>
+        </complexity>
+      </complexities>
+    </level>
+    <level difficulty="2">
+      <complexities>
+        <complexity difficulty="0">
+          <complexity_operation operation="0" complexities="0">
+            <win>
+              <items />
+            </win>
+            <fail>
+              <items />
+            </fail>
+          </complexity_operation>
+        </complexity>
+        <complexity difficulty="1">
+          <complexity_operation operation="0" complexities="0">
+            <win>
+              <items />
+            </win>
+            <fail>
+              <items />
+            </fail>
+          </complexity_operation>
+        </complexity>
+        <complexity difficulty="2">
+          <complexity_operation operation="3" complexities="150">
+            <win>
+              <items />
+            </win>
+            <fail>
+              <items />
+            </fail>
+          </complexity_operation>
+        </complexity>
+        <complexity difficulty="3">
+          <complexity_operation operation="2" complexities="50">
+            <win>
+              <items />
+            </win>
+            <fail>
+              <items />
+            </fail>
+          </complexity_operation>
+        </complexity>
+        <complexity difficulty="4">
+          <complexity_operation operation="2" complexities="150">
+            <win>
+              <items />
+            </win>
+            <fail>
+              <items />
+            </fail>
+          </complexity_operation>
+        </complexity>
+      </complexities>
+    </level>
+  </levels>
+  <session_end_rewards>
+    <session_end_reward fail_count="0">
+      <reward>
+        <items>
+          <item id="105" count="70" />
+        </items>
+      </reward>
+    </session_end_reward>
+    <session_end_reward fail_count="1">
+      <reward>
+        <items>
+          <item id="105" count="40" />
+        </items>
+      </reward>
+    </session_end_reward>
+    <session_end_reward fail_count="2">
+      <reward>
+        <items>
+          <item id="101" count="2" />
+          <item id="105" count="30" />
+        </items>
+      </reward>
+    </session_end_reward>
+    <session_end_reward fail_count="3">
+      <reward>
+        <items>
+          <item id="105" count="20" />
+        </items>
+      </reward>
+    </session_end_reward>
+    <session_end_reward fail_count="4">
+      <reward>
+        <items>
+          <item id="105" count="10" />
+        </items>
+      </reward>
+    </session_end_reward>
+    <session_end_reward fail_count="5">
+      <reward>
+        <items>
+          <item id="105" count="-20" />
+        </items>
+      </reward>
+    </session_end_reward>
+    <session_end_reward fail_count="6">
+      <reward>
+        <items>
+          <item id="105" count="-50" />
+        </items>
+      </reward>
+    </session_end_reward>
+  </session_end_rewards>
+  <reducing_level_complexities>
+    <reducing_level_complexity fail_count="4" downgrade="0" />
+    <reducing_level_complexity fail_count="8" downgrade="0" />
+    <reducing_level_complexity fail_count="12" downgrade="0" />
+    <reducing_level_complexity fail_count="16" downgrade="0" />
+  </reducing_level_complexities>
+</SessionDirector>

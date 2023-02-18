@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b1e47c1de064982ba69a6a887058482, type: 3}
+  m_Name: QuestEnterCollection
+  m_EditorClassIdentifier: 
+  _showPageIfReady: 1
+  _page: 
+  label: Return every day!
+  icon: {fileID: 21300000, guid: 57076f03da3865546ac995df6affaa58, type: 3}
+  _saveName: FruitKingCollectionerSave
+  _rarities:
+  - Type: 0
+    FromIndex: 0
+    ToIndex: 3
+  - Type: 1
+    FromIndex: 3
+    ToIndex: 8
+  - Type: 2
+    FromIndex: 8
+    ToIndex: 13
+  - Type: 3
+    FromIndex: 13
+    ToIndex: 18
+  - Type: 4
+    FromIndex: 18
+    ToIndex: 23
+  _questLevels:
+  - {fileID: 11400000, guid: 247dd39bb39cbe64d93957496b814e85, type: 2}
+  - {fileID: 11400000, guid: 8e0abc313feb6a9469a2f0915f4f74c3, type: 2}
+  - {fileID: 11400000, guid: 2c17c93bcfef684449549205fa67cbec, type: 2}
+  - {fileID: 11400000, guid: 091f3d595f343864c8b4a066aaddc3b8, type: 2}
+  - {fileID: 11400000, guid: 2fd4343dede27694ea4567f60b1fc850, type: 2}
+  - {fileID: 11400000, guid: 67bcbc7eea96aa048a43b5224536bbcb, type: 2}
+  - {fileID: 11400000, guid: 3f93ab1dc30723d47b528e3d053574b1, type: 2}
+  - {fileID: 11400000, guid: 4d799aba8726d6248b7f15e7f164e7d5, type: 2}
+  - {fileID: 11400000, guid: e6ef596adc7d61241a4445a4ab6f5523, type: 2}
+  - {fileID: 11400000, guid: 49c26a7cf0c9e0742b9006e371a051ce, type: 2}
+  - {fileID: 11400000, guid: 6a5e3d8a178f4b346a583a233d33aac4, type: 2}
+  - {fileID: 11400000, guid: 7083591f36319054ebc8d749ae99c336, type: 2}
+  - {fileID: 11400000, guid: a9200f6106c08d8438d9cb6dd0cc947c, type: 2}
+  - {fileID: 11400000, guid: 0e8c5e9f94a87c84ea778437bb723a87, type: 2}
+  - {fileID: 11400000, guid: c52acc5b4d2320149ad81052b3861422, type: 2}
+  - {fileID: 11400000, guid: 2cedeb5b32b430c4fa9cf4e2c906aa30, type: 2}
+  - {fileID: 11400000, guid: 4b024f9e4bc1da14f829e70751391932, type: 2}
+  - {fileID: 11400000, guid: de19757ab253c1242a45475da91e70ee, type: 2}
+  - {fileID: 11400000, guid: 8fbaed0dbf3dac34692d86a577163417, type: 2}
+  - {fileID: 11400000, guid: fccb5c95fc819034b80061edc536243d, type: 2}
+  - {fileID: 11400000, guid: 0e9d7767c3424114c85eb0ee96b89a7c, type: 2}
+  - {fileID: 11400000, guid: 02b1ea74cf881f44ab13fad16593488c, type: 2}
+  - {fileID: 11400000, guid: 4e2a1e3959fbc5041ac449d240e46b62, type: 2}
+  _questUIComponent:
+    _prefab: {fileID: 6852900661169752162, guid: 65b355e35c002c941942fb12b3239168,
+      type: 3}
+  parseLevelsRewards: 100,200,300,600,1000,4,5,7,10,12,6,7,8,11,15,8,10,12,15,20,20,25,30,35,50
+  parseLevels: ',,1,4,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26'
+  _autoComplete: 0
+  _parse: 1

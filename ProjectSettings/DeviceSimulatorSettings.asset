@@ -1,0 +1,8 @@
+{
+    "SystemInfoSimulation": true,
+    "ApplicationSimulation": true,
+    "SystemInfoDefaultAssembly": true,
+    "SystemInfoAssemblies": [
+        "com.soprachevak.safe-area.Runtime"
+    ]
+}

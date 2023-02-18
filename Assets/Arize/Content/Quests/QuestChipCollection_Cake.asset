@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9e6007c369a941ccb5945921a21eb5c3, type: 3}
+  m_Name: QuestChipCollection_Cake
+  m_EditorClassIdentifier: 
+  _showPageIfReady: 1
+  _page: 
+  label: Piece of cake
+  icon: {fileID: -2185751804998263790, guid: 55e34489cccd1c1419a023191d64bb74, type: 3}
+  _saveName: PieceOfCakeSave
+  _requirement:
+    _content: {fileID: 871684778575463767, guid: 5551d6f9e3b261d4ab58d45867ecff1e,
+      type: 3}
+  _rarities:
+  - Type: 0
+    FromIndex: 0
+    ToIndex: 3
+  - Type: 1
+    FromIndex: 3
+    ToIndex: 8
+  - Type: 2
+    FromIndex: 8
+    ToIndex: 13
+  - Type: 3
+    FromIndex: 13
+    ToIndex: 18
+  - Type: 4
+    FromIndex: 18
+    ToIndex: 23
+  _questLevels:
+  - {fileID: 11400000, guid: 14282289e36d166459b1be93c7783e86, type: 2}
+  - {fileID: 11400000, guid: 673e13f9f12d00f40becc37f281b56a8, type: 2}
+  - {fileID: 11400000, guid: 389c3cd8799e02845a4d65f2c60a8b2e, type: 2}
+  - {fileID: 11400000, guid: 84a814d9ab878e2489ec7a06e1d0aaa4, type: 2}
+  - {fileID: 11400000, guid: cc25ac43f8be07744a864af80cb4f96c, type: 2}
+  - {fileID: 11400000, guid: e8add07bf89fd3c42a281666e895afe1, type: 2}
+  - {fileID: 11400000, guid: e3d205244ada3814ab8f3c547522bcf8, type: 2}
+  - {fileID: 11400000, guid: a4a3ef915f430ec4cabbf2e5180cb185, type: 2}
+  - {fileID: 11400000, guid: 6d3492e301ffff340a5dd352cbf51288, type: 2}
+  - {fileID: 11400000, guid: fe897b16aee43a14dab3c60dcc240da8, type: 2}
+  - {fileID: 11400000, guid: 182bcc32420f7f94ba5ba21f6349f672, type: 2}
+  - {fileID: 11400000, guid: 47705abf7e6b29543b3b02643af10833, type: 2}
+  - {fileID: 11400000, guid: e9475845fa7cd63468479f1e46e3d32a, type: 2}
+  - {fileID: 11400000, guid: b0cef374ec9e2d74db37ea8e984ae1c5, type: 2}
+  - {fileID: 11400000, guid: 0e38cc85000cb994b9b44f8f0c3d4222, type: 2}
+  - {fileID: 11400000, guid: 66d76fc2c769d44408d341dc7ef1a069, type: 2}
+  - {fileID: 11400000, guid: 88220d537d208f34ebc2e01d320e6933, type: 2}
+  - {fileID: 11400000, guid: 6d7feee563035a6489da519100200829, type: 2}
+  - {fileID: 11400000, guid: c049d03aa9268da4da66601353fef313, type: 2}
+  - {fileID: 11400000, guid: 289959bd6099b8e40b4ce7a04dc7a857, type: 2}
+  - {fileID: 11400000, guid: ad55ef43dad895b47b61dd87b4116c23, type: 2}
+  - {fileID: 11400000, guid: a5a6a23be373bc049b7ff5e5a50a0ec5, type: 2}
+  - {fileID: 11400000, guid: 70b0a51be84b2f14dae2a3f7bdd92a7a, type: 2}
+  _questUIComponent:
+    _prefab: {fileID: 6852900661169752162, guid: 65b355e35c002c941942fb12b3239168,
+      type: 3}
+  parseLevelsRewards: 100,200,300,600,1000,4,5,7,10,12,6,7,8,11,15,8,10,12,15,20,20,25,30,35,50
+  parseLevels: ',,1,7,12,10,12,16,20,22,16,18,20,22,24,9,12,15,17,18,21,13,26,31,35'
+  _autoComplete: 0
+  _parse: 1

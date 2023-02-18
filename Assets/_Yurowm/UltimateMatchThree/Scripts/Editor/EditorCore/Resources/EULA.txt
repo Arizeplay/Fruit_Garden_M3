@@ -1,0 +1,61 @@
+﻿License agreement for the use of the "*PRODUCT_NAME*" program
+Copyright 2015-2017, IE Yurov Viktor Mikhailovich, All rights reserved
+
+Prior to purchasing and using the program, please read the terms and conditions of this license agreement. Any form of use of the program in any way means an unconditional acceptance of all terms and conditions of this Agreement.
+If you do not accept the terms of this license agreement in full, you are not entitled to use the program for any purpose.
+
+<b>1. License</b>
+This License agreement (License) is made between the user (User) and IE Yurov Viktor Mikhailovich, located at 1B, 2 Lesnaya Street, Tomsk, 634014, Russian Federation, Who is the owner of exclusive rights to the Program (Rightholder) The License establishes the terms of using the *PRODUCT_NAME* (Program) by the User, being a source program code of a video game in the “Match Three” genre which may be used by the User for the development of his own game in this genre. The program is written in the C# programming language and is intended for use in the Unity game engine (http://unity3d.com/). The program also contains graphic and audio materials as well as various files in Unity engine format, such as animations, scenes, prefabs etc.
+The program can contain materials of free commercial use (such as plugins, fonts, files with graphic and audio information), which are not subject to the License conditions.
+The program may be distributed as a Unity engine project, or as a file of a Unity engine package (*.unitypackage).
+
+1.1 By copying the program to any information medium, the User expresses his full and unconditional consent to any and all terms of the License.
+
+1.2 The Program may be used only under the conditions of this License. If the User does not accept the terms of this License in full, he is not entitled to use the program for any purpose. It is strictly prohibited to use the Program if such use entails a breach (failure) of any of the terms or conditions of the License.
+
+1.3 The User obtains the right to use the program only upon full payment of its cost, as established by the Rightholder.
+
+1.4 Use of the program subject to conditions other than those described in the License is possible only upon the Rightholder's consent pursuant to the terms established by the Rightholder.
+
+<b>2. Terms of distribution</b>
+2.1 This agreement is legally binding only in case, when User purchases the Program directly from the Rightholder.
+
+2.2 Payment of the full cost of a Program copy is the main condition of purchasing the right to use the Program. The cost of a program copy may differ depending on the Store.  The cost may also change with the course of time.
+
+2.3 Any physical or legal entity is entitled to purchase a right to use the Program, regardless of the number of Users that have acquired this right.
+
+<b>3. Rights and obligations of the User.</b>
+3.1 The User has the right to make any design changes to the Program.
+
+3.2 The User is entitled to demand the Rightholder to provide technical support regarding issues related to incorrect operation of the Program.
+
+3.3 The User has the right to transfer to third parties, publish in open access, as well as to sell an end product in which parts of the Program were used, in compiled form and without access to source code or materials.
+
+3.4 The User has the right to obtain updated versions of the Program without any additional fees paid to the Rightholder.
+
+3.5 The User does NOT have the right to transfer to third parties, publish in open access or to sell the program or its components in initial or modified form with access to source code and/or materials.
+
+3.6 The User shall provide the Rightholder with documents confirming the User's right to use the Program upon first demand by the Rightholder. A commercial invoice with information on the order number, amount of payment, name of the payer, and time and date of payment may be used as such a document.
+
+3.7 The User’s software end products in which the Program source codes and/or materials are used should contain information about the Program such as the Program name (*PRODUCT_NAME*) or/and the name of its author (Yurov Viktor IE), which should be easily accessible to the product’s user.
+
+<b>4. Rights and obligations of the Rightholder</b>
+4.1 The Rightholder shall provide technical support to the User regarding incorrect operation of the Program and make any and all efforts to resolve these issues and inform the User of the results.
+
+4.2 The Rightholder has the right to demand full information from the User about the problem in question within the framework of a technical support request.
+
+4.3 The Rightholder is entitled to demand the User to provide documented evidence of his right to use the Program. A commercial invoice that lists information on the order number, amount of payment, payer's name, and the time of payment may be used as documentary proof.
+
+4.4 The Rightholder is entitled to refuse technical support to the User, if in his opinion the source code has undergone a major change.
+
+4.5 The Rightholder is entitled to make any modifications to the code and to update the Program with new materials and functionalities, thus creating new versions of the Program and publishing them as free updates.
+
+4.6 The Rightholder is entitled to generate other software based on the Program, which is not subject to the terms of the License.
+
+<b>5. Liability and warranties related to the License</b>
+
+5.1 The Program is provided "as is". The Rightholder does not provide any warranties regarding faultless and continuous operation of the Program, correspondence of the Program to any specific purposes of the User or to the market level and provides no other warranties, unless specified directly in this License.
+
+5.2 To the maximum extent possible by the applicable law, the Rightholder is not liable for any direct or indirect consequences of any use or failure to use the Program and/or damage caused to the User and/or third parties resulting from any use or failure to use the Program, including possible errors or failures in the Program’s operation.
+
+5.3 Without prejudice to any other rights, the Rightholder is entitled to terminate this License if the User does not observe the terms and conditions of this License. In this case, the User shall uninstall and destroy any copies of the Program at its disposal.

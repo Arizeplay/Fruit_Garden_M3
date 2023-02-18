@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3a74fee6ff214dc1a13369b03866df06, type: 3}
+  m_Name: QuestItemCollection_Token
+  m_EditorClassIdentifier: 
+  _showPageIfReady: 1
+  _page: 
+  label: Token
+  icon: {fileID: 8864832289126249941, guid: 082cd9a7edd656746a2baba9239a6ca9, type: 3}
+  _saveName: SpendTokenSave
+  _requirement:
+    _itemID: 103
+    _collectOnDifference: 1
+  _rarities:
+  - Type: 0
+    FromIndex: 0
+    ToIndex: 5
+  - Type: 1
+    FromIndex: 5
+    ToIndex: 10
+  - Type: 2
+    FromIndex: 10
+    ToIndex: 15
+  - Type: 3
+    FromIndex: 15
+    ToIndex: 20
+  - Type: 4
+    FromIndex: 20
+    ToIndex: 25
+  _questLevels:
+  - {fileID: 11400000, guid: 92295eae4c29f734c85cc1b24cea9e76, type: 2}
+  - {fileID: 11400000, guid: 27570bbf3482f1340ad089220430a55a, type: 2}
+  - {fileID: 11400000, guid: 16536013c9e291b44b07b9f2237e8c3a, type: 2}
+  - {fileID: 11400000, guid: 94144c0cf5454e84c82141d48884ffe7, type: 2}
+  - {fileID: 11400000, guid: 31ec71e9da070264293c6efec541d8c3, type: 2}
+  - {fileID: 11400000, guid: 42ef804b94b2904499ed5808096b9a7e, type: 2}
+  - {fileID: 11400000, guid: 07368ca80d2585b4085920da35238fd6, type: 2}
+  - {fileID: 11400000, guid: d8651183a0044424a9d4d2597ce66680, type: 2}
+  - {fileID: 11400000, guid: 9174816f146fc454e9de7975b47f8d06, type: 2}
+  - {fileID: 11400000, guid: 30619ffa1c9b59948a0a1e3ec0144a12, type: 2}
+  - {fileID: 11400000, guid: 0cab222f782f2f04abc17b09c34bb99a, type: 2}
+  - {fileID: 11400000, guid: 50b11add250e1d243890e929bb50737d, type: 2}
+  - {fileID: 11400000, guid: 90ab103ff48936f4f8968a94829150e8, type: 2}
+  - {fileID: 11400000, guid: 06dc08d4dddde2349ad1c0f43d2475fa, type: 2}
+  - {fileID: 11400000, guid: db25a7d29c54d5d4caba113b08968698, type: 2}
+  - {fileID: 11400000, guid: 86b123f33b695b54cb6c5c1d48874c10, type: 2}
+  - {fileID: 11400000, guid: 088d301506435db4fb10aa94187fa28f, type: 2}
+  - {fileID: 11400000, guid: 338529c46dc76a44db833eb4b993ac2c, type: 2}
+  - {fileID: 11400000, guid: 2386be5034006734fb5937df464b3d35, type: 2}
+  - {fileID: 11400000, guid: b1eeb4edc8e6ad741bb2a43773fddb2c, type: 2}
+  - {fileID: 11400000, guid: de821118a5d96c54297ddca6c2fb8964, type: 2}
+  - {fileID: 11400000, guid: 3077a3a910ab0b248b6df43b86f27fdc, type: 2}
+  - {fileID: 11400000, guid: 3a6db32703e5810489f32df6afec2edb, type: 2}
+  - {fileID: 11400000, guid: 42c0d9edab9f94c4f94c6093d8264ce5, type: 2}
+  - {fileID: 11400000, guid: 365c091c930284140bb605fb382c4ec1, type: 2}
+  _questUIComponent:
+    _prefab: {fileID: 6852900661169752162, guid: 65b355e35c002c941942fb12b3239168,
+      type: 3}
+  parseLevelsRewards: 100,200,300,600,1000,4,5,7,10,12,6,7,8,11,15,8,10,12,15,20,20,25,30,35,50
+  parseLevels: 1,3,5,15,15,10,20,20,30,35,10,19,21,23,25,21,25,27,29,34,39,44,49,54,60
+  _autoComplete: 0
+  _parse: 1
