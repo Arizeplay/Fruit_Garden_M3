@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{A0BB348C-13A8-CF2F-E654-4FBBEA6761BC}</ProjectGuid>
+    <ProjectGuid>{1F84A2D5-5E33-CF09-D694-BE8F8AE1B4D3}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>com.soprachevak.safe-area.Runtime</AssemblyName>

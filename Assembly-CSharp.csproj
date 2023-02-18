@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{1CF69A3B-CC78-D66A-A429-3AEB21AE9263}</ProjectGuid>
+    <ProjectGuid>{B28450AD-19D2-04B8-9B98-FAA2939D55E0}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -22,7 +22,7 @@
     <DebugType>full</DebugType>
     <Optimize>false</Optimize>
     <OutputPath>Temp\Bin\Debug\</OutputPath>
-    <DefineConstants>UNITY_2021_3_6;UNITY_2021_3;UNITY_2021;UNITY_5_3_OR_NEWER;UNITY_5_4_OR_NEWER;UNITY_5_5_OR_NEWER;UNITY_5_6_OR_NEWER;UNITY_2017_1_OR_NEWER;UNITY_2017_2_OR_NEWER;UNITY_2017_3_OR_NEWER;UNITY_2017_4_OR_NEWER;UNITY_2018_1_OR_NEWER;UNITY_2018_2_OR_NEWER;UNITY_2018_3_OR_NEWER;UNITY_2018_4_OR_NEWER;UNITY_2019_1_OR_NEWER;UNITY_2019_2_OR_NEWER;UNITY_2019_3_OR_NEWER;UNITY_2019_4_OR_NEWER;UNITY_2020_1_OR_NEWER;UNITY_2020_2_OR_NEWER;UNITY_2020_3_OR_NEWER;UNITY_2021_1_OR_NEWER;UNITY_2021_2_OR_NEWER;UNITY_2021_3_OR_NEWER;UNITY_INCLUDE_TESTS;USE_SEARCH_ENGINE_API;USE_SEARCH_TABLE;USE_SEARCH_MODULE;USE_PROPERTY_DATABASE;USE_SEARCH_EXTENSION_API;SCENE_TEMPLATE_MODULE;ENABLE_AR;ENABLE_AUDIO;ENABLE_CACHING;ENABLE_CLOTH;ENABLE_EVENT_QUEUE;ENABLE_MICROPHONE;ENABLE_MULTIPLE_DISPLAYS;ENABLE_PHYSICS;ENABLE_TEXTURE_STREAMING;ENABLE_UNET;ENABLE_LZMA;ENABLE_UNITYEVENTS;ENABLE_VR;ENABLE_WEBCAM;ENABLE_UNITYWEBREQUEST;ENABLE_WWW;ENABLE_CLOUD_SERVICES;ENABLE_CLOUD_SERVICES_COLLAB;ENABLE_CLOUD_SERVICES_COLLAB_SOFTLOCKS;ENABLE_CLOUD_SERVICES_ADS;ENABLE_CLOUD_SERVICES_USE_WEBREQUEST;ENABLE_CLOUD_SERVICES_CRASH_REPORTING;ENABLE_CLOUD_SERVICES_NATIVE_CRASH_REPORTING;ENABLE_CLOUD_SERVICES_PURCHASING;ENABLE_CLOUD_SERVICES_ANALYTICS;ENABLE_CLOUD_SERVICES_UNET;ENABLE_CLOUD_SERVICES_BUILD;ENABLE_CLOUD_LICENSE;ENABLE_EDITOR_HUB_LICENSE;ENABLE_WEBSOCKET_CLIENT;ENABLE_DIRECTOR_AUDIO;ENABLE_DIRECTOR_TEXTURE;ENABLE_MANAGED_JOBS;ENABLE_MANAGED_TRANSFORM_JOBS;ENABLE_MANAGED_ANIMATION_JOBS;ENABLE_MANAGED_AUDIO_JOBS;ENABLE_RUNTIME_PERMISSIONS;ENABLE_ENGINE_CODE_STRIPPING;ENABLE_ONSCREEN_KEYBOARD;ENABLE_MANAGED_UNITYTLS;INCLUDE_DYNAMIC_GI;ENABLE_SCRIPTING_GC_WBARRIERS;PLATFORM_SUPPORTS_MONO;ENABLE_VIDEO;ENABLE_ACCELERATOR_CLIENT_DEBUGGING;PLATFORM_ANDROID;TEXTCORE_1_0_OR_NEWER;UNITY_ANDROID;UNITY_ANDROID_API;ENABLE_EGL;ENABLE_NETWORK;ENABLE_RUNTIME_GI;ENABLE_CRUNCH_TEXTURE_COMPRESSION;UNITY_CAN_SHOW_SPLASH_SCREEN;UNITY_HAS_GOOGLEVR;UNITY_HAS_TANGO;ENABLE_SPATIALTRACKING;ENABLE_ETC_COMPRESSION;PLATFORM_EXTENDS_VULKAN_DEVICE;PLATFORM_HAS_MULTIPLE_SWAPCHAINS;UNITY_ANDROID_SUPPORTS_SHADOWFILES;PLATFORM_UPDATES_TIME_OUTSIDE_OF_PLAYER_LOOP;ENABLE_UNITYADS_RUNTIME;UNITY_UNITYADS_API;ENABLE_MONO;NET_4_6;NET_UNITY_4_8;ENABLE_PROFILER;DEBUG;TRACE;UNITY_ASSERTIONS;UNITY_EDITOR;UNITY_EDITOR_64;UNITY_EDITOR_WIN;ENABLE_UNITY_COLLECTIONS_CHECKS;ENABLE_BURST_AOT;UNITY_TEAM_LICENSE;ENABLE_CUSTOM_RENDER_TEXTURE;ENABLE_DIRECTOR;ENABLE_LOCALIZATION;ENABLE_SPRITES;ENABLE_TERRAIN;ENABLE_TILEMAP;ENABLE_TIMELINE;ENABLE_LEGACY_INPUT_MANAGER;APP_METRICA_TRACK_LOCATION_DISABLED;CSHARP_7_OR_LATER;CSHARP_7_3_OR_NEWER</DefineConstants>
+    <DefineConstants>UNITY_2021_3_6;UNITY_2021_3;UNITY_2021;UNITY_5_3_OR_NEWER;UNITY_5_4_OR_NEWER;UNITY_5_5_OR_NEWER;UNITY_5_6_OR_NEWER;UNITY_2017_1_OR_NEWER;UNITY_2017_2_OR_NEWER;UNITY_2017_3_OR_NEWER;UNITY_2017_4_OR_NEWER;UNITY_2018_1_OR_NEWER;UNITY_2018_2_OR_NEWER;UNITY_2018_3_OR_NEWER;UNITY_2018_4_OR_NEWER;UNITY_2019_1_OR_NEWER;UNITY_2019_2_OR_NEWER;UNITY_2019_3_OR_NEWER;UNITY_2019_4_OR_NEWER;UNITY_2020_1_OR_NEWER;UNITY_2020_2_OR_NEWER;UNITY_2020_3_OR_NEWER;UNITY_2021_1_OR_NEWER;UNITY_2021_2_OR_NEWER;UNITY_2021_3_OR_NEWER;UNITY_INCLUDE_TESTS;USE_SEARCH_ENGINE_API;USE_SEARCH_TABLE;USE_SEARCH_MODULE;USE_PROPERTY_DATABASE;USE_SEARCH_EXTENSION_API;SCENE_TEMPLATE_MODULE;ENABLE_AR;ENABLE_AUDIO;ENABLE_CACHING;ENABLE_CLOTH;ENABLE_EVENT_QUEUE;ENABLE_MICROPHONE;ENABLE_MULTIPLE_DISPLAYS;ENABLE_PHYSICS;ENABLE_TEXTURE_STREAMING;ENABLE_UNET;ENABLE_LZMA;ENABLE_UNITYEVENTS;ENABLE_VR;ENABLE_WEBCAM;ENABLE_UNITYWEBREQUEST;ENABLE_WWW;ENABLE_CLOUD_SERVICES;ENABLE_CLOUD_SERVICES_COLLAB;ENABLE_CLOUD_SERVICES_COLLAB_SOFTLOCKS;ENABLE_CLOUD_SERVICES_ADS;ENABLE_CLOUD_SERVICES_USE_WEBREQUEST;ENABLE_CLOUD_SERVICES_CRASH_REPORTING;ENABLE_CLOUD_SERVICES_NATIVE_CRASH_REPORTING;ENABLE_CLOUD_SERVICES_PURCHASING;ENABLE_CLOUD_SERVICES_ANALYTICS;ENABLE_CLOUD_SERVICES_UNET;ENABLE_CLOUD_SERVICES_BUILD;ENABLE_CLOUD_LICENSE;ENABLE_EDITOR_HUB_LICENSE;ENABLE_WEBSOCKET_CLIENT;ENABLE_DIRECTOR_AUDIO;ENABLE_DIRECTOR_TEXTURE;ENABLE_MANAGED_JOBS;ENABLE_MANAGED_TRANSFORM_JOBS;ENABLE_MANAGED_ANIMATION_JOBS;ENABLE_MANAGED_AUDIO_JOBS;ENABLE_RUNTIME_PERMISSIONS;ENABLE_ENGINE_CODE_STRIPPING;ENABLE_ONSCREEN_KEYBOARD;ENABLE_MANAGED_UNITYTLS;INCLUDE_DYNAMIC_GI;ENABLE_SCRIPTING_GC_WBARRIERS;PLATFORM_SUPPORTS_MONO;ENABLE_VIDEO;ENABLE_ACCELERATOR_CLIENT_DEBUGGING;PLATFORM_ANDROID;TEXTCORE_1_0_OR_NEWER;UNITY_ANDROID;UNITY_ANDROID_API;ENABLE_EGL;ENABLE_NETWORK;ENABLE_RUNTIME_GI;ENABLE_CRUNCH_TEXTURE_COMPRESSION;UNITY_CAN_SHOW_SPLASH_SCREEN;UNITY_HAS_GOOGLEVR;UNITY_HAS_TANGO;ENABLE_SPATIALTRACKING;ENABLE_ETC_COMPRESSION;PLATFORM_EXTENDS_VULKAN_DEVICE;PLATFORM_HAS_MULTIPLE_SWAPCHAINS;UNITY_ANDROID_SUPPORTS_SHADOWFILES;PLATFORM_UPDATES_TIME_OUTSIDE_OF_PLAYER_LOOP;ENABLE_UNITYADS_RUNTIME;UNITY_UNITYADS_API;ENABLE_MONO;NET_4_6;NET_UNITY_4_8;ENABLE_PROFILER;DEBUG;TRACE;UNITY_ASSERTIONS;UNITY_EDITOR;UNITY_EDITOR_64;UNITY_EDITOR_WIN;ENABLE_UNITY_COLLECTIONS_CHECKS;ENABLE_BURST_AOT;UNITY_TEAM_LICENSE;ENABLE_CUSTOM_RENDER_TEXTURE;ENABLE_DIRECTOR;ENABLE_LOCALIZATION;ENABLE_SPRITES;ENABLE_TERRAIN;ENABLE_TILEMAP;ENABLE_TIMELINE;ENABLE_LEGACY_INPUT_MANAGER;APP_METRICA_TRACK_LOCATION_DISABLED;UNITY_PURCHASING;CSHARP_7_OR_LATER;CSHARP_7_3_OR_NEWER</DefineConstants>
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
     <NoWarn>0169</NoWarn>
@@ -47,7 +47,7 @@
   <PropertyGroup>
     <ProjectTypeGuids>{E097FAD1-6243-4DAD-9C02-E9B9EFC3FFC1};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
     <UnityProjectGenerator>Package</UnityProjectGenerator>
-    <UnityProjectGeneratorVersion>2.0.12</UnityProjectGeneratorVersion>
+    <UnityProjectGeneratorVersion>2.0.16</UnityProjectGeneratorVersion>
     <UnityProjectType>Game:1</UnityProjectType>
     <UnityBuildTarget>Android:13</UnityBuildTarget>
     <UnityVersion>2021.3.6f1</UnityVersion>
@@ -57,13 +57,18 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\_Yurowm\UltimateMatchThree\Scripts\LevelGoals\GoalInterfaces.cs" />
+    <Compile Include="Assets\Arize\GameEvents\Quests\Collections\Requirements\QuestEnterCount.cs" />
+    <Compile Include="Assets\FacebookSDK\Examples\Mobile\Scripts\SubMenus\TournamentsMenu.cs" />
     <Compile Include="Assets\_Yurowm\UltimateMatchThree\Scripts\Assistants\GameCore\Side.cs" />
     <Compile Include="Assets\_Yurowm\UltimateMatchThree\Features\FloodGoal\LifeBuoyChip.cs" />
     <Compile Include="Assets\AppMetrica\Profile\YandexAppMetricaAttribute.cs" />
     <Compile Include="Assets\_Yurowm\UltimateMatchThree\Scripts\Assistants\LocalizationAssistant.cs" />
+    <Compile Include="Assets\Samples\iOS 14 Advertising Support\1.0.0\01 Context Screen\Scripts\ContextScreenManager.cs" />
     <Compile Include="Assets\florius\Common\DistinctByMoreLINQ.cs" />
     <Compile Include="Assets\_Yurowm\UltimateMatchThree\Features\Lock\LockBlock.cs" />
     <Compile Include="Assets\_Yurowm\UltimateMatchThree\Features\Dialogue\SlotHighlight\SlotHighlight.cs" />
+    <Compile Include="Assets\Arize\Networking\ISerializationOption.cs" />
+    <Compile Include="Assets\_Yurowm\UltimateMatchThree\Features\Pineapple\PineappleBooster.cs" />
     <Compile Include="Assets\AppMetrica\Profile\YandexAppMetricaBooleanAttribute.cs" />
     <Compile Include="Assets\AppsFlyer\AFInAppEvents.cs" />
     <Compile Include="Assets\_Yurowm\UltimateMatchThree\Scripts\Effects\StrikeEffect.cs" />
@@ -71,30 +76,43 @@
     <Compile Include="Assets\_Yurowm\UltimateMatchThree\Scripts\Assistants\Project.cs" />
     <Compile Include="Assets\_Yurowm\UltimateMatchThree\Features\MatchClick\Scripts\MatchClickRule.cs" />
     <Compile Include="Assets\_Yurowm\UltimateMatchThree\Scripts\Assistants\GameCore\EasingFunctions.cs" />
+    <Compile Include="Assets\Samples\iOS 14 Advertising Support\1.0.0\01 Context Screen\Scripts\AutoSwitchLayout.cs" />
+    <Compile Include="Assets\Arize\Store\Item.cs" />
     <Compile Include="Assets\_Yurowm\UltimateMatchThree\Scripts\HSVSprite.cs" />
     <Compile Include="Assets\AppMetrica\YandexAppMetricaAndroid.cs" />
-    <Compile Include="Assets\FacebookSDK\Examples\Scripts\LogView.cs" />
+    <Compile Include="Assets\FacebookSDK\Examples\Mobile\Scripts\LogView.cs" />
     <Compile Include="Assets\_Yurowm\UltimateMatchThree\Features\Dialogue\Helper\DialogueHelper.cs" />
     <Compile Include="Assets\_Yurowm\UltimateMatchThree\Scripts\Effects\ParticleEffect.cs" />
     <Compile Include="Assets\_Yurowm\UltimateMatchThree\Scripts\Assistants\GameCore\IntRange.cs" />
+    <Compile Include="Assets\Arize\GameEvents\Quests\Collections\Requirements\Difference.cs" />
+    <Compile Include="Assets\Arize\GameEvents\UI\GameEventPanel.cs" />
+    <Compile Include="Assets\_Yurowm\UltimateMatchThree\Features\Cake\CakeBooster.cs" />
+    <Compile Include="Assets\Arize\Notifications.cs" />
     <Compile Include="Assets\_Yurowm\UltimateMatchThree\Features\Paint\PaintBooster.cs" />
     <Compile Include="Assets\_Yurowm\UltimateMatchThree\Scripts\Assistants\GameCore\FloatRange.cs" />
     <Compile Include="Assets\_Yurowm\UltimateMatchThree\Scripts\Assistants\GameCore\ILiveContent.cs" />
     <Compile Include="Assets\_Yurowm\UltimateMatchThree\Scripts\Assistants\GameCore\Properties\Settings.cs" />
     <Compile Include="Assets\_Yurowm\UltimateMatchThree\Scripts\Assistants\SessionDirector.cs" />
     <Compile Include="Assets\AppMetrica\BaseYandexAppMetrica.cs" />
+    <Compile Include="Assets\Arize\GameEvents\Quests\Rewards\RewardSale.cs" />
+    <Compile Include="Assets\_Yurowm\UltimateMatchThree\Scripts\UI\SelectLevelPage.cs" />
     <Compile Include="Assets\_Yurowm\UltimateMatchThree\Scripts\Extensions.cs" />
     <Compile Include="Assets\_Yurowm\UltimateMatchThree\Features\Tornado\TornadoBooster.cs" />
     <Compile Include="Assets\_Yurowm\UltimateMatchThree\Features\ColorCollectionGoal\Scripts\TargetCounterColor.cs" />
     <Compile Include="Assets\_Yurowm\UltimateMatchThree\Scripts\Assistants\UIAssistant.cs" />
     <Compile Include="Assets\_Yurowm\UltimateMatchThree\Scripts\UI\UIParticleSystem.cs" />
+    <Compile Include="Assets\_Yurowm\UltimateMatchThree\Features\Pineapple\Pineapple.cs" />
     <Compile Include="Assets\_Yurowm\UltimateMatchThree\Features\Water\Water.cs" />
     <Compile Include="Assets\_Yurowm\UltimateMatchThree\Scripts\Assistants\FieldAssistant.cs" />
     <Compile Include="Assets\_Yurowm\UltimateMatchThree\Scripts\Assistants\AudioAssistant.cs" />
+    <Compile Include="Assets\Arize\GameEvents\Quests\Quest.cs" />
     <Compile Include="Assets\_Yurowm\UltimateMatchThree\Features\AgnesCharacter\Scripts\CharacterPose.cs" />
     <Compile Include="Assets\_Yurowm\UltimateMatchThree\Features\Bomb\CrossGrayBomb.cs" />
     <Compile Include="Assets\_Yurowm\UltimateMatchThree\Features\UndeadBlocker\UndeadBlocker.cs" />
+    <Compile Include="Assets\Arize\GameEvents\Quests\Collections\Requirements\QuestRequireStars.cs" />
     <Compile Include="Assets\_Yurowm\UltimateMatchThree\Features\Pearl\Pearl.cs" />
+    <Compile Include="Assets\FacebookSDK\Examples\Windows\FBWindowsLogsManager.cs" />
+    <Compile Include="Assets\FacebookSDK\Examples\Windows\FBWindowsA2UNotificationsManager.cs" />
     <Compile Include="Assets\_Yurowm\UltimateMatchThree\Features\LevelMap\Scripts\MapLocation.cs" />
     <Compile Include="Assets\_Yurowm\UltimateMatchThree\Scripts\Effects\AnimationEffect.cs" />
     <Compile Include="Assets\_Yurowm\UltimateMatchThree\Scripts\Assistants\GameCore\area.cs" />
@@ -102,26 +120,39 @@
     <Compile Include="Assets\_Yurowm\UltimateMatchThree\Features\PigInAPock\Scripts\PigInAPokeRewarder.cs" />
     <Compile Include="Assets\_Yurowm\UltimateMatchThree\Scripts\Items\ContentSound.cs" />
     <Compile Include="Assets\_Yurowm\UltimateMatchThree\Scripts\UI\SetSortingLayer.cs" />
-    <Compile Include="Assets\FacebookSDK\Examples\Scripts\SubMenus\DialogShare.cs" />
+    <Compile Include="Assets\Arize\GameEvents\UI\QuestGroupUI.cs" />
+    <Compile Include="Assets\FacebookSDK\Examples\Mobile\Scripts\SubMenus\DialogShare.cs" />
     <Compile Include="Assets\_Yurowm\UltimateMatchThree\Scripts\UI\ItemMask.cs" />
+    <Compile Include="Assets\_Yurowm\UltimateMatchThree\Scripts\Assistants\LevelGoalInfo.cs" />
     <Compile Include="Assets\_Yurowm\UltimateMatchThree\Features\Analytics\BerryAnalytics.cs" />
     <Compile Include="Assets\_Yurowm\UltimateMatchThree\Scripts\Effects\IEffect.cs" />
     <Compile Include="Assets\AppsFlyer\AppsFlyer.cs" />
     <Compile Include="Assets\_Yurowm\UltimateMatchThree\Features\Leaderboard\Scripts\LeaderboardItem.cs" />
     <Compile Include="Assets\_Yurowm\UltimateMatchThree\Features\Store\Scripts\BerryStoreGroup.cs" />
+    <Compile Include="Assets\Arize\GameEvents\UI\QuestInfo.cs" />
+    <Compile Include="Assets\Arize\GameEvents\UI\Other\WheelTimer.cs" />
     <Compile Include="Assets\_Yurowm\UltimateMatchThree\Features\Online\UserAvatar.cs" />
+    <Compile Include="Assets\FacebookSDK\Examples\Windows\FBWindowsSoftKeyboardManager.cs" />
     <Compile Include="Assets\_Yurowm\UltimateMatchThree\Features\Dialogue\Dialogue.cs" />
+    <Compile Include="Assets\FacebookSDK\Examples\Mobile\Scripts\UIInputHelper.cs" />
     <Compile Include="Assets\_Yurowm\UltimateMatchThree\Features\Ingredients\Scripts\IngredientsGoal.cs" />
     <Compile Include="Assets\_Yurowm\UltimateMatchThree\Scripts\Animations\ParallaxAnimator.cs" />
+    <Compile Include="Assets\FacebookSDK\Examples\Windows\FBWindowsVirtualGamepadManager.cs" />
     <Compile Include="Assets\_Yurowm\UltimateMatchThree\Scripts\UI\RandomTransform.cs" />
+    <Compile Include="Assets\Arize\GameEvents\Quests\Collections\Requirements\QuestRequaerContent.cs" />
     <Compile Include="Assets\_Yurowm\UltimateMatchThree\Features\Generator\Scripts\SlotGeneratorExtensions.cs" />
     <Compile Include="Assets\_Yurowm\UltimateMatchThree\Scripts\Assistants\BoosterAssistant.cs" />
     <Compile Include="Assets\AppMetrica\YandexAppMetricaRevenue.cs" />
     <Compile Include="Assets\_Yurowm\UltimateMatchThree\Features\Store\PanelSwiter.cs" />
-    <Compile Include="Assets\FacebookSDK\Examples\Scripts\SubMenus\AppRequests.cs" />
+    <Compile Include="Assets\FacebookSDK\Examples\Mobile\Scripts\SubMenus\AppRequests.cs" />
+    <Compile Include="Assets\Arize\GameEvents\Quests\Collections\QuestItemCollection.cs" />
+    <Compile Include="Assets\_Yurowm\UltimateMatchThree\Scripts\Assistants\LevelDesign.cs" />
     <Compile Include="Assets\AppMetrica\Profile\YandexAppMetricaUserProfileUpdate.cs" />
     <Compile Include="Assets\_Yurowm\UltimateMatchThree\Features\LevelMap\Scripts\LevelMapAvatars.cs" />
     <Compile Include="Assets\_Yurowm\UltimateMatchThree\Features\Boosters\BoosterPanel.cs" />
+    <Compile Include="Assets\_Yurowm\UltimateMatchThree\Scripts\Assistants\BoosterSettings.cs" />
+    <Compile Include="Assets\Arize\GameEvents\Quests\QuestWheelPinger.cs" />
+    <Compile Include="Assets\_Yurowm\UltimateMatchThree\Prefabs\UI\LevelSelected\RaindomRewardIcons.cs" />
     <Compile Include="Assets\_Yurowm\UltimateMatchThree\Features\ICollectionGoal\Scripts\CollectionGoal.cs" />
     <Compile Include="Assets\_Yurowm\UltimateMatchThree\Scripts\Effects\RocketEffect.cs" />
     <Compile Include="Assets\_Yurowm\UltimateMatchThree\Scripts\SpecialRenderers\SlotRenderer.cs" />
@@ -132,88 +163,126 @@
     <Compile Include="Assets\_Yurowm\UltimateMatchThree\Features\Facebook\Facebook.cs" />
     <Compile Include="Assets\_Yurowm\UltimateMatchThree\Scripts\Assistants\GameCore\Content.cs" />
     <Compile Include="Assets\_Yurowm\UltimateMatchThree\Features\SpinWheel\Scripts\SpinWhellItem.cs" />
+    <Compile Include="Assets\_Yurowm\UltimateMatchThree\Features\Cake\ChipCookingEffect.cs" />
     <Compile Include="Assets\_Yurowm\UltimateMatchThree\Features\LevelMap\Scripts\LevelButton.cs" />
     <Compile Include="Assets\_Yurowm\UltimateMatchThree\Scripts\Assistants\ServiceAssistant.cs" />
+    <Compile Include="Assets\FacebookSDK\Examples\Windows\FBWindowsGraphAPIManager.cs" />
     <Compile Include="Assets\_Yurowm\DLC\Shell\Scripts\Shell.cs" />
+    <Compile Include="Assets\_Yurowm\UltimateMatchThree\Features\Knife\KnifeBooster.cs" />
     <Compile Include="Assets\AppMetrica\Profile\YandexAppMetricaGenderAttribute.cs" />
     <Compile Include="Assets\_Yurowm\UltimateMatchThree\Features\Online\ShareButton.cs" />
     <Compile Include="Assets\_Yurowm\UltimateMatchThree\Scripts\SpecialRenderers\BorderRenderer.cs" />
     <Compile Include="Assets\_Yurowm\UltimateMatchThree\Scripts\UI\ItemCounter.cs" />
+    <Compile Include="Assets\Arize\GameEvents\Quests\Rarities.cs" />
     <Compile Include="Assets\_Yurowm\UltimateMatchThree\Scripts\UI\ColoredBackground.cs" />
     <Compile Include="Assets\_Yurowm\UltimateMatchThree\Features\Bomb\GrayBomb.cs" />
+    <Compile Include="Assets\Arize\Networking\StoreParser.cs" />
+    <Compile Include="Assets\DOTween\Modules\DOTweenModuleSprite.cs" />
     <Compile Include="Assets\_Yurowm\UltimateMatchThree\Scripts\UI\UserNameField.cs" />
     <Compile Include="Assets\_Yurowm\UltimateMatchThree\Features\Advertising\Advertising.cs" />
     <Compile Include="Assets\_Yurowm\UltimateMatchThree\Scripts\Effects\LineExplosionEffect.cs" />
     <Compile Include="Assets\_Yurowm\UltimateMatchThree\Scripts\UI\LanguageDropdown.cs" />
+    <Compile Include="Assets\Arize\GameEvents\UI\QuestCompletePanel.cs" />
     <Compile Include="Assets\_Yurowm\UltimateMatchThree\Scripts\UI\ScoreCounter.cs" />
     <Compile Include="Assets\_Yurowm\UltimateMatchThree\Features\Sandwich\Sandwich.cs" />
     <Compile Include="Assets\_Yurowm\UltimateMatchThree\Features\AutoPlayBonus(Experimental)\AutoPlayBonus.cs" />
     <Compile Include="Assets\_Yurowm\UltimateMatchThree\Features\SpinWheel\Scripts\SpinWheelDot.cs" />
-    <Compile Include="Assets\_Yurowm\UltimateMatchThree\Features\LightningBomb\ColoredNodeBomb.cs" />
+    <Compile Include="Assets\_Yurowm\UltimateMatchThree\Features\LightningBomb\ColoredRainbow.cs" />
+    <Compile Include="Assets\Arize\GameEvents\UI\Other\Star.cs" />
+    <Compile Include="Assets\FacebookSDK\Examples\Windows\FBWindowsFriendsManager.cs" />
+    <Compile Include="Assets\_Yurowm\UltimateMatchThree\Scripts\Effects\ThunderEffect.cs" />
     <Compile Include="Assets\_Yurowm\UltimateMatchThree\Scripts\Assistants\GameCore\SDSMask.cs" />
     <Compile Include="Assets\_Yurowm\UltimateMatchThree\Scripts\Items\Mixes\BigExplosionMix.cs" />
+    <Compile Include="Assets\FacebookSDK\Examples\Windows\FBWindowsPhysicalGamepadManager.cs" />
     <Compile Include="Assets\_Yurowm\UltimateMatchThree\Features\Analytics\AppMetricaAnalyticsEvents.cs" />
+    <Compile Include="Assets\_Yurowm\UltimateMatchThree\Scripts\Assistants\SecondaryLevelDesign.cs" />
     <Compile Include="Assets\_Yurowm\UltimateMatchThree\Scripts\Assistants\TrueTime.cs" />
-    <Compile Include="Assets\Ninsar\TermsOfPrivacy\TermsBehaviour.cs" />
+    <Compile Include="Assets\Arize\TermsOfPrivacy\TermsBehaviour.cs" />
     <Compile Include="Assets\_Yurowm\UltimateMatchThree\Features\Ingredients\Scripts\IngredientHolder.cs" />
     <Compile Include="Assets\_Yurowm\UltimateMatchThree\Scripts\Items\Chips\ChipAnimationEvent.cs" />
     <Compile Include="Assets\_Yurowm\UltimateMatchThree\Scripts\Assistants\GameCore\Pair.cs" />
     <Compile Include="Assets\_Yurowm\UltimateMatchThree\Scripts\UI\SliderValueFromMemory.cs" />
     <Compile Include="Assets\_Yurowm\UltimateMatchThree\Scripts\UI\AndroidBackButton.cs" />
     <Compile Include="Assets\_Yurowm\UltimateMatchThree\Scripts\UI\GameCamera.cs" />
+    <Compile Include="Assets\DOTween\Modules\DOTweenModuleUI.cs" />
     <Compile Include="Assets\_Yurowm\UltimateMatchThree\Features\PearlBoobster\PearlBooster.cs" />
     <Compile Include="Assets\_Yurowm\UltimateMatchThree\Scripts\UI\AnimationSpeed.cs" />
+    <Compile Include="Assets\Arize\GameEvents\QuestGroup.cs" />
     <Compile Include="Assets\_Yurowm\UltimateMatchThree\Scripts\Effects\ScoreEffect.cs" />
     <Compile Include="Assets\_Yurowm\UltimateMatchThree\Scripts\UI\MaskLibrary.cs" />
     <Compile Include="Assets\AppsFlyer\IAppsFlyerConversionData.cs" />
+    <Compile Include="Assets\_Yurowm\UltimateMatchThree\Scripts\Assistants\SlotExtension.cs" />
+    <Compile Include="Assets\FacebookSDK\Examples\Windows\FBWindowsADSManager.cs" />
+    <Compile Include="Assets\Arize\GameEvents\Quests\Collections\QuestContentCollection.cs" />
     <Compile Include="Assets\_Yurowm\DLC\Dirt\Scripts\Dirt.cs" />
     <Compile Include="Assets\florius\UI\DeviceBasedAutoRotationSettings.cs" />
     <Compile Include="Assets\AppsFlyer\AFMiniJSON.cs" />
+    <Compile Include="Assets\FacebookSDK\Examples\Windows\FBWindowsPurchaseManager.cs" />
     <Compile Include="Assets\_Yurowm\UltimateMatchThree\Scripts\Items\Mixes\IChipMix.cs" />
-    <Compile Include="Assets\FacebookSDK\Examples\Scripts\MenuBase.cs" />
+    <Compile Include="Assets\Arize\GameEvents\UI\Rewarder.cs" />
+    <Compile Include="Assets\FacebookSDK\Examples\Mobile\Scripts\MenuBase.cs" />
     <Compile Include="Assets\AppMetrica\Profile\YandexAppMetricaNameAttribute.cs" />
     <Compile Include="Assets\_Yurowm\UltimateMatchThree\Scripts\UI\TargetCounters\TargetCounter.cs" />
     <Compile Include="Assets\_Yurowm\UltimateMatchThree\Features\ThreeStars\StarsGoal.cs" />
     <Compile Include="Assets\_Yurowm\UltimateMatchThree\Scripts\UI\ScoreBar.cs" />
     <Compile Include="Assets\_Yurowm\UltimateMatchThree\Features\SimpleBomb\SimpleBomb.cs" />
     <Compile Include="Assets\_Yurowm\UltimateMatchThree\Scripts\Vibration.cs" />
+    <Compile Include="Assets\_Yurowm\UltimateMatchThree\Features\Cake\CookingEffect.cs" />
     <Compile Include="Assets\AppMetrica\YandexAppMetricaConfig.cs" />
+    <Compile Include="Assets\Arize\GameEvents\UI\QuestAnimationStars.cs" />
     <Compile Include="Assets\_Yurowm\UltimateMatchThree\Features\Leaderboard\Scripts\LeaderboardInvite.cs" />
     <Compile Include="Assets\_Yurowm\UltimateMatchThree\Prefabs\UI\RateUs\RateUs.cs" />
+    <Compile Include="Assets\DOTween\Modules\DOTweenModuleUnityVersion.cs" />
+    <Compile Include="Assets\Arize\GameEvents\Quests\QuestLevel.cs" />
     <Compile Include="Assets\_Yurowm\UltimateMatchThree\Features\Store\Scripts\BerryStoreFiller.cs" />
     <Compile Include="Assets\AppsFlyer\AppsFlyerObjectScript.cs" />
+    <Compile Include="Assets\Arize\GameEvents\UI\QuestGroupTracker.cs" />
     <Compile Include="Assets\_Yurowm\UltimateMatchThree\Generated Scriptes\ItemColor.cs" />
     <Compile Include="Assets\_Yurowm\UltimateMatchThree\Features\AirstrikeBonus\AirstrikeBonus.cs" />
     <Compile Include="Assets\_Yurowm\UltimateMatchThree\Scripts\UI\SetSpriteColor.cs" />
+    <Compile Include="Assets\FacebookSDK\Examples\Mobile\Scripts\SubMenus\UploadToMediaLibrary.cs" />
     <Compile Include="Assets\_Yurowm\UltimateMatchThree\Features\Dialogue\TutorialBubble\TutorialSprite.cs" />
     <Compile Include="Assets\AppsFlyer\AppsFlyeriOS.cs" />
+    <Compile Include="Assets\Arize\GameEvents\Quests\Collections\QuestEnterCollection.cs" />
     <Compile Include="Assets\_Yurowm\UltimateMatchThree\Features\MatchClick\SpriteHelper\SpriteHelper.cs" />
     <Compile Include="Assets\_Yurowm\UltimateMatchThree\Scripts\Animations\ParallaxTweenAnimator.cs" />
+    <Compile Include="Assets\Arize\GameEvents\Quests\QuestPinger.cs" />
+    <Compile Include="Assets\Arize\Networking\HttpClient.cs" />
+    <Compile Include="Assets\Arize\GameEvents\Quests\Rewards\RewardItemID.cs" />
     <Compile Include="Assets\AppMetrica\YandexAppMetricaDummy.cs" />
     <Compile Include="Assets\AppMetrica\Profile\YandexAppMetricaUserProfile.cs" />
-    <Compile Include="Assets\_Yurowm\UltimateMatchThree\Features\Rainbow\NodeBomb.cs" />
+    <Compile Include="Assets\_Yurowm\UltimateMatchThree\Features\Rainbow\Rainbow.cs" />
     <Compile Include="Assets\AppsFlyer\AppsFlyerAndroid.cs" />
+    <Compile Include="Assets\_Yurowm\UltimateMatchThree\Scripts\Assistants\RewardItem.cs" />
     <Compile Include="Assets\_Yurowm\UltimateMatchThree\Features\ExtraMoves\ExtraMovesBooster.cs" />
+    <Compile Include="Assets\Arize\GameEvents\Quests\Collections\QuestUI.cs" />
+    <Compile Include="Assets\_Yurowm\UltimateMatchThree\Scripts\Assistants\SlotContent.cs" />
     <Compile Include="Assets\_Yurowm\UltimateMatchThree\Scripts\Items\Mixes\BombEmitterMix.cs" />
     <Compile Include="Assets\_Yurowm\UltimateMatchThree\Features\Glove\GloveBooster.cs" />
     <Compile Include="Assets\_Yurowm\UltimateMatchThree\Scripts\Items\ContentAnimator.cs" />
     <Compile Include="Assets\_Yurowm\UltimateMatchThree\Features\Advertising\Integrations\ChartboostIntegration.cs" />
     <Compile Include="Assets\_Yurowm\UltimateMatchThree\Features\Generator\Scripts\SlotGenerator.cs" />
+    <Compile Include="Assets\Arize\GameEvents\Quests\Rewards\RewardMBooster.cs" />
     <Compile Include="Assets\_Yurowm\UltimateMatchThree\Scripts\Assistants\GameCore\MonoBehaviourAssistant`1.cs" />
     <Compile Include="Assets\_Yurowm\UltimateMatchThree\Features\CrossBomb\CrossBomb.cs" />
     <Compile Include="Assets\_Yurowm\UltimateMatchThree\Features\Store\Scripts\BerryStoreItemLayout.cs" />
     <Compile Include="Assets\florius\Common\FPS.cs" />
     <Compile Include="Assets\Test.cs" />
     <Compile Include="Assets\_Yurowm\UltimateMatchThree\Scripts\UI\FieldArea.cs" />
+    <Compile Include="Assets\Arize\Networking\JsonSerializationOption.cs" />
     <Compile Include="Assets\_Yurowm\UltimateMatchThree\Features\Ice\Scripts\Ice.cs" />
     <Compile Include="Assets\_Yurowm\UltimateMatchThree\Features\Teleport\Scripts\Teleport.cs" />
+    <Compile Include="Assets\Arize\GameEvents\UI\QuestShortPanel.cs" />
+    <Compile Include="Assets\Arize\GameEvents\UI\QuestShortPanelWithRarityStars.cs" />
     <Compile Include="Assets\_Yurowm\UltimateMatchThree\Scripts\Assistants\GameCore\Orientation.cs" />
     <Compile Include="Assets\_Yurowm\UltimateMatchThree\Scripts\Assistants\LevelMapAssistant.cs" />
     <Compile Include="Assets\_Yurowm\DLC\GeneratorExtended\Scripts\SlotGeneratorExtended.cs" />
     <Compile Include="Assets\_Yurowm\UltimateMatchThree\Scripts\Items\ContentVibration.cs" />
     <Compile Include="Assets\_Yurowm\UltimateMatchThree\Scripts\UI\ScoreStarFromMemory.cs" />
     <Compile Include="Assets\_Yurowm\UltimateMatchThree\Scripts\Assistants\GameCore\Asix.cs" />
+    <Compile Include="Assets\DOTween\Modules\DOTweenModulePhysics2D.cs" />
     <Compile Include="Assets\_Yurowm\UltimateMatchThree\Generated Scriptes\ItemID.cs" />
+    <Compile Include="Assets\Arize\GameEvents\UI\QuestWheelShortPanel.cs" />
     <Compile Include="Assets\_Yurowm\UltimateMatchThree\Scripts\Items\Chips\StoneChip.cs" />
     <Compile Include="Assets\_Yurowm\UltimateMatchThree\Scripts\Help\KeyframeSerialization.cs" />
     <Compile Include="Assets\_Yurowm\UltimateMatchThree\Scripts\UI\Heart.cs" />
@@ -221,19 +290,28 @@
     <Compile Include="Assets\_Yurowm\UltimateMatchThree\Scripts\Assistants\GameCore\DelayedAccess.cs" />
     <Compile Include="Assets\_Yurowm\UltimateMatchThree\Scripts\Assistants\GameCore\OrientationLine.cs" />
     <Compile Include="Assets\_Yurowm\UltimateMatchThree\Features\Surprise\SurpriseBooster.cs" />
+    <Compile Include="Assets\Arize\GameEvents\Quests\Rewards\RewardSBooster.cs" />
     <Compile Include="Assets\_Yurowm\UltimateMatchThree\Features\BombBonus\BombsBonus.cs" />
     <Compile Include="Assets\_Yurowm\UltimateMatchThree\Scripts\Assistants\ControlAssistant.cs" />
     <Compile Include="Assets\_Yurowm\UltimateMatchThree\Features\Jam\RocketChip.cs" />
     <Compile Include="Assets\_Yurowm\UltimateMatchThree\Features\Walls\Wall.cs" />
+    <Compile Include="Assets\_Yurowm\UltimateMatchThree\Scripts\Assistants\LevelParameter.cs" />
+    <Compile Include="Assets\FacebookSDK\Examples\Windows\FBWindowsExampleTabsManager.cs" />
     <Compile Include="Assets\_Yurowm\UltimateMatchThree\Features\Boosters\BoosterButton.cs" />
     <Compile Include="Assets\_Yurowm\UltimateMatchThree\Features\Dialogue\SpeechBubble\SpeechBubble.cs" />
+    <Compile Include="Assets\Arize\GameEvents\UI\QuestReward.cs" />
+    <Compile Include="Assets\DOTween\Modules\DOTweenModuleEPOOutline.cs" />
     <Compile Include="Assets\_Yurowm\UltimateMatchThree\Features\Bomb\NodeGrayBomb.cs" />
+    <Compile Include="Assets\Arize\GameEvents\Quests\Collections\QuestRequirement.cs" />
     <Compile Include="Assets\_Yurowm\UltimateMatchThree\Scripts\UI\Question.cs" />
+    <Compile Include="Assets\_Yurowm\UltimateMatchThree\Scripts\Assistants\SlotSettings.cs" />
     <Compile Include="Assets\AppMetrica\YMMJSONUtils.cs" />
     <Compile Include="Assets\_Yurowm\UltimateMatchThree\Scripts\UI\CPanel.cs" />
     <Compile Include="Assets\_Yurowm\UltimateMatchThree\Features\MatchThreeSwap\Scripts\MatchThreeSwapRule.cs" />
     <Compile Include="Assets\_Yurowm\UltimateMatchThree\Features\Dialogue\TutorialBubble\TutorialPopup.cs" />
     <Compile Include="Assets\_Yurowm\UltimateMatchThree\Scripts\UI\UIAnimationIssue.cs" />
+    <Compile Include="Assets\Arize\GameEvents\RewardContainer.cs" />
+    <Compile Include="Assets\FacebookSDK\Examples\Windows\FBWindowsLoginManager.cs" />
     <Compile Include="Assets\_Yurowm\UltimateMatchThree\Scripts\Assistants\GameCore\ExecutionTimer.cs" />
     <Compile Include="Assets\_Yurowm\UltimateMatchThree\Scripts\Assistants\GameCore\int3.cs" />
     <Compile Include="Assets\_Yurowm\UltimateMatchThree\Scripts\UI\SetRandomSprite.cs" />
@@ -243,18 +321,22 @@
     <Compile Include="Assets\_Yurowm\UltimateMatchThree\Scripts\Assistants\GameCore\HSBColor.cs" />
     <Compile Include="Assets\_Yurowm\UltimateMatchThree\Scripts\UI\Effects\UIOutline2.cs" />
     <Compile Include="Assets\AppMetrica\Profile\YandexAppMetricaNumberAttribute.cs" />
+    <Compile Include="Assets\_Yurowm\UltimateMatchThree\Scripts\UI\StartLevelButtonWithAd.cs" />
     <Compile Include="Assets\_Yurowm\UltimateMatchThree\Scripts\Assistants\GameCore\Utils.cs" />
     <Compile Include="Assets\_Yurowm\UltimateMatchThree\Scripts\Assistants\LevelAssistant.cs" />
     <Compile Include="Assets\_Yurowm\UltimateMatchThree\Features\Slots\Slot.cs" />
     <Compile Include="Assets\_Yurowm\UltimateMatchThree\Scripts\UI\ScoreStar.cs" />
-    <Compile Include="Assets\FacebookSDK\Examples\Scripts\ConsoleBase.cs" />
+    <Compile Include="Assets\DOTween\Modules\DOTweenModuleUtils.cs" />
+    <Compile Include="Assets\FacebookSDK\Examples\Mobile\Scripts\ConsoleBase.cs" />
     <Compile Include="Assets\_Yurowm\DebugPanel\DebugPanel.cs" />
     <Compile Include="Assets\_Yurowm\UltimateMatchThree\Scripts\UI\StartLevelButton.cs" />
     <Compile Include="Assets\_Yurowm\UltimateMatchThree\Features\MatchChain\Scripts\MatchChainRule.cs" />
     <Compile Include="Assets\_Yurowm\UltimateMatchThree\Features\SpinWheel\Scripts\SpinWheel.cs" />
+    <Compile Include="Assets\DOTween\Modules\DOTweenModulePhysics.cs" />
     <Compile Include="Assets\_Yurowm\UltimateMatchThree\Features\AgnesCharacter\Scripts\Character.cs" />
     <Compile Include="Assets\_Yurowm\UltimateMatchThree\Features\AntiGravitation\AntiGravitation.cs" />
-    <Compile Include="Assets\FacebookSDK\Examples\Scripts\SubMenus\GraphRequest.cs" />
+    <Compile Include="Assets\_Yurowm\UltimateMatchThree\Scripts\Assistants\ItemIcons.cs" />
+    <Compile Include="Assets\FacebookSDK\Examples\Mobile\Scripts\SubMenus\GraphRequest.cs" />
     <Compile Include="Assets\_Yurowm\UltimateMatchThree\Scripts\Line.cs" />
     <Compile Include="Assets\_Yurowm\DLC\GummyBear\Scripts\GummyBearGoal.cs" />
     <Compile Include="Assets\_Yurowm\UltimateMatchThree\Features\Lava\LavaChip.cs" />
@@ -263,29 +345,37 @@
     <Compile Include="Assets\_Yurowm\UltimateMatchThree\Scripts\UI\LinearAnimatior.cs" />
     <Compile Include="Assets\_Yurowm\UltimateMatchThree\Features\FloodGoal\FloodGoal.cs" />
     <Compile Include="Assets\_Yurowm\UltimateMatchThree\Features\Analytics\Integrations\FlurryIntegration.cs" />
+    <Compile Include="Assets\_Yurowm\UltimateMatchThree\Features\PigInAPock\Scripts\AdRandomRewarder.cs" />
     <Compile Include="Assets\_Yurowm\UltimateMatchThree\Scripts\UI\StarImageActivator.cs" />
+    <Compile Include="Assets\Arize\Store\StoreItem.cs" />
     <Compile Include="Assets\_Yurowm\UltimateMatchThree\Scripts\Assistants\GameCore\int2.cs" />
-    <Compile Include="Assets\FacebookSDK\Examples\Scripts\SubMenus\AppLinks.cs" />
-    <Compile Include="Assets\FacebookSDK\Examples\Scripts\SubMenus\AccessTokenMenu.cs" />
+    <Compile Include="Assets\FacebookSDK\Examples\Mobile\Scripts\SubMenus\AppLinks.cs" />
+    <Compile Include="Assets\FacebookSDK\Examples\Mobile\Scripts\SubMenus\AccessTokenMenu.cs" />
+    <Compile Include="Assets\_Yurowm\UltimateMatchThree\Scripts\DeviceRotationMask.cs" />
     <Compile Include="Assets\AppMetrica\YandexAppMetricaError.cs" />
     <Compile Include="Assets\_Yurowm\DLC\GummyBear\Scripts\GummyBear.cs" />
+    <Compile Include="Assets\DOTween\Modules\DOTweenModuleAudio.cs" />
     <Compile Include="Assets\AppsFlyer\AppsFlyerEventArgs.cs" />
     <Compile Include="Assets\_Yurowm\UltimateMatchThree\Scripts\Assistants\GameCore\JSONUtility.cs" />
+    <Compile Include="Assets\_Yurowm\UltimateMatchThree\Scripts\Assistants\StartBoosterSettings.cs" />
+    <Compile Include="Assets\_Yurowm\UltimateMatchThree\Scripts\UI\MenuButtonObserver.cs" />
     <Compile Include="Assets\_Yurowm\UltimateMatchThree\Scripts\UI\ScoreBarStar.cs" />
     <Compile Include="Assets\_Yurowm\UltimateMatchThree\Scripts\ObjectTag.cs" />
     <Compile Include="Assets\_Yurowm\UltimateMatchThree\Features\BoombBooster\BombBooster.cs" />
     <Compile Include="Assets\_Yurowm\UltimateMatchThree\Scripts\Rules\LevelRule.cs" />
     <Compile Include="Assets\_Yurowm\UltimateMatchThree\Scripts\UI\TargetCounters\TargetPanel.cs" />
-    <Compile Include="Assets\FacebookSDK\Examples\Scripts\SubMenus\MainMenu.cs" />
+    <Compile Include="Assets\FacebookSDK\Examples\Mobile\Scripts\SubMenus\MainMenu.cs" />
     <Compile Include="Assets\_Yurowm\UltimateMatchThree\Scripts\UI\ButtonSound.cs" />
     <Compile Include="Assets\_Yurowm\UltimateMatchThree\Scripts\Effects\CollectionEffect.cs" />
     <Compile Include="Assets\_Yurowm\UltimateMatchThree\Scripts\Assistants\GameCore\Asix2.cs" />
     <Compile Include="Assets\_Yurowm\UltimateMatchThree\Scripts\Assistants\GameCore\IScriptingDefineSymbol.cs" />
     <Compile Include="Assets\_Yurowm\UltimateMatchThree\Features\Analytics\AppMetrica.cs" />
     <Compile Include="Assets\_Yurowm\UltimateMatchThree\Features\ColorCollectionGoal\Scripts\ColorCollectionGoal.cs" />
+    <Compile Include="Assets\_Yurowm\UltimateMatchThree\Features\Hand\HandBooster.cs" />
     <Compile Include="Assets\_Yurowm\UltimateMatchThree\Scripts\CompleteBonus\CompleteBonus.cs" />
     <Compile Include="Assets\_Yurowm\UltimateMatchThree\Scripts\UI\DinaLabel.cs" />
     <Compile Include="Assets\_Yurowm\UltimateMatchThree\Features\Store\Scripts\BerryStorePurchaser.cs" />
+    <Compile Include="Assets\Arize\GameEvents\GameEventsAssistant.cs" />
     <Compile Include="Assets\AppMetrica\IYandexAppMetrica.cs" />
     <Compile Include="Assets\_Yurowm\DLC\Timer\Scripts\TimerGoal.cs" />
     <Compile Include="Assets\_Yurowm\UltimateMatchThree\Scripts\Facebook\FacebookModeMask.cs" />
@@ -298,83 +388,72 @@
     <Compile Include="Assets\_Yurowm\UltimateMatchThree\Features\Notifications\Notifications.cs" />
     <Compile Include="Assets\_Yurowm\UltimateMatchThree\Scripts\UI\ScoreBarNotch.cs" />
     <Compile Include="Assets\_Yurowm\UltimateMatchThree\Features\Ingredients\Scripts\IngredientChip.cs" />
-    <Compile Include="Assets\FacebookSDK\Examples\Scripts\SubMenus\Pay.cs" />
+    <Compile Include="Assets\FacebookSDK\Examples\Mobile\Scripts\SubMenus\Pay.cs" />
     <Compile Include="Assets\_Yurowm\UltimateMatchThree\Scripts\Assistants\GameCore\SortingLayerAndOrder.cs" />
+    <Compile Include="Assets\FacebookSDK\Examples\Windows\FBWindowsShareManager.cs" />
     <Compile Include="Assets\_Yurowm\UltimateMatchThree\Scripts\Items\ItemInterfaces.cs" />
     <Compile Include="Assets\_Yurowm\UltimateMatchThree\Scripts\Items\Mixes\CrossExplosionMix.cs" />
+    <Compile Include="Assets\FacebookSDK\Examples\Windows\FBWindowsTournamentsManager.cs" />
     <Compile Include="Assets\_Yurowm\UltimateMatchThree\Scripts\UI\PanelAnimations.cs" />
+    <Compile Include="Assets\CrystalFramework\Utility\SafeArea.cs" />
     <Compile Include="Assets\_Yurowm\UltimateMatchThree\Scripts\Assistants\GameCore\WaitWithDelay.cs" />
+    <Compile Include="Assets\_Yurowm\UltimateMatchThree\Scripts\Assistants\BigObjectSettings.cs" />
+    <Compile Include="Assets\Arize\GameEvents\Quests\Collections\Requirements\QuestRequireItem.cs" />
     <Compile Include="Assets\_Yurowm\DebugPanel\AddCoins.cs" />
     <Compile Include="Assets\_Yurowm\UltimateMatchThree\Scripts\Assistants\GameCore\Pair`1.cs" />
     <Compile Include="Assets\AppMetrica\Profile\YandexAppMetricaCounterAttribute.cs" />
+    <Compile Include="Assets\Arize\GameEvents\UI\QuestStars.cs" />
+    <Compile Include="Assets\Arize\GameEvents\Quests\Rewards\Reward.cs" />
     <Compile Include="Assets\_Yurowm\UltimateMatchThree\Features\Advertising\Integrations\AdMobIntegration.cs" />
     <Compile Include="Assets\_Yurowm\UltimateMatchThree\Features\Glass\Scripts\Glass.cs" />
     <Compile Include="Assets\_Yurowm\UltimateMatchThree\Features\Advertising\Integrations\UnityAdsIntegration.cs" />
     <Compile Include="Assets\AppMetrica\YandexAppMetricaRequestTrackingStatus.cs" />
-    <Compile Include="Assets\_Yurowm\UltimateMatchThree\Features\Firework\Scripts\FireworkBooster.cs" />
+    <Compile Include="Assets\_Yurowm\UltimateMatchThree\Features\Firework\Scripts\RainbowBooster.cs" />
+    <Compile Include="Assets\Arize\GameEvents\Quests\Collections\QuestStarsCollection.cs" />
     <Compile Include="Assets\_Yurowm\UltimateMatchThree\Scripts\Assistants\GameCore\ContentSelector.cs" />
+    <Compile Include="Assets\Arize\GameEvents\UI\QuestInfoPanel.cs" />
     <Compile Include="Assets\_Yurowm\UltimateMatchThree\Features\Multiplyer\Multiplyer.cs" />
     <Compile Include="Assets\_Yurowm\UltimateMatchThree\Features\Store\Scripts\BerryStoreItem.cs" />
     <Compile Include="Assets\_Yurowm\UltimateMatchThree\Scripts\Items\Mixes\IMixableChipMix.cs" />
+    <Compile Include="Assets\Arize\GameEvents\GameEvent.cs" />
     <Compile Include="Assets\_Yurowm\UltimateMatchThree\Features\LevelMap\Scripts\LevelMapDisplayer.cs" />
     <Compile Include="Assets\_Yurowm\UltimateMatchThree\Features\Boosters\BoosterGroup.cs" />
     <Compile Include="Assets\_Yurowm\UltimateMatchThree\Features\Boosters\BoosterUI.cs" />
+    <Compile Include="Assets\Arize\GameEvents\Quests\QuestComponent.cs" />
+    <Compile Include="Assets\Arize\GameEvents\Quests\Rewards\RewardType.cs" />
     <Compile Include="Assets\_Yurowm\UltimateMatchThree\Scripts\Items\Chips\Chip.cs" />
     <Compile Include="Assets\_Yurowm\UltimateMatchThree\Scripts\Reference.cs" />
     <Compile Include="Assets\_Yurowm\UltimateMatchThree\Scripts\Assistants\GameCore\URandom.cs" />
     <Compile Include="Assets\_Yurowm\DebugPanel\LevelUnlocker.cs" />
     <Compile Include="Assets\AppsFlyer\IAppsFlyerUserInvite.cs" />
+    <Compile Include="Assets\Samples\iOS 14 Advertising Support\1.0.0\01 Context Screen\Scripts\ContextScreenView.cs" />
     <Compile Include="Assets\_Yurowm\DLC\Dynamite\Scripts\Dynamite.cs" />
     <Compile Include="Assets\_Yurowm\UltimateMatchThree\Scripts\Assistants\ProfileAssistant.cs" />
+    <Compile Include="Assets\_Yurowm\UltimateMatchThree\Scripts\Assistants\RewardContainer.cs" />
     <Compile Include="Assets\_Yurowm\UltimateMatchThree\Scripts\Feedback.cs" />
     <Compile Include="Assets\AppMetrica\YandexAppMetricaIOS.cs" />
+    <Compile Include="Assets\FacebookSDK\Examples\Windows\FBWindowsInitManager.cs" />
+    <Compile Include="Assets\Arize\GameEvents\Quests\Collections\QuestCollection.cs" />
     <Compile Include="Assets\_Yurowm\UltimateMatchThree\Scripts\UI\Effects\UIGradient.cs" />
-    <Compile Include="Assets\FacebookSDK\Examples\Scripts\SubMenus\AppEvents.cs" />
+    <Compile Include="Assets\_Yurowm\UltimateMatchThree\Features\CrossBooster\CrossBooster.cs" />
+    <Compile Include="Assets\FacebookSDK\Examples\Mobile\Scripts\SubMenus\AppEvents.cs" />
+    <Compile Include="Assets\Arize\GameEvents\UI\QuestRarityStars.cs" />
     <Compile Include="Assets\_Yurowm\UltimateMatchThree\Scripts\DeepLevelEdges.cs" />
     <Compile Include="Assets\_Yurowm\UltimateMatchThree\Scripts\Assistants\GameCore\TreeFolder.cs" />
-    <Compile Include="Assets\AppLovinSdk\Adjust\Unity\AdjustEventSuccess.cs" />
-    <Compile Include="Assets\AppLovinSdk\Adjust\Unity\AdjustSessionSuccess.cs" />
-    <Compile Include="Assets\AppLovinSdk\Adjust\Unity\AdjustLogLevel.cs" />
-    <Compile Include="Assets\AppLovinSdk\Adjust\Unity\AdjustSessionFailure.cs" />
-    <Compile Include="Assets\AppLovinSdk\Adjust\Unity\AdjustEventFailure.cs" />
-    <Compile Include="Assets\AppLovinSdk\Adjust\Unity\AdjustEvent.cs" />
-    <Compile Include="Assets\AppLovinSdk\Adjust\Unity\AdjustUtils.cs" />
-    <Compile Include="Assets\AppLovinSdk\Adjust\Unity\AdjustAttribution.cs" />
-    <Compile Include="Assets\_Yurowm\UltimateMatchThree\Features\Advertising\AddLovinSetup.cs" />
-    <Compile Include="Assets\AppLovinSdk\Adjust\iOS\AdjustiOS.cs" />
-    <Compile Include="Assets\AppLovinSdk\Adjust\Unity\Adjust.cs" />
-    <Compile Include="Assets\AppLovinSdk\Adjust\Unity\AdjustAdRevenue.cs" />
-    <Compile Include="Assets\AppLovinSdk\Scripts\HomeScreen.cs" />
-    <Compile Include="Assets\AppLovinSdk\Adjust\3rd Party\SimpleJSON.cs" />
-    <Compile Include="Assets\AppLovinSdk\Adjust\ExampleGUI\ExampleGUI.cs" />
-    <Compile Include="Assets\GoogleMobileAds\Platforms\Android\Mediation\AppLovin\AppLovinClient.cs" />
-    <Compile Include="Assets\GoogleMobileAds\Platforms\iOS\Mediation\AppLovin\AppLovinClient.cs" />
-    <Compile Include="Assets\GoogleMobileAds\Api\Mediation\AppLovin\AppLovin.cs" />
-    <Compile Include="Assets\_Yurowm\UltimateMatchThree\Scripts\Assistants\AssetCore\AssetInfo.cs" />
-    <Compile Include="Assets\AppLovinSdk\Adjust\Unity\AdjustPlayStoreSubscription.cs" />
-    <Compile Include="Assets\GoogleMobileAds\Common\Mediation\AppLovin\IAppLovinClient.cs" />
-    <Compile Include="Assets\GoogleMobileAds\Common\Mediation\AppLovin\DummyClient.cs" />
-    <Compile Include="Assets\AppLovinSdk\Adjust\Unity\AdjustConfig.cs" />
-    <Compile Include="Assets\AppLovinSdk\Adjust\Android\AdjustAndroid.cs" />
-    <Compile Include="Assets\GoogleMobileAds\Platforms\iOS\Mediation\AppLovin\Externs.cs" />
-    <Compile Include="Assets\AppLovinSdk\Adjust\Unity\AdjustEnvironment.cs" />
-    <Compile Include="Assets\AppLovinSdk\Adjust\Windows\AdjustWindows.cs" />
-    <Compile Include="Assets\AppLovinSdk\Adjust\Unity\AdjustAppStoreSubscription.cs" />
-    <Compile Include="Assets\AppLovinSdk\Adjust\Unity\AdjustThirdPartySharing.cs" />
-    <Compile Include="Assets\GoogleMobileAds\Platforms\Mediation\AppLovinClientFactory.cs" />
-    <Compile Include="Assets\_Yurowm\UltimateMatchThree\Features\Advertising\Integrations\AppLovinIntegration.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\Resources\Levels\level_ToZmiCUg2vTXCwkV.xml" />
     <None Include="Assets\Resources\Levels\level_ZTwmmQugMjQCwUYR.xml" />
     <None Include="Assets\Resources\Levels\level_Ij6YkGFXve3C4Vd3.xml" />
     <None Include="Assets\Resources\Levels\level_nuAEvqLEms8uwqUE.xml" />
+    <None Include="Assets\DOTween\readme.txt" />
     <None Include="Assets\Resources\Levels\level_vTQGduDJ5lu0CG7M.xml" />
     <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />
-    <None Include="Assets\AppLovinSdk\Adjust\Windows\WindowsUap.dll" />
     <None Include="Assets\_Yurowm\UltimateMatchThree\Shaders\UITextureProgression.shader" />
+    <None Include="Assets\FacebookSDK\Plugins\Windows\x86\XInputInterface.dll" />
     <None Include="Assets\Resources\Levels\level_ROtMvgMxbkmWKQ7d.xml" />
     <None Include="Assets\Resources\Levels\level_JmjeNaO54nTNxtic.xml" />
+    <None Include="Assets\FacebookSDK\Plugins\Windows\x64\libcrypto-3-x64.dll" />
     <None Include="Assets\Resources\Levels\level_ah0EUQPitaaGTcue.xml" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile Overlay.shader" />
     <None Include="Assets\Resources\Levels\level_zAI917cWLIkpuFGK.xml" />
@@ -383,6 +462,8 @@
     <None Include="Assets\Resources\Levels\level_uLEP4XEHRmpM1Jhd.xml" />
     <None Include="Assets\Resources\Levels\level_YBggV8gxImfykZ5b.xml" />
     <None Include="Assets\Resources\Levels\level_iUu5C0Hg88dtbGQg.xml" />
+    <None Include="Assets\FacebookSDK\Plugins\Windows\x64\libcurl.dll" />
+    <None Include="Assets\FacebookSDK\Plugins\Windows\x64\tinyxml2.dll" />
     <None Include="Assets\Resources\Levels\level_vaeXiaCVpCcaHVW3.xml" />
     <None Include="Assets\Resources\Levels\level_H9cFX1LgiyuF0C5q.xml" />
     <None Include="Assets\Resources\Levels\level_h0WfVTCTEZnrzf1a.xml" />
@@ -395,56 +476,57 @@
     <None Include="Assets\Resources\Levels\level_VYpo034UF5AQGhyX.xml" />
     <None Include="Assets\Resources\Levels\level_nMJXwyFzK0D6p2e9.xml" />
     <None Include="Assets\GoogleMobileAds\GoogleMobileAds.Common.dll" />
+    <None Include="Assets\FacebookSDK\Plugins\Windows\x86\LibFBGUI.dll" />
     <None Include="Assets\_Yurowm\UltimateMatchThree\Shaders\Sprites-Default.shader" />
     <None Include="Assets\Resources\Levels\level_cPqnAoiUUioWvmB4.xml" />
     <None Include="Assets\Resources\Levels\level_CLuaB2Z9FrwwEE7K.xml" />
-    <None Include="Assets\Adjust\Android\AdjustAndroidManifest.xml" />
     <None Include="Assets\Resources\Levels\level_bfsfZ0COcYOsphvW.xml" />
     <None Include="Assets\Resources\Levels\level_jaBDhBJyx4RgLSns.xml" />
     <None Include="Assets\Resources\Levels\level_G3rxQRHaWWTNr9uA.xml" />
     <None Include="Assets\Resources\Levels\level_5I48dO4a8nm5Hd0z.xml" />
+    <None Include="Assets\FacebookSDK\Plugins\Windows\Facebook.Unity.Windows.dll" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_Bitmap.shader" />
     <None Include="Assets\Resources\Levels\level_JkW6vBMay2Efe0hF.xml" />
     <None Include="Assets\Resources\Levels\level_sblkTJSp7718ZKzS.xml" />
-    <None Include="Assets\AppLovinSdk\Adjust\Windows\W81\Win81Interface.dll" />
     <None Include="Assets\Resources\Levels\level_pgHhuPBAMamFMAwD.xml" />
     <None Include="Assets\_Yurowm\UltimateMatchThree\Icons\Android\res\mipmap-anydpi-v26\ic_launcher.xml" />
     <None Include="Assets\_Yurowm\UltimateMatchThree\Shaders\Sprites-ScreenSpace.shader" />
     <None Include="Assets\Resources\Levels\level_FOs7Zk9JAXYUJ1aN.xml" />
     <None Include="Assets\GoogleMobileAds\GoogleMobileAds.dll" />
+    <None Include="Assets\FacebookSDK\Plugins\Windows\x86\libcrypto-3.dll" />
     <None Include="Assets\_Yurowm\UltimateMatchThree\Features\MatchClick\SpriteHelper\SpriteHelper.shader" />
     <None Include="Assets\Resources\Levels\level_LpGE0Q73teU2zfKq.xml" />
     <None Include="Assets\Resources\Levels\level_fOAKtIk0uJDaNych.xml" />
     <None Include="Assets\Resources\Levels\level_y3N7haJWFDcoZcEr.xml" />
     <None Include="Assets\Resources\Levels\level_N1ti0wNw9j9QbaWF.xml" />
-    <None Include="Assets\AppLovinSdk\Adjust\Windows\WindowsPcl.dll" />
+    <None Include="Assets\FacebookSDK\Plugins\Windows\x64\LibFBGPlatform.dll" />
     <None Include="Assets\Resources\Levels\level_uDtNQH5V025wIMoc.xml" />
     <None Include="Assets\Resources\Levels\level_aqlC46OAu9tZ9HoR.xml" />
     <None Include="Assets\Resources\Levels\level_8Svv1CBrdpnCmj0b.xml" />
-    <None Include="Assets\AppLovinSdk\Adjust\Windows\Stubs\Win10Interface.dll" />
     <None Include="Assets\Resources\Levels\level_jIs2BcZq7JxL8Lfa.xml" />
     <None Include="Assets\GoogleMobileAds\GoogleMobileAds.iOS.dll" />
     <None Include="Assets\Resources\Levels\level_L110aDVhnNopzHMl.xml" />
     <None Include="Assets\Resources\Levels\level_lekPz5hdEXhidrR8.xml" />
+    <None Include="Assets\GoogleMobileAds\GoogleMobileAds_version-7.3.0_manifest.txt" />
     <None Include="Assets\Resources\Levels\level_zWgLDDcRwvuQLDzj.xml" />
     <None Include="Assets\TextMesh Pro\Shaders\TMPro_Mobile.cginc" />
     <None Include="Assets\Resources\Levels\level_8hcCv6id0iO837ty.xml" />
     <None Include="Assets\Resources\Levels\level_G5KGJkBNkN4Bg2cT.xml" />
+    <None Include="Assets\FacebookSDK\Plugins\Windows\x86\tinyxml2.dll" />
     <None Include="Assets\Resources\Levels\level_HfcUU7JFDuSLGAV6.xml" />
     <None Include="Assets\Resources\Levels\level_aESmH4RrjmJpxdEQ.xml" />
     <None Include="Assets\_Yurowm\UltimateMatchThree\Shaders\AlphaOverlayed.shader" />
     <None Include="Assets\Resources\Settings\SessionDirector.xml" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF SSD.shader" />
     <None Include="Assets\Resources\Levels\level_VwWSE67sN6ibcbnL.xml" />
-    <None Include="Assets\AppLovinSdk\Adjust\Windows\WS\AdjustWS.dll" />
     <None Include="Assets\Resources\Levels\level_ivkPzhRY8UHj3cJ4.xml" />
     <None Include="Assets\Resources\Levels\level_IpJONCc7Ot0QjKHc.xml" />
-    <None Include="Assets\AppLovinSdk\Adjust\Windows\WU10\Win10Interface.dll" />
     <None Include="Assets\Resources\Levels\level_yYdbseSFYR53ZRFN.xml" />
     <None Include="Assets\Resources\Levels\level_XA3JCZOQWvKcrBWf.xml" />
     <None Include="Assets\Resources\Levels\level_IVCWDkdCQysqKuHq.xml" />
     <None Include="Assets\Resources\Levels\level_8OYy4UoFVVNpA9Jf.xml" />
     <None Include="Assets\Resources\Levels\level_rh1PSxRdZc5uDCM8.xml" />
+    <None Include="Assets\FacebookSDK\Plugins\Windows\x86\WebView2Loader.dll" />
     <None Include="Assets\Resources\Levels\level_CZbhrezuD7UKL26O.xml" />
     <None Include="Assets\FacebookSDK\Plugins\Settings\Facebook.Unity.Settings.dll" />
     <None Include="Assets\Resources\Levels\level_I3SVWtL3QiJ1pRuC.xml" />
@@ -452,7 +534,6 @@
     <None Include="Assets\Resources\Levels\level_FHgLrv62325j0v7s.xml" />
     <None Include="Assets\Resources\Levels\level_v7F55faY2JiI4Vsm.xml" />
     <None Include="Assets\Resources\Levels\level_o1b4g4ocXnalx4mF.xml" />
-    <None Include="Assets\AppLovinSdk\Adjust\Windows\WS\WinWsInterface.dll" />
     <None Include="Assets\Resources\Levels\level_16l0Dwn9sp4UnLU4.xml" />
     <None Include="Assets\Resources\Levels\level_AftJabZjteFBKwfq.xml" />
     <None Include="Assets\Resources\Levels\level_xZ6TZrpmr0D6J6tV.xml" />
@@ -460,17 +541,22 @@
     <None Include="Assets\Resources\Levels\level_1l6f1k0LEXpcw3OJ.xml" />
     <None Include="Assets\Resources\Levels\level_B7j1k1NIoorLdKaZ.xml" />
     <None Include="Assets\FacebookSDK\Plugins\Canvas\Facebook.Unity.Canvas.dll" />
+    <None Include="Assets\FacebookSDK\Plugins\Windows\x64\libssl-3-x64.dll" />
     <None Include="Assets\Resources\Levels\level_A1G3MWf5scgtxoFv.xml" />
     <None Include="Assets\Resources\Levels\level_4Xvz8NqaP1hCQaDq.xml" />
     <None Include="Assets\_Yurowm\UltimateMatchThree\Shaders\HSVShiftShaderAdd.shader" />
     <None Include="Assets\Resources\Levels\level_bZ2NsmT3K4PivRlq.xml" />
     <None Include="Assets\Resources\Levels\level_ArGDbn6HlLg5NFqn.xml" />
+    <None Include="Assets\DOTween\DOTween.XML" />
     <None Include="Assets\Resources\Levels\level_SuZPjKsD4dqKxyXl.xml" />
+    <None Include="Assets\FacebookSDK\Plugins\Windows\x64\zlib1.dll" />
     <None Include="Assets\Resources\Levels\level_zD6vczn7HfGcMx80.xml" />
     <None Include="Assets\GoogleMobileAds\GoogleMobileAds.Core.dll" />
+    <None Include="Assets\FacebookSDK\Plugins\Windows\x86\zlib1.dll" />
     <None Include="Assets\Resources\Levels\level_ZmQN4pEryDMLG7xg.xml" />
     <None Include="Assets\Resources\Levels\level_UJNwGM676XExO21H.xml" />
     <None Include="Assets\Resources\Levels\level_WXZP7Us2Kv7krDNl.xml" />
+    <None Include="Assets\DOTween\DOTween.dll" />
     <None Include="Assets\GoogleMobileAds\link.xml" />
     <None Include="Assets\Resources\Levels\level_7HrJ5ft8GKYN4KQM.xml" />
     <None Include="Assets\Resources\Levels\level_SjnrvAtVpyJrYjBg.xml" />
@@ -487,6 +573,7 @@
     <None Include="Assets\Resources\Levels\level_WfNi9QLpAHExwZE7.xml" />
     <None Include="Assets\Resources\Levels\level_Os2J3mqLnUvnBqoy.xml" />
     <None Include="Assets\Resources\Levels\level_lggcg8vnIsdiOoxP.xml" />
+    <None Include="Assets\FacebookSDK\Plugins\Windows\x86\libcurl.dll" />
     <None Include="Assets\Resources\Levels\level_OMkXwjng7Tfwu6vR.xml" />
     <None Include="Assets\Resources\Levels\level_6ODYXKZS2G9qamdw.xml" />
     <None Include="Assets\Resources\Levels\level_UmEU4ZBIdvnrtght.xml" />
@@ -497,18 +584,15 @@
     <None Include="Assets\Resources\Levels\level_ylms5F5OHDYn7tSn.xml" />
     <None Include="Assets\Resources\Levels\level_PSAwyX4XrBrPoWaY.xml" />
     <None Include="Assets\Resources\Levels\level_IuvKAA28Vxy3uX31.xml" />
-    <None Include="Assets\AppLovinSdk\Adjust\Windows\Stubs\WinWsInterface.dll" />
     <None Include="Assets\Resources\Levels\level_HGSDTVdnJoYO8kYT.xml" />
     <None Include="Assets\Resources\Levels\level_gPL3AGeVs28MjYfY.xml" />
     <None Include="Assets\Resources\Levels\level_zMnqa8RmGxpU9vKJ.xml" />
     <None Include="Assets\TextMesh Pro\Sprites\EmojiOne Attribution.txt" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_Bitmap-Custom-Atlas.shader" />
     <None Include="Assets\Resources\Levels\level_7VcntNLWZWUbZTip.xml" />
-    <None Include="Assets\Resources\Levels\level_yQ78vuAgC3ji1Sfo.xml" />
     <None Include="Assets\Resources\Levels\level_11EfuYprpUzAXLqL.xml" />
     <None Include="Assets\Resources\Levels\level_MapgxyaexbKJqOOu.xml" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF.shader" />
-    <None Include="Assets\AppLovinSdk\Plugins\Android\res\xml\network_security_config.xml" />
     <None Include="Assets\Resources\Levels\level_yZLpKAu2C6gGKKPv.xml" />
     <None Include="Assets\Resources\Levels\level_BStDoesiD4kEMhIv.xml" />
     <None Include="Assets\Resources\Levels\level_p4iJcn4b3YRhMTaj.xml" />
@@ -526,7 +610,9 @@
     <None Include="Assets\Resources\Levels\level_uKJBwRhnmDrxS5v6.xml" />
     <None Include="Assets\Resources\Levels\level_8LGRxPEZOD0dOPgb.xml" />
     <None Include="Assets\Resources\Levels\level_qawcDlkUfJ56UWhk.xml" />
-    <None Include="Assets\FacebookSDK\Plugins\Gameroom\Facebook.Unity.Gameroom.dll" />
+    <None Include="Assets\FacebookSDK\Plugins\Windows\x64\LibFBGUI.dll" />
+    <None Include="Assets\_Yurowm\UltimateMatchThree\Shaders\ThunderOverlayed.shader" />
+    <None Include="Assets\FacebookSDK\Plugins\Windows\x64\cpprest_2_10.dll" />
     <None Include="Assets\TextMesh Pro\Shaders\TMPro_Surface.cginc" />
     <None Include="Assets\Resources\Levels\level_JJP7Th6R94PeSV4B.xml" />
     <None Include="Assets\Resources\Levels\level_I6HpY8CIsa7NvwTR.xml" />
@@ -536,6 +622,7 @@
     <None Include="Assets\Resources\Levels\level_zj7xpkBd99tRaxhg.xml" />
     <None Include="Assets\Resources\Levels\level_GXiEU7M00zsQtroX.xml" />
     <None Include="Assets\Resources\Levels\level_yZxLvPpkufUBehlN.xml" />
+    <None Include="Assets\FacebookSDK\Plugins\Windows\x86\libssl-3.dll" />
     <None Include="Assets\_Yurowm\UltimateMatchThree\Shaders\Unlit2Sides.shader" />
     <None Include="Assets\Resources\Levels\level_bsBJLDJFrmHOnFqf.xml" />
     <None Include="Assets\Resources\Levels\level_XQcbF3RxR8fB7Fdc.xml" />
@@ -543,26 +630,23 @@
     <None Include="Assets\Resources\Levels\level_SRBZIL4NZ2yL3xch.xml" />
     <None Include="Assets\_Yurowm\UltimateMatchThree\Shaders\Particle BlendStencil.shader" />
     <None Include="Assets\Resources\Levels\level_MOOb22nszGDCCFTc.xml" />
-    <None Include="Assets\AppLovinSdk\Adjust\Windows\Stubs\Win81Interface.dll" />
+    <None Include="Assets\FacebookSDK\Plugins\Windows\x64\XInputInterface.dll" />
     <None Include="Assets\Resources\Levels\level_V5LgNwkVzYeGpFL7.xml" />
     <None Include="Assets\Resources\Levels\level_Agh4oHKywg756SS1.xml" />
     <None Include="Assets\Resources\Levels\level_5GQCqketJG6Ezzlu.xml" />
-    <None Include="Assets\Resources\Languages\Russian.xml" />
     <None Include="Assets\Resources\Levels\level_dnSkW6D7ceO6UsGX.xml" />
     <None Include="Assets\_Yurowm\UltimateMatchThree\Shaders\HSVShader.shader" />
     <None Include="Assets\Resources\Levels\level_tY2lV7TMkURlJ29p.xml" />
-    <None Include="Assets\AppLovinSdk\MaxSdk\Mediation\MediationAdapters.txt" />
     <None Include="Assets\Resources\Levels\level_yHqAFMEd2nqdHDid.xml" />
     <None Include="Assets\_Yurowm\UltimateMatchThree\Shaders\UIColorProgression.shader" />
     <None Include="Assets\Resources\Levels\level_79Lniv9Z3R6BrbK0.xml" />
     <None Include="Assets\Resources\Levels\level_UQs2FA5VZ4IVrTdV.xml" />
     <None Include="Assets\TextMesh Pro\Resources\LineBreaking Following Characters.txt" />
     <None Include="Assets\Resources\Levels\level_Nz7LOhX5GuoTJ7rL.xml" />
-    <None Include="Assets\Resources\Levels\level_kNb9CKXjn2jWiXVo.xml" />
     <None Include="Assets\Resources\Levels\level_ec0wzhuC44m1Rmhl.xml" />
     <None Include="Assets\Resources\Levels\level_LMO3i2q9NhnAbFuf.xml" />
     <None Include="Assets\Resources\Levels\level_sZhH3iKeIXcvsbVP.xml" />
-    <None Include="Assets\AppLovinSdk\Adjust\Windows\WU10\AdjustUAP10.dll" />
+    <None Include="Assets\FacebookSDK\Plugins\Windows\LibFBGManaged.dll" />
     <None Include="Assets\GoogleMobileAds\GoogleMobileAds.Unity.dll" />
     <None Include="Assets\Resources\Levels\level_W8abYZtqa2pls1yz.xml" />
     <None Include="Assets\Resources\Levels\level_751o0t2NlYQHqslv.xml" />
@@ -571,6 +655,7 @@
     <None Include="Assets\Resources\Levels\level_weU4amSZTiS67KpY.xml" />
     <None Include="Assets\Resources\Levels\level_vFZk50FSXhkpnR4Y.xml" />
     <None Include="Assets\Resources\Levels\level_8HWULMs8G4fkuG3Q.xml" />
+    <None Include="Assets\FacebookSDK\Plugins\Windows\XInputDotNetPure.dll" />
     <None Include="Assets\Resources\Levels\level_KJHhthfxWWJyyX7w.xml" />
     <None Include="Assets\Resources\Levels\level_1u3tgVQ4XkcNvOEK.xml" />
     <None Include="Assets\FacebookSDK\Plugins\Android\Facebook.Unity.Android.dll" />
@@ -582,11 +667,13 @@
     <None Include="Assets\Resources\Levels\level_49sTfazxED4ooNE8.xml" />
     <None Include="Assets\Resources\Levels\level_Kq06jbh3KXwnuWHh.xml" />
     <None Include="Assets\Resources\Levels\level_sD16UOnvayYqGOXg.xml" />
+    <None Include="Assets\FacebookSDK\Plugins\Windows\x86\cpprest_2_10.dll" />
     <None Include="Assets\Resources\Levels\level_5VTcIav2ZZJRUPQr.xml" />
     <None Include="Assets\Resources\Levels\level_oeeWvqmGEeJHWwwm.xml" />
     <None Include="Assets\_Yurowm\UltimateMatchThree\Shaders\Sprites-DiffuseStencil.shader" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile Masking.shader" />
     <None Include="Assets\Resources\Levels\level_Id4yKAbl6kBZCOpx.xml" />
+    <None Include="Assets\FacebookSDK\Plugins\Windows\x86\LibFBGPlatform.dll" />
     <None Include="Assets\Resources\Levels\level_W76iIVkXpSj2vEed.xml" />
     <None Include="Assets\Resources\Levels\level_VC7vMqPPwwgnJBmI.xml" />
     <None Include="Assets\Resources\Levels\level_nTHlBaGXePQJH2XU.xml" />
@@ -597,9 +684,11 @@
     <None Include="Assets\Resources\Levels\level_tynW1gRmU2hrSnmh.xml" />
     <None Include="Assets\Resources\Levels\level_yGYyetXgLZHo5UaG.xml" />
     <None Include="Assets\Resources\Levels\level_guqJ0qxlRr6zBA4N.xml" />
+    <None Include="Assets\Adjust\Android\AndroidManifest.xml" />
     <None Include="Assets\Resources\Levels\level_JWYY9c07ktsXYk36.xml" />
     <None Include="Assets\Resources\Levels\level_EtH1NPROpJR9qFl6.xml" />
     <None Include="Assets\Resources\Levels\level_cETMw8s4gscKczGp.xml" />
+    <None Include="Assets\FacebookSDK\Plugins\Windows\x64\WebView2Loader.dll" />
     <None Include="Assets\Resources\Levels\level_SY2XmqG3LjglXjWE.xml" />
     <None Include="Assets\Resources\Levels\level_fO3XfkoNLU8cmQsT.xml" />
     <None Include="Assets\Resources\Levels\level_YkyQfaKduHyq67ns.xml" />
@@ -608,13 +697,9 @@
     <None Include="Assets\Resources\Levels\level_HNTG5ByYRQRJLR1N.xml" />
     <None Include="Assets\_Yurowm\UltimateMatchThree\Shaders\DiffuseStencil.shader" />
     <None Include="Assets\Resources\Levels\level_I5YGbBJvLcezI9Hx.xml" />
-    <None Include="Assets\AppLovinSdk\Adjust\Windows\Newtonsoft.Json.dll" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF Overlay.shader" />
     <None Include="Assets\unity3d.txt" />
-    <None Include="Assets\AppLovinSdk\Plugins\Android\AndroidManifest.xml" />
-    <None Include="Assets\GoogleMobileAds\GoogleMobileAds_version-6.0.2_manifest.txt" />
     <None Include="Assets\Resources\Levels\level_cq8ThgwzRRekRXyT.xml" />
-    <None Include="Assets\AppLovinSdk\Adjust\Windows\W81\AdjustWP81.dll" />
     <None Include="Assets\_Yurowm\UltimateMatchThree\Shaders\SRLiquid.shader" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_Bitmap-Mobile.shader" />
     <None Include="Assets\_Yurowm\UltimateMatchThree\Shaders\SpriteWithAlpha.shader" />
@@ -636,7 +721,6 @@
     <None Include="Assets\Resources\Levels\level_lTrc3moD6o6Lmwyt.xml" />
     <None Include="Assets\Resources\Levels\level_WQaoKd0LrECfWayW.xml" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_Sprite.shader" />
-    <None Include="Assets\FacebookSDK\Plugins\Gameroom\FacebookNamedPipeClient.dll" />
     <None Include="Assets\Resources\Levels\level_tPQ9mYYNk3v35km5.xml" />
     <None Include="Assets\Resources\Levels\level_k75lnx9Iz76wsY52.xml" />
     <None Include="Assets\Resources\Levels\level_DWQeohwsQy6bGtxM.xml" />
@@ -877,6 +961,12 @@
     <Reference Include="UnityEditor.UnityConnectModule">
       <HintPath>C:\Program Files\DU_Games\2021.3.6f1\Editor\Data\Managed\UnityEngine\UnityEditor.UnityConnectModule.dll</HintPath>
     </Reference>
+    <Reference Include="Facebook.Unity.Windows">
+      <HintPath>Assets\FacebookSDK\Plugins\Windows\Facebook.Unity.Windows.dll</HintPath>
+    </Reference>
+    <Reference Include="XInputDotNetPure">
+      <HintPath>Assets\FacebookSDK\Plugins\Windows\XInputDotNetPure.dll</HintPath>
+    </Reference>
     <Reference Include="GoogleMobileAds.Common">
       <HintPath>Assets\GoogleMobileAds\GoogleMobileAds.Common.dll</HintPath>
     </Reference>
@@ -886,8 +976,20 @@
     <Reference Include="GoogleMobileAds.Unity">
       <HintPath>Assets\GoogleMobileAds\GoogleMobileAds.Unity.dll</HintPath>
     </Reference>
+    <Reference Include="Facebook.Unity.Android">
+      <HintPath>Assets\FacebookSDK\Plugins\Android\Facebook.Unity.Android.dll</HintPath>
+    </Reference>
+    <Reference Include="LibFBGManaged">
+      <HintPath>Assets\FacebookSDK\Plugins\Windows\LibFBGManaged.dll</HintPath>
+    </Reference>
+    <Reference Include="Facebook.Unity.Canvas">
+      <HintPath>Assets\FacebookSDK\Plugins\Canvas\Facebook.Unity.Canvas.dll</HintPath>
+    </Reference>
     <Reference Include="Newtonsoft.Json">
       <HintPath>Library\PackageCache\com.unity.nuget.newtonsoft-json@3.0.2\Runtime\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="DOTween">
+      <HintPath>Assets\DOTween\DOTween.dll</HintPath>
     </Reference>
     <Reference Include="Facebook.Unity.Settings">
       <HintPath>Assets\FacebookSDK\Plugins\Settings\Facebook.Unity.Settings.dll</HintPath>
@@ -897,48 +999,6 @@
     </Reference>
     <Reference Include="Facebook.Unity">
       <HintPath>Assets\FacebookSDK\Plugins\Facebook.Unity.dll</HintPath>
-    </Reference>
-    <Reference Include="Facebook.Unity.Gameroom">
-      <HintPath>Assets\FacebookSDK\Plugins\Gameroom\Facebook.Unity.Gameroom.dll</HintPath>
-    </Reference>
-    <Reference Include="winrt">
-      <HintPath>Assets\Plugins\UnityPurchasing\winrt\winrt.dll</HintPath>
-    </Reference>
-    <Reference Include="Purchasing.Common">
-      <HintPath>Assets\Plugins\UnityPurchasing\Bin\Purchasing.Common.dll</HintPath>
-    </Reference>
-    <Reference Include="Apple">
-      <HintPath>Assets\Plugins\UnityPurchasing\Bin\Apple\Apple.dll</HintPath>
-    </Reference>
-    <Reference Include="Editor">
-      <HintPath>Assets\Plugins\UnityPurchasing\Bin\Editor.dll</HintPath>
-    </Reference>
-    <Reference Include="FacebookStore">
-      <HintPath>Assets\Plugins\UnityPurchasing\Bin\Facebook\FacebookStore.dll</HintPath>
-    </Reference>
-    <Reference Include="FacebookNamedPipeClient">
-      <HintPath>Assets\FacebookSDK\Plugins\Gameroom\FacebookNamedPipeClient.dll</HintPath>
-    </Reference>
-    <Reference Include="AppleMacos">
-      <HintPath>Assets\Plugins\UnityPurchasing\Bin\Apple\AppleMacos.dll</HintPath>
-    </Reference>
-    <Reference Include="Win81Interface">
-      <HintPath>Assets\AppLovinSdk\Adjust\Windows\Stubs\Win81Interface.dll</HintPath>
-    </Reference>
-    <Reference Include="Win10Interface">
-      <HintPath>Assets\AppLovinSdk\Adjust\Windows\Stubs\Win10Interface.dll</HintPath>
-    </Reference>
-    <Reference Include="WinWsInterface">
-      <HintPath>Assets\AppLovinSdk\Adjust\Windows\Stubs\WinWsInterface.dll</HintPath>
-    </Reference>
-    <Reference Include="Security">
-      <HintPath>Assets\Plugins\UnityPurchasing\Bin\Security\live\Security.dll</HintPath>
-    </Reference>
-    <Reference Include="Stores">
-      <HintPath>Assets\Plugins\UnityPurchasing\Bin\Stores.dll</HintPath>
-    </Reference>
-    <Reference Include="AppleCore">
-      <HintPath>Assets\Plugins\UnityPurchasing\Bin\Apple\AppleCore.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.iOS.Extensions.Xcode">
       <HintPath>C:\Program Files\DU_Games\2021.3.6f1\Editor\Data\PlaybackEngines\iOSSupport\UnityEditor.iOS.Extensions.Xcode.dll</HintPath>
@@ -1327,8 +1387,17 @@
     <Reference Include="System.Xml.XPath.XDocument">
       <HintPath>C:\Program Files\DU_Games\2021.3.6f1\Editor\Data\UnityReferenceAssemblies\unity-4.8-api\Facades\System.Xml.XPath.XDocument.dll</HintPath>
     </Reference>
+    <Reference Include="Purchasing.Common">
+      <HintPath>Library\ScriptAssemblies\Purchasing.Common.dll</HintPath>
+    </Reference>
     <Reference Include="Unity.VSCode.Editor">
       <HintPath>Library\ScriptAssemblies\Unity.VSCode.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.Notifications">
+      <HintPath>Library\ScriptAssemblies\Unity.Notifications.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.Purchasing">
+      <HintPath>Library\ScriptAssemblies\UnityEngine.Purchasing.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
       <HintPath>Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll</HintPath>
@@ -1339,8 +1408,17 @@
     <Reference Include="Unity.Timeline">
       <HintPath>Library\ScriptAssemblies\Unity.Timeline.dll</HintPath>
     </Reference>
+    <Reference Include="Unity.Services.Analytics.Editor">
+      <HintPath>Library\ScriptAssemblies\Unity.Services.Analytics.Editor.dll</HintPath>
+    </Reference>
     <Reference Include="Unity.TextMeshPro">
       <HintPath>Library\ScriptAssemblies\Unity.TextMeshPro.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.Purchasing.SecurityStub">
+      <HintPath>Library\ScriptAssemblies\UnityEngine.Purchasing.SecurityStub.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.Services.Analytics">
+      <HintPath>Library\ScriptAssemblies\Unity.Services.Analytics.dll</HintPath>
     </Reference>
     <Reference Include="Unity.2D.Sprite.Editor">
       <HintPath>Library\ScriptAssemblies\Unity.2D.Sprite.Editor.dll</HintPath>
@@ -1351,8 +1429,14 @@
     <Reference Include="Unity.Rider.Editor">
       <HintPath>Library\ScriptAssemblies\Unity.Rider.Editor.dll</HintPath>
     </Reference>
+    <Reference Include="Unity.Advertisement.IosSupport.Editor">
+      <HintPath>Library\ScriptAssemblies\Unity.Advertisement.IosSupport.Editor.dll</HintPath>
+    </Reference>
     <Reference Include="UnityEngine.UI">
       <HintPath>Library\ScriptAssemblies\UnityEngine.UI.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.Notifications.iOS">
+      <HintPath>Library\ScriptAssemblies\Unity.Notifications.iOS.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Services.Core">
       <HintPath>Library\ScriptAssemblies\Unity.Services.Core.dll</HintPath>
@@ -1360,56 +1444,43 @@
     <Reference Include="Unity.Services.Core.Analytics">
       <HintPath>Library\ScriptAssemblies\Unity.Services.Core.Analytics.dll</HintPath>
     </Reference>
+    <Reference Include="UnityEngine.Purchasing.SecurityCore">
+      <HintPath>Library\ScriptAssemblies\UnityEngine.Purchasing.SecurityCore.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.Purchasing.Codeless">
+      <HintPath>Library\ScriptAssemblies\UnityEngine.Purchasing.Codeless.dll</HintPath>
+    </Reference>
     <Reference Include="Unity.Services.Core.Environments">
       <HintPath>Library\ScriptAssemblies\Unity.Services.Core.Environments.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Timeline.Editor">
       <HintPath>Library\ScriptAssemblies\Unity.Timeline.Editor.dll</HintPath>
     </Reference>
-    <Reference Include="UnityEngine.Purchasing">
-      <HintPath>Library\ScriptAssemblies\UnityEngine.Purchasing.dll</HintPath>
+    <Reference Include="UnityEngine.Purchasing.Stores">
+      <HintPath>Library\ScriptAssemblies\UnityEngine.Purchasing.Stores.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.Purchasing">
       <HintPath>Library\ScriptAssemblies\UnityEditor.Purchasing.dll</HintPath>
     </Reference>
-    <Reference Include="Unity.PlasticSCM.Editor">
-      <HintPath>Library\ScriptAssemblies\Unity.PlasticSCM.Editor.dll</HintPath>
+    <Reference Include="Unity.Notifications.Android">
+      <HintPath>Library\ScriptAssemblies\Unity.Notifications.Android.dll</HintPath>
     </Reference>
-    <Reference Include="Unity.DeviceSimulator.Editor">
-      <HintPath>Library\ScriptAssemblies\Unity.DeviceSimulator.Editor.dll</HintPath>
-    </Reference>
-    <Reference Include="com.unity.quicksearch">
-      <HintPath>Library\ScriptAssemblies\com.unity.quicksearch.dll</HintPath>
+    <Reference Include="Unity.Advertisement.IosSupport">
+      <HintPath>Library\ScriptAssemblies\Unity.Advertisement.IosSupport.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="Assembly-CSharp-firstpass.csproj">
-      <Project>{8D1A8ECA-015D-E71E-5A8B-A495D5E64CCE}</Project>
-      <Name>Assembly-CSharp-firstpass</Name>
-    </ProjectReference>
-    <ProjectReference Include="Ninsar.Helper.csproj">
-      <Project>{316059D9-C431-D31C-407B-FE74BD190196}</Project>
-      <Name>Ninsar.Helper</Name>
+    <ProjectReference Include="Arize.Helper.csproj">
+      <Project>{98B8A816-CE11-DCC0-2C60-A9FD11614BA2}</Project>
+      <Name>Arize.Helper</Name>
     </ProjectReference>
     <ProjectReference Include="GoogleMobileAds.Editor.csproj">
-      <Project>{D6DCA8B6-C709-F0F9-BB68-4297CC31D243}</Project>
+      <Project>{8DA3A516-CC3A-0F7F-4D51-0C38925B7C20}</Project>
       <Name>GoogleMobileAds.Editor</Name>
     </ProjectReference>
     <ProjectReference Include="com.soprachevak.safe-area.Runtime.csproj">
-      <Project>{A0BB348C-13A8-CF2F-E654-4FBBEA6761BC}</Project>
+      <Project>{1F84A2D5-5E33-CF09-D694-BE8F8AE1B4D3}</Project>
       <Name>com.soprachevak.safe-area.Runtime</Name>
-    </ProjectReference>
-    <ProjectReference Include="MaxSdk.Scripts.Editor.csproj">
-      <Project>{9E511AB1-3F13-14B2-CC10-9D803ABE40E3}</Project>
-      <Name>MaxSdk.Scripts.Editor</Name>
-    </ProjectReference>
-    <ProjectReference Include="MaxSdk.Scripts.csproj">
-      <Project>{696F6DD0-2B71-9A0D-BACD-A4CD90DAA4C9}</Project>
-      <Name>MaxSdk.Scripts</Name>
-    </ProjectReference>
-    <ProjectReference Include="MaxSdk.Scripts.IntegrationManager.Editor.csproj">
-      <Project>{C3FAA923-C03D-D19A-8602-73E5FC8D3791}</Project>
-      <Name>MaxSdk.Scripts.IntegrationManager.Editor</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
